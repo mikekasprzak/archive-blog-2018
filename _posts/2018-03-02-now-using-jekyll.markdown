@@ -1,9 +1,10 @@
 ---
+title: Now running Jekyll
 layout: post
-title:  "Now running Jekyll"
-date:   2018-03-02 13:28:06 -0500
+date: '2018-03-02 13:28:06 -0500'
 categories: jekyll update
 ---
+
 Okay! I've migrated my blog to Jekyll (and GitHub).
 
 I followed this tutorial: https://girliemac.com/blog/2013/12/27/wordpress-to-jekyll/
