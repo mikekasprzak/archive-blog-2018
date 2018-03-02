@@ -1,3 +1,3 @@
 #!/bin/sh
 
-jekyll server --incremental
+jekyll server #--incremental
