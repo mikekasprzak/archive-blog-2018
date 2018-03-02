@@ -1,9 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Now running Jekyll"
 date:   2018-03-02 13:28:06 -0500
 categories: jekyll update
 ---
+Okay! I've migrated my blog to Jekyll (and GitHub).
+
+I followed this tutorial: https://girliemac.com/blog/2013/12/27/wordpress-to-jekyll/
+
+Notably since I ran a very old WordPress blog, I had to manually copy over all the images and things NOT found in the `/wp-content/` folder. This has made my tree a bit less organized (`/content/`, `/wp-includes/`) but at least it's all there.
+
+Repo is here: https://github.com/mikekasprzak/blog
+
+(not that anyone other than me cares)
+
+***
+
+# Welcome to Jekyll!
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
