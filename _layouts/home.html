@@ -26,11 +26,11 @@ layout: default
         {% if date != last_date %}
         <span class="post-meta">{{ date }}</span>
         {% endif %}
-        <h4>
+        <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h4>
+        </h3>
         {% if site.show_excerpts %}
           {{ post.excerpt }}
         {% endif %}
