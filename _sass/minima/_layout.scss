@@ -5,16 +5,15 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  background: #f4f4f4;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
-.site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+.site-title,
+.site-subtitle {
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
@@ -22,6 +21,21 @@
   &:visited {
     color: $grey-color-dark;
   }
+}
+
+.site-title {
+  font-weight: bold;
+  @include relative-font-size(1.625);
+
+  letter-spacing: -1px;
+}
+
+.site-subtitle {
+  font-weight: 200;
+  @include relative-font-size(1.25);
+  color: $grey-color-less-light;
+
+  margin-left: $spacing-unit / 2;
 }
 
 .site-nav {
