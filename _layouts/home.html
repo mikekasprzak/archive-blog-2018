@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% if page.title %}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {% endif %}
+
+  {{ content }}
+
+  {% if site.posts.size > 0 %}
+    <div class="first">
+      {% assign post = site.posts.first %}
+      {% assign content = post.content %}
+      {% include home_post.html %}
+    </div>
+
+    <h2 class="post-list-heading">{{ page.list_title | default: "More Posts" }}</h2>
+    {% assign last_date = "" %}
+    <ul class="post-list">
+      {% for post in site.posts offset:1 %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {% assign date = post.date | date: date_format %}
+        {% if date != last_date %}
+        <span class="post-meta">{{ date }}</span>
+        {% endif %}
+        <h4>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h4>
+        {% if site.show_excerpts %}
+          {{ post.excerpt }}
+        {% endif %}
+      </li>
+      {% assign last_date = date %}
+      {% endfor %}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {% endif %}
+
+</div>

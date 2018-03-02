@@ -14,9 +14,32 @@ Repo is here: https://github.com/mikekasprzak/blog
 
 (not that anyone other than me cares)
 
-***
+## Other Setup issues
 
-# Welcome to Jekyll!
+The default layout Jekyll doesn't show any post content, just a list of posts. This required some tweaking of the scripts.
+
+Jekyll themes are implicit. If a file exists in your layout, your version is used instead.
+
+I'm using the `minima` theme as my base: https://github.com/jekyll/minima
+
+Doing a `gem install minima` installs the theme in `/var/lib/gems/2.3.0/gems/minima-2.3.0/`.
+
+
+This post here suggested how to show the first post, but neglected the actual render code: https://stackoverflow.com/questions/17890493/how-can-i-show-just-the-most-recent-post-on-my-home-page-with-jekyll
+
+This Gist included the correct code: https://gist.github.com/nimbupani/1421828
+
+Notably you can only include files in the `_includes` folder, so you can't just use the default article renderer without moving it.
+
+The problem with the above code is markdown is disabled. This thread lists solutions: https://github.com/jekyll/jekyll-archives/issues/28
+
+The one I used is `content | markdownify`.
+
+## In closing
+
+Below is the default **Welcome** text, just as a reminder.
+
+## Welcome to Jekyll!
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
