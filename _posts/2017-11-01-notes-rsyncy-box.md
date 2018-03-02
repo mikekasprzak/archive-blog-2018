@@ -1,6 +1,6 @@
 ---
 id: 9840
-title: 'Notes: Rsync&#8217;y Box'
+title: "Notes: Rsync'y Box"
 date: 2017-11-01T20:33:32+00:00
 author: Mike K
 layout: post
