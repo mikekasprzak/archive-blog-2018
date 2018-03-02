@@ -18,7 +18,7 @@ Repo is here: https://github.com/mikekasprzak/blog
 
 The default layout Jekyll doesn't show any post content, just a list of posts. This required some tweaking of the scripts.
 
-Jekyll themes are implicit. If a file exists in your layout, your version is used instead.
+Jekyll themes are implicit. If a file exists in your layout, your version is used instead. Files use liquid syntax: https://gist.github.com/smutnyleszek/9803727
 
 I'm using the `minima` theme as my base: https://github.com/jekyll/minima
 
