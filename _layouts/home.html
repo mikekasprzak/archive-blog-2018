@@ -16,13 +16,20 @@ layout: default
       {% include home_post.html %}
     </div>
 
-    <h2 class="post-list-heading">{{ page.list_title | default: "More Posts" }}</h2>
+    <h1 class="post-list-heading">{{ page.list_title | default: "More Posts" }}</h1>
     {% assign last_date = "" %}
+    {% assign last_year = "" %}
     <ul class="post-list">
       {% for post in site.posts offset:1 %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {% assign date = post.date | date: date_format %}
+        {% assign year = post.date | date: "%Y" %}
+
+        {% if year != last_year %}
+        <h2 class="post-list-year">{{ year }}</h2>
+        {% endif %}
+
         {% if date != last_date %}
         <span class="post-meta">{{ date }}</span>
         {% endif %}
@@ -36,6 +43,7 @@ layout: default
         {% endif %}
       </li>
       {% assign last_date = date %}
+      {% assign last_year = year %}
       {% endfor %}
     </ul>
 
