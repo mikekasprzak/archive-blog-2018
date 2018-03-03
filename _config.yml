@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TooNormal
-#subtitle: "a notebook/blog by Mike Kasprzak"
-#email: mikekasprzak@gmail.com
+subtitle: "a notebook/blog by Mike Kasprzak"
+#email: 
 #description: >- # this means to ignore newlines until "baseurl:"
-#  The notebook (and ocassional blog) of Mike Kasprzak
+#  The notebook/blog of Mike Kasprzak
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mikekasprzak
@@ -25,13 +25,12 @@ github_username:  mikekasprzak
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-architect
 theme: minima
 plugins:
   - jekyll-feed
 
 # WordPress style Permalinks (NOTE: `date` and `pretty` include categories, which is wrong)
-#permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
