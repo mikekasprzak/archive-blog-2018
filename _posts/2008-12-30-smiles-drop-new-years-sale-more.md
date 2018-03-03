@@ -45,7 +45,7 @@ Recently I&#8217;ve been playing around with a new digital painting app, [Paint 
 
 Slight language barrier, but I think I love it.
 
-[<img src="/wp-content/uploads/2008/12/saiinterface-450x281.jpg" alt="saiinterface" title="saiinterface" width="450" height="281" class="aligncenter size-medium wp-image-353" srcset="http://blog.toonormal.com/wp-content/uploads/2008/12/saiinterface-450x281.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2008/12/saiinterface.jpg 960w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2008/12/saiinterface.jpg)
+[<img src="/wp-content/uploads/2008/12/saiinterface-450x281.jpg" alt="saiinterface" title="saiinterface" width="450" height="281" class="aligncenter size-medium wp-image-353" srcset="/wp-content/uploads/2008/12/saiinterface-450x281.jpg 450w, /wp-content/uploads/2008/12/saiinterface.jpg 960w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2008/12/saiinterface.jpg)
 
 I&#8217;ll have more to say about Paint Tool Sai as I put it in to production.
 
@@ -57,6 +57,6 @@ Also writing. Yes, writing. Just not writing blog stuff it seems.
 
 I&#8217;ll leave you with a teaser&#8230; since I want to try out the upload feature.
 
-[<img src="/wp-content/uploads/2008/12/clawwalls_look-450x253.png" alt="clawwalls_look" title="clawwalls_look" width="450" height="253" class="aligncenter size-medium wp-image-346" srcset="http://blog.toonormal.com/wp-content/uploads/2008/12/clawwalls_look-450x253.png 450w, http://blog.toonormal.com/wp-content/uploads/2008/12/clawwalls_look.png 960w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2008/12/clawwalls_look.png)
+[<img src="/wp-content/uploads/2008/12/clawwalls_look-450x253.png" alt="clawwalls_look" title="clawwalls_look" width="450" height="253" class="aligncenter size-medium wp-image-346" srcset="/wp-content/uploads/2008/12/clawwalls_look-450x253.png 450w, /wp-content/uploads/2008/12/clawwalls_look.png 960w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2008/12/clawwalls_look.png)
 
 Not a project per se, but proof that I&#8217;m exploring ideas. Well, more than anything, proof that I&#8217;m playing with Blender again. Figuring out how you&#8217;d make 3D tiles&#8230; for backgrounds of course. I still have to do 2D characters. That&#8217;s just the way I am. 🙂

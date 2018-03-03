@@ -14,7 +14,7 @@ categories:
 Heh, I certainly wasn&#8217;t expecting this.
 
 <div id="attachment_2630" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/05/VNCMike.jpg"><img src="/wp-content/uploads/2010/05/VNCMike-640x493.jpg" alt="" title="VNCMike" width="640" height="493" class="size-large wp-image-2630" srcset="http://blog.toonormal.com/wp-content/uploads/2010/05/VNCMike-640x493.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/05/VNCMike-450x347.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/05/VNCMike.jpg 1451w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/05/VNCMike.jpg"><img src="/wp-content/uploads/2010/05/VNCMike-640x493.jpg" alt="" title="VNCMike" width="640" height="493" class="size-large wp-image-2630" srcset="/wp-content/uploads/2010/05/VNCMike-640x493.jpg 640w, /wp-content/uploads/2010/05/VNCMike-450x347.jpg 450w, /wp-content/uploads/2010/05/VNCMike.jpg 1451w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Pay no attention to the grammar tense of the first sentence
@@ -32,7 +32,7 @@ Thanks for the tip [Adam](http://whootek.com/).
 &#8211; &#8211; &#8211;
 
 <div id="attachment_2771" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/05/NetbookSmiles.jpg"><img src="/wp-content/uploads/2010/05/NetbookSmiles-640x605.jpg" alt="" title="NetbookSmiles" width="640" height="605" class="size-large wp-image-2771" srcset="http://blog.toonormal.com/wp-content/uploads/2010/05/NetbookSmiles-640x605.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/05/NetbookSmiles-450x425.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/05/NetbookSmiles.jpg 889w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/05/NetbookSmiles.jpg"><img src="/wp-content/uploads/2010/05/NetbookSmiles-640x605.jpg" alt="" title="NetbookSmiles" width="640" height="605" class="size-large wp-image-2771" srcset="/wp-content/uploads/2010/05/NetbookSmiles-640x605.jpg 640w, /wp-content/uploads/2010/05/NetbookSmiles-450x425.jpg 450w, /wp-content/uploads/2010/05/NetbookSmiles.jpg 889w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Moblin 2.1 running on the USB key

@@ -10,7 +10,7 @@ categories:
   - Smiles
 ---
 <div id="attachment_3259" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/10/Zune02.png"><img src="/wp-content/uploads/2010/10/Zune02-640x515.png" alt="" title="Zune02" width="640" height="515" class="size-large wp-image-3259" srcset="http://blog.toonormal.com/wp-content/uploads/2010/10/Zune02-640x515.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/10/Zune02-450x362.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/10/Zune02.png 973w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/10/Zune02.png"><img src="/wp-content/uploads/2010/10/Zune02-640x515.png" alt="" title="Zune02" width="640" height="515" class="size-large wp-image-3259" srcset="/wp-content/uploads/2010/10/Zune02-640x515.png 640w, /wp-content/uploads/2010/10/Zune02-450x362.png 450w, /wp-content/uploads/2010/10/Zune02.png 973w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     I'll have to make sure I fix/change the spacing when I do an update. Words got crammed.

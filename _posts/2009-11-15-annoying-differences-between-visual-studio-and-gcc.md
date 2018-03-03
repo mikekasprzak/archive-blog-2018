@@ -116,7 +116,7 @@ There were only a few outright code changes required. The first was flipping my 
 Lo and behold, Smiles built in Visual Studio 2008.
 
 <div id="attachment_1694" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/11/SmilesInMSVC.jpg"><img src="/wp-content/uploads/2009/11/SmilesInMSVC-640x400.jpg" alt="After a less than thrilling couple days, I&#039;m certainly Smiling" title="SmilesInMSVC" width="640" height="400" class="size-large wp-image-1694" srcset="http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesInMSVC-640x400.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesInMSVC-450x281.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesInMSVC.jpg 1440w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/11/SmilesInMSVC.jpg"><img src="/wp-content/uploads/2009/11/SmilesInMSVC-640x400.jpg" alt="After a less than thrilling couple days, I&#039;m certainly Smiling" title="SmilesInMSVC" width="640" height="400" class="size-large wp-image-1694" srcset="/wp-content/uploads/2009/11/SmilesInMSVC-640x400.jpg 640w, /wp-content/uploads/2009/11/SmilesInMSVC-450x281.jpg 450w, /wp-content/uploads/2009/11/SmilesInMSVC.jpg 1440w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     After a less than thrilling couple days, I'm certainly Smiling

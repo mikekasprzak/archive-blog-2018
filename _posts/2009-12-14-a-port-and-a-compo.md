@@ -15,7 +15,7 @@ Wow. To say the last 3 weeks have been busy would be an understatement.
 First of all, I ported **Smiles** to a new phone. The **Samsung Omnia II**, a Windows Mobile phone with a beautiful amoled screen and a custom GPU. Some photos.
 
 <div id="attachment_1722" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/12/Samsung13.jpg"><img src="/wp-content/uploads/2009/12/Samsung13-640x480.jpg" alt="What&#039;s Windows without a Registry Editor" title="Samsung13" width="640" height="480" class="size-large wp-image-1722" srcset="http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung13-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung13-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung13.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/12/Samsung13.jpg"><img src="/wp-content/uploads/2009/12/Samsung13-640x480.jpg" alt="What&#039;s Windows without a Registry Editor" title="Samsung13" width="640" height="480" class="size-large wp-image-1722" srcset="/wp-content/uploads/2009/12/Samsung13-640x480.jpg 640w, /wp-content/uploads/2009/12/Samsung13-450x337.jpg 450w, /wp-content/uploads/2009/12/Samsung13.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     What's Windows without a Registry Editor
@@ -27,7 +27,7 @@ First of all, I ported **Smiles** to a new phone. The **Samsung Omnia II**, a Wi
 
 
 <div id="attachment_1723" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/12/Samsung14.jpg"><img src="/wp-content/uploads/2009/12/Samsung14-640x480.jpg" alt="Some Avalanche... a little blury though." title="Samsung14" width="640" height="480" class="size-large wp-image-1723" srcset="http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung14-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung14-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung14.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/12/Samsung14.jpg"><img src="/wp-content/uploads/2009/12/Samsung14-640x480.jpg" alt="Some Avalanche... a little blury though." title="Samsung14" width="640" height="480" class="size-large wp-image-1723" srcset="/wp-content/uploads/2009/12/Samsung14-640x480.jpg 640w, /wp-content/uploads/2009/12/Samsung14-450x337.jpg 450w, /wp-content/uploads/2009/12/Samsung14.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Some Avalanche... a little blury though.
@@ -39,7 +39,7 @@ First of all, I ported **Smiles** to a new phone. The **Samsung Omnia II**, a Wi
 
 
 <div id="attachment_1724" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/12/Samsung15.jpg"><img src="/wp-content/uploads/2009/12/Samsung15-640x480.jpg" alt="Itz-a me!  Zen in Italiano!" title="Samsung15" width="640" height="480" class="size-large wp-image-1724" srcset="http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung15-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung15-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/12/Samsung15.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/12/Samsung15.jpg"><img src="/wp-content/uploads/2009/12/Samsung15-640x480.jpg" alt="Itz-a me!  Zen in Italiano!" title="Samsung15" width="640" height="480" class="size-large wp-image-1724" srcset="/wp-content/uploads/2009/12/Samsung15-640x480.jpg 640w, /wp-content/uploads/2009/12/Samsung15-450x337.jpg 450w, /wp-content/uploads/2009/12/Samsung15.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Itz-a me! Zen in Italiano!

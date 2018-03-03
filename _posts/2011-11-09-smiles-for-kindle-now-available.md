@@ -12,7 +12,7 @@ categories:
 Hey look what finally came out!
 
 <div id="attachment_4677" style="max-width: 595px" class="wp-caption aligncenter">
-  <a href="http://www.amazon.com/Smiles/dp/B005WL8KCC"><img src="/wp-content/uploads/2011/11/Kindle.png" alt="" title="Kindle" width="585" height="522" class="size-full wp-image-4677" srcset="http://blog.toonormal.com/wp-content/uploads/2011/11/Kindle.png 585w, http://blog.toonormal.com/wp-content/uploads/2011/11/Kindle-450x401.png 450w" sizes="(max-width: 585px) 100vw, 585px" /></a>
+  <a href="http://www.amazon.com/Smiles/dp/B005WL8KCC"><img src="/wp-content/uploads/2011/11/Kindle.png" alt="" title="Kindle" width="585" height="522" class="size-full wp-image-4677" srcset="/wp-content/uploads/2011/11/Kindle.png 585w, /wp-content/uploads/2011/11/Kindle-450x401.png 450w" sizes="(max-width: 585px) 100vw, 585px" /></a>
   
   <p class="wp-caption-text">
     Hey look! Somebody liked it! Oh wait, that was me

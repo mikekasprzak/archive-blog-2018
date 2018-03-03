@@ -4,7 +4,7 @@ title: Patch, Automake, and ARM CPU and Microserver Notes
 date: 2015-10-20T04:23:41+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7649
+guid: /?p=7649
 permalink: /2015/10/20/patch-automake-and-arm-cpu-notes/
 categories:
   - Uncategorized

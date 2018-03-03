@@ -4,7 +4,7 @@ title: Afternet.org via SSL on Ubuntu with X-Chat
 date: 2015-08-18T13:50:21+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7494
+guid: /?p=7494
 permalink: /2015/08/18/afternet-org-via-ssl-on-ubuntu-with-x-chat/
 categories:
   - Ludumdare

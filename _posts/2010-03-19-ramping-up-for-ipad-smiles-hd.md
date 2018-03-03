@@ -22,7 +22,7 @@ I&#8217;m in Canada.
 Why that matters is that only the US is getting them on April 3rd. So in order for [**Smiles HD**](http://www.smiles-game.com) to be in the App Store for (nearly) iPad launch, we&#8217;re going on a road trip!
 
 <div id="attachment_2206" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/03/CanadaUSA.jpg"><img src="/wp-content/uploads/2010/03/CanadaUSA-640x403.jpg" alt="" title="CanadaUSA" width="640" height="403" class="size-large wp-image-2206" srcset="http://blog.toonormal.com/wp-content/uploads/2010/03/CanadaUSA-640x403.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/03/CanadaUSA-450x283.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/03/CanadaUSA.jpg 933w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/03/CanadaUSA.jpg"><img src="/wp-content/uploads/2010/03/CanadaUSA-640x403.jpg" alt="" title="CanadaUSA" width="640" height="403" class="size-large wp-image-2206" srcset="/wp-content/uploads/2010/03/CanadaUSA-640x403.jpg 640w, /wp-content/uploads/2010/03/CanadaUSA-450x283.jpg 450w, /wp-content/uploads/2010/03/CanadaUSA.jpg 933w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Agenda for April 3rd, 2010: 1. Go to the US; 2. Pick up an iPad; 3. Denny's
@@ -106,7 +106,7 @@ Besides finishing the game itself, I want to be doing everything I can for the p
 And speaking of serving the press, here&#8217;s a new screenshot for you. Click for highres PNG.
 
 <div id="attachment_2217" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/03/SmilesHD03.png"><img src="/wp-content/uploads/2010/03/SmilesHD03-640x480.png" alt="" title="SmilesHD03" width="640" height="480" class="size-large wp-image-2217" srcset="http://blog.toonormal.com/wp-content/uploads/2010/03/SmilesHD03-640x480.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/03/SmilesHD03-450x337.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/03/SmilesHD03.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/03/SmilesHD03.png"><img src="/wp-content/uploads/2010/03/SmilesHD03-640x480.png" alt="" title="SmilesHD03" width="640" height="480" class="size-large wp-image-2217" srcset="/wp-content/uploads/2010/03/SmilesHD03-640x480.png 640w, /wp-content/uploads/2010/03/SmilesHD03-450x337.png 450w, /wp-content/uploads/2010/03/SmilesHD03.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     'Match Challenge' Drop mode played wide with the 'Blocks' tileset

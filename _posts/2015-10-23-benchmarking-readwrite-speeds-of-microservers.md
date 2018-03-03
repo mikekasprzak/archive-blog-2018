@@ -4,7 +4,7 @@ title: Notes + Benchmarking read/write speeds of Microservers
 date: 2015-10-23T19:14:49+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7671
+guid: /?p=7671
 permalink: /2015/10/23/benchmarking-readwrite-speeds-of-microservers/
 categories:
   - Uncategorized

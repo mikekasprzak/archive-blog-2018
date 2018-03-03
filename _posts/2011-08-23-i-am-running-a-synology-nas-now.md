@@ -33,14 +33,14 @@ It runs a breed of Linux, interfaces via gorgeous fast HTML UI, and support fanc
 Mine I filed with a pair of 3TB Hitachi Deskstar drives, spinning at 7200 RPMS with 64 MB of cache. Western Digital Caviar Green drives were $40 cheaper each, but are known to be slow and problematic on RAIDs (though there are fixes, a tool WDidle3 seems to address this). Again, time is da mon-nay, and wanted something I could just drop in. Benchmarks said these drives were better overall performers too, so hey, why not!
 
 <div id="attachment_4511" style="max-width: 520px" class="wp-caption aligncenter">
-  <a href="http://www.synology.com/us/products/demo/index.php"><img src="/wp-content/uploads/2011/08/main1.jpg" alt="" title="main1" width="510" height="347" class="size-full wp-image-4511" srcset="http://blog.toonormal.com/wp-content/uploads/2011/08/main1.jpg 510w, http://blog.toonormal.com/wp-content/uploads/2011/08/main1-450x306.jpg 450w" sizes="(max-width: 510px) 100vw, 510px" /></a>
+  <a href="http://www.synology.com/us/products/demo/index.php"><img src="/wp-content/uploads/2011/08/main1.jpg" alt="" title="main1" width="510" height="347" class="size-full wp-image-4511" srcset="/wp-content/uploads/2011/08/main1.jpg 510w, /wp-content/uploads/2011/08/main1-450x306.jpg 450w" sizes="(max-width: 510px) 100vw, 510px" /></a>
   
   <p class="wp-caption-text">
     A stock image I borrowed from Synology. UI has lots of wild features like Music Player, Photo Viewer, and more, all built in (Java Plugins). The user interface is really great. Smooth like being right on the machine, but it's a virtual operating system that runs right in the browser, done in HTML+JS and PHP. You can actually try it online. Click the image.
   </p>
 </div>
 
-[<img src="/wp-content/uploads/2011/08/002-150x150.jpg" alt="" title="002" width="150" height="150" class="alignright size-thumbnail wp-image-4517" srcset="http://blog.toonormal.com/wp-content/uploads/2011/08/002-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2011/08/002-450x450.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2011/08/002-640x640.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2011/08/002.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" />](/wp-content/uploads/2011/08/002.jpg)Hardware setup was a matter of unboxing, opening it (sliding case sides front and back to unlock), plugging my drives in, screwing them in, and closing the casing (opposite of opening). I think I had this done in 5 minutes, max. Didn&#8217;t even need a manual.
+[<img src="/wp-content/uploads/2011/08/002-150x150.jpg" alt="" title="002" width="150" height="150" class="alignright size-thumbnail wp-image-4517" srcset="/wp-content/uploads/2011/08/002-150x150.jpg 150w, /wp-content/uploads/2011/08/002-450x450.jpg 450w, /wp-content/uploads/2011/08/002-640x640.jpg 640w, /wp-content/uploads/2011/08/002.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" />](/wp-content/uploads/2011/08/002.jpg)Hardware setup was a matter of unboxing, opening it (sliding case sides front and back to unlock), plugging my drives in, screwing them in, and closing the casing (opposite of opening). I think I had this done in 5 minutes, max. Didn&#8217;t even need a manual.
 
 Building the array I wanted (MODE 1) was extremely straightforward, that I wont both talking about it.
 
@@ -98,7 +98,7 @@ Congratz! You now have GCC installed on your NAS! Cool!
 Since getting that working, I&#8217;ve moved some more important files over. My FLAC encoded music collection for one. I&#8217;ve been streaming FLAC music CDs for a couple hours now as I worked on migrating more important data over. So far so good.
 
 <div id="attachment_4530" style="max-width: 334px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/08/PerfMon.png"><img src="/wp-content/uploads/2011/08/PerfMon.png" alt="" title="PerfMon" width="324" height="485" class="size-full wp-image-4530" srcset="http://blog.toonormal.com/wp-content/uploads/2011/08/PerfMon.png 324w, http://blog.toonormal.com/wp-content/uploads/2011/08/PerfMon-300x450.png 300w" sizes="(max-width: 324px) 100vw, 324px" /></a>
+  <a href="/wp-content/uploads/2011/08/PerfMon.png"><img src="/wp-content/uploads/2011/08/PerfMon.png" alt="" title="PerfMon" width="324" height="485" class="size-full wp-image-4530" srcset="/wp-content/uploads/2011/08/PerfMon.png 324w, /wp-content/uploads/2011/08/PerfMon-300x450.png 300w" sizes="(max-width: 324px) 100vw, 324px" /></a>
   
   <p class="wp-caption-text">
     The Web UI has a nice performance monitor. This is my usage now, streaming my huge lossless flac files. Not bad for 1.2 Ghz and 128 MB of RAM. Usage did go up as I was downloading and moving files, but it multitasked well. Peaked at 75%'ish when I was downloading packages and copying data over. Memory usage I haven't seen go above 25%. Impressive!

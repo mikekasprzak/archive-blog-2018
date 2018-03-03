@@ -4,7 +4,7 @@ title: 'Notes: USB/IP'
 date: 2016-09-25T02:11:15+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9344
+guid: /?p=9344
 permalink: /2016/09/25/notes-usbip/
 categories:
   - Uncategorized

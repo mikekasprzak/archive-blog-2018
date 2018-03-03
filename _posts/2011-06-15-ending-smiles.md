@@ -10,7 +10,7 @@ categories:
   - Smiles
   - The Business of Things
 ---
-[<img src="/wp-content/uploads/2011/06/Icon_Kindle2-150x150.png" alt="" title="Icon_Kindle2" width="150" height="150" class="alignright size-thumbnail wp-image-4327" srcset="http://blog.toonormal.com/wp-content/uploads/2011/06/Icon_Kindle2-150x150.png 150w, http://blog.toonormal.com/wp-content/uploads/2011/06/Icon_Kindle2-450x450.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/06/Icon_Kindle2-640x640.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/06/Icon_Kindle2.png 800w" sizes="(max-width: 150px) 100vw, 150px" />](/wp-content/uploads/2011/06/Icon_Kindle2.png)Yes, you read that right. It is ending. For real.
+[<img src="/wp-content/uploads/2011/06/Icon_Kindle2-150x150.png" alt="" title="Icon_Kindle2" width="150" height="150" class="alignright size-thumbnail wp-image-4327" srcset="/wp-content/uploads/2011/06/Icon_Kindle2-150x150.png 150w, /wp-content/uploads/2011/06/Icon_Kindle2-450x450.png 450w, /wp-content/uploads/2011/06/Icon_Kindle2-640x640.png 640w, /wp-content/uploads/2011/06/Icon_Kindle2.png 800w" sizes="(max-width: 150px) 100vw, 150px" />](/wp-content/uploads/2011/06/Icon_Kindle2.png)Yes, you read that right. It is ending. For real.
 
 **June 23rd** is the 3 year anniversary of Smiles (as in, starting the game). I have finished every single port of the game that I had planned on doing (except console ports, both I decided to abort); Some are still in submission or need of final packaging. Days away now.
 

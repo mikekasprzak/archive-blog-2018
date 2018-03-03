@@ -18,7 +18,7 @@ The past month has been extremely good for progress. I did not meet my goal for 
 Against my better judgement, I&#8217;m going to stop beating around the bush and show you:
 
 <div id="attachment_4634" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/11/Tease01.png"><img src="/wp-content/uploads/2011/11/Tease01-640x356.png" alt="" title="Tease01" width="640" height="356" class="size-large wp-image-4634" srcset="http://blog.toonormal.com/wp-content/uploads/2011/11/Tease01-640x356.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/11/Tease01-450x250.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/11/Tease01.png 1051w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/11/Tease01.png"><img src="/wp-content/uploads/2011/11/Tease01-640x356.png" alt="" title="Tease01" width="640" height="356" class="size-large wp-image-4634" srcset="/wp-content/uploads/2011/11/Tease01-640x356.png 640w, /wp-content/uploads/2011/11/Tease01-450x250.png 450w, /wp-content/uploads/2011/11/Tease01.png 1051w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     A mish-mash or random objects sitting in some sculpted terrain. Subtle glow. Vignette blur.
@@ -38,7 +38,7 @@ I&#8217;m a fairly capable (and technical) coder, and something I&#8217;ve wante
 Oh, and it runs on mobile too.
 
 <div id="attachment_4643" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/11/Tease02.jpg"><img src="/wp-content/uploads/2011/11/Tease02-640x480.jpg" alt="" title="Tease02" width="640" height="480" class="size-large wp-image-4643" srcset="http://blog.toonormal.com/wp-content/uploads/2011/11/Tease02-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2011/11/Tease02-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2011/11/Tease02.jpg 1204w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/11/Tease02.jpg"><img src="/wp-content/uploads/2011/11/Tease02-640x480.jpg" alt="" title="Tease02" width="640" height="480" class="size-large wp-image-4643" srcset="/wp-content/uploads/2011/11/Tease02-640x480.jpg 640w, /wp-content/uploads/2011/11/Tease02-450x337.jpg 450w, /wp-content/uploads/2011/11/Tease02.jpg 1204w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Running on a low cost (~$100) Chinese Android device featuring an ARM MALI-400 GPU
@@ -82,7 +82,7 @@ Though I have all these devices and am regularly testing against them, I&#8217;m
 > Alright, here&#8217;s a mockup I made back in 2009.
 > 
 > <div id="attachment_4665" style="max-width: 650px" class="wp-caption aligncenter">
->   <a href="/wp-content/uploads/2011/11/Mockup18.jpg"><img src="/wp-content/uploads/2011/11/Mockup18-640x512.jpg" alt="" title="Mockup18" width="640" height="512" class="size-large wp-image-4665" srcset="http://blog.toonormal.com/wp-content/uploads/2011/11/Mockup18-640x512.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2011/11/Mockup18-450x360.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2011/11/Mockup18.jpg 720w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+>   <a href="/wp-content/uploads/2011/11/Mockup18.jpg"><img src="/wp-content/uploads/2011/11/Mockup18-640x512.jpg" alt="" title="Mockup18" width="640" height="512" class="size-large wp-image-4665" srcset="/wp-content/uploads/2011/11/Mockup18-640x512.jpg 640w, /wp-content/uploads/2011/11/Mockup18-450x360.jpg 450w, /wp-content/uploads/2011/11/Mockup18.jpg 720w" sizes="(max-width: 640px) 100vw, 640px" /></a>
 >   
 >   <p class="wp-caption-text">
 >     Apparently I've been designing and redesigning this game since before I started Smiles

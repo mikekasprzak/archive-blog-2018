@@ -4,7 +4,7 @@ title: Sphinx Search Notes
 date: 2017-11-14T00:33:28+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9843
+guid: /?p=9843
 permalink: /2017/11/14/sphinx-search-notes/
 categories:
   - Uncategorized

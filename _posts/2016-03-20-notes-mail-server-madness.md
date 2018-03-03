@@ -4,7 +4,7 @@ title: 'Notes: Mail Server Madness'
 date: 2016-03-20T02:20:05+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=8290
+guid: /?p=8290
 permalink: /2016/03/20/notes-mail-server-madness/
 categories:
   - Uncategorized

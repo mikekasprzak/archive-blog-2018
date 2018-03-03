@@ -4,7 +4,7 @@ title: Microserver Pros/Cons
 date: 2015-11-21T17:20:21+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7834
+guid: /?p=7834
 permalink: /2015/11/21/microserver-proscons/
 categories:
   - Uncategorized

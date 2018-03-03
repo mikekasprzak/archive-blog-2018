@@ -26,7 +26,7 @@ What I&#8217;d like to do is walk through and talk about the various changes I&#
 Alright, so lets take a look at one of the first changes. The home screen.
 
 <div id="attachment_1448" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/11/SmilesPC01.jpg"><img src="/wp-content/uploads/2009/11/SmilesPC01-640x400.jpg" alt="Smiles home screen UI Changes... Bubble Buttons!" title="SmilesPC01" width="640" height="400" class="size-large wp-image-1448" srcset="http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPC01-640x400.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPC01-450x281.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPC01.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/11/SmilesPC01.jpg"><img src="/wp-content/uploads/2009/11/SmilesPC01-640x400.jpg" alt="Smiles home screen UI Changes... Bubble Buttons!" title="SmilesPC01" width="640" height="400" class="size-large wp-image-1448" srcset="/wp-content/uploads/2009/11/SmilesPC01-640x400.jpg 640w, /wp-content/uploads/2009/11/SmilesPC01-450x281.jpg 450w, /wp-content/uploads/2009/11/SmilesPC01.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Smiles home screen UI Changes... Bubble Buttons!
@@ -52,7 +52,7 @@ Anybody that&#8217;s worked with me knows I like my theory. **Smiles** itself wa
 Continuing the theoretical journey with **Smiles PC**, I want this port to suit the ever evolving concept of computers. Computer resolutions come in all shapes and sizes, the key point right now being shapes.
 
 <div id="attachment_1469" style="max-width: 291px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/11/SmilesPC02.jpg"><img src="/wp-content/uploads/2009/11/SmilesPC02-281x450.jpg" alt="Smiles&#039; flexible UI goes wide or tall" title="SmilesPC02" width="281" height="450" class="size-medium wp-image-1469" srcset="http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPC02-281x450.jpg 281w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPC02-640x1024.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPC02.jpg 800w" sizes="(max-width: 281px) 100vw, 281px" /></a>
+  <a href="/wp-content/uploads/2009/11/SmilesPC02.jpg"><img src="/wp-content/uploads/2009/11/SmilesPC02-281x450.jpg" alt="Smiles&#039; flexible UI goes wide or tall" title="SmilesPC02" width="281" height="450" class="size-medium wp-image-1469" srcset="/wp-content/uploads/2009/11/SmilesPC02-281x450.jpg 281w, /wp-content/uploads/2009/11/SmilesPC02-640x1024.jpg 640w, /wp-content/uploads/2009/11/SmilesPC02.jpg 800w" sizes="(max-width: 281px) 100vw, 281px" /></a>
   
   <p class="wp-caption-text">
     Smiles' flexible UI goes wide or tall
@@ -64,7 +64,7 @@ The 720p and 1080p artwork handles the majority of resolution cases, but one of 
 Now this isn&#8217;t only theory. A number of computers today ARE doing bizarre things with resolution and orientation. The key area being Netbooks and MIDs.
 
 <div id="attachment_1475" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/11/SmilesPCPhoto01.jpg"><img src="/wp-content/uploads/2009/11/SmilesPCPhoto01-640x480.jpg" alt="Smiles running on a Tablet PC" title="SmilesPCPhoto01" width="640" height="480" class="size-large wp-image-1475" srcset="http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPCPhoto01-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPCPhoto01-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesPCPhoto01.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/11/SmilesPCPhoto01.jpg"><img src="/wp-content/uploads/2009/11/SmilesPCPhoto01-640x480.jpg" alt="Smiles running on a Tablet PC" title="SmilesPCPhoto01" width="640" height="480" class="size-large wp-image-1475" srcset="/wp-content/uploads/2009/11/SmilesPCPhoto01-640x480.jpg 640w, /wp-content/uploads/2009/11/SmilesPCPhoto01-450x337.jpg 450w, /wp-content/uploads/2009/11/SmilesPCPhoto01.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Smiles running on a Tablet PC

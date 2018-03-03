@@ -23,7 +23,7 @@ Aside from my Workstation PC and Macs, I have a lot of Netbooks. The Netbooks ar
 So I ordered [one of these](http://www.zotacusa.com/zotac-mag-hd-nd01.html), a **Zotac MAG** Nettop PC. For about $250 CAD (with a rebate), it&#8217;s a dual core Atom 330 running at 1.6 GHz, 2 GB of RAM, 160 GB Hard Drive, with an [NVidia ION](http://en.wikipedia.org/wiki/Nvidia_Ion) chipset (GeForce 9400M). I&#8217;m technically lacking an AMD and ATI test machine, but I do have one of each elsewhere I can turn to if I run in to problems (both running Windows).
 
 <div id="attachment_3373" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/maghd-nd01-u_image1.jpg"><img src="/wp-content/uploads/2010/11/maghd-nd01-u_image1-640x475.jpg" alt="" title="maghd-nd01-u_image1" width="640" height="475" class="size-large wp-image-3373" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/maghd-nd01-u_image1-640x475.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/maghd-nd01-u_image1-450x334.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/maghd-nd01-u_image1.jpg"><img src="/wp-content/uploads/2010/11/maghd-nd01-u_image1-640x475.jpg" alt="" title="maghd-nd01-u_image1" width="640" height="475" class="size-large wp-image-3373" srcset="/wp-content/uploads/2010/11/maghd-nd01-u_image1-640x475.jpg 640w, /wp-content/uploads/2010/11/maghd-nd01-u_image1-450x334.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     The orange ring lights up when the computer is on (faint light). Black when off.

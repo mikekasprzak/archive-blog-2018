@@ -15,7 +15,7 @@ This week I&#8217;ve been downloading updates for all my tools. Linux distros, a
 Unfortunately, my video-out setup on that PC is a bit strange (Component Video from an NVidia 7600), and the results were a little less than ideal:
 
 <div id="attachment_3344" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Ubunblue.jpg"><img src="/wp-content/uploads/2010/11/Ubunblue-640x389.jpg" alt="" title="Ubunblue" width="640" height="389" class="size-large wp-image-3344" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Ubunblue-640x389.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/Ubunblue-450x273.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/Ubunblue.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/Ubunblue.jpg"><img src="/wp-content/uploads/2010/11/Ubunblue-640x389.jpg" alt="" title="Ubunblue" width="640" height="389" class="size-large wp-image-3344" srcset="/wp-content/uploads/2010/11/Ubunblue-640x389.jpg 640w, /wp-content/uploads/2010/11/Ubunblue-450x273.jpg 450w, /wp-content/uploads/2010/11/Ubunblue.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Feeling Blue Ubuntu?
@@ -29,7 +29,7 @@ Today was the first [#ScreenshotSaturday](http://search.twitter.com/search?q=%23
 Here&#8217;s my contribution:
 
 <div id="attachment_3331" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Mac01.jpg"><img src="/wp-content/uploads/2010/11/Mac01-640x399.jpg" alt="" title="Mac01" width="640" height="399" class="size-large wp-image-3331" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Mac01-640x399.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac01-450x280.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac01.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/Mac01.jpg"><img src="/wp-content/uploads/2010/11/Mac01-640x399.jpg" alt="" title="Mac01" width="640" height="399" class="size-large wp-image-3331" srcset="/wp-content/uploads/2010/11/Mac01-640x399.jpg 640w, /wp-content/uploads/2010/11/Mac01-450x280.jpg 450w, /wp-content/uploads/2010/11/Mac01.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     After a few hours of fighting, the Smiles builds on Mac again
@@ -39,7 +39,7 @@ Here&#8217;s my contribution:
 So yes, the Mac version has had some progress. I had to rebuild my project file (and mess with precompiled headers for a while), but the game is now building with the latest Xcode. 
 
 <div id="attachment_3332" style="max-width: 562px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Mac02.png"><img src="/wp-content/uploads/2010/11/Mac02.png" alt="" title="Mac02" width="552" height="225" class="size-full wp-image-3332" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Mac02.png 552w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac02-450x183.png 450w" sizes="(max-width: 552px) 100vw, 552px" /></a>
+  <a href="/wp-content/uploads/2010/11/Mac02.png"><img src="/wp-content/uploads/2010/11/Mac02.png" alt="" title="Mac02" width="552" height="225" class="size-full wp-image-3332" srcset="/wp-content/uploads/2010/11/Mac02.png 552w, /wp-content/uploads/2010/11/Mac02-450x183.png 450w" sizes="(max-width: 552px) 100vw, 552px" /></a>
   
   <p class="wp-caption-text">
     Tray Icons
@@ -51,7 +51,7 @@ So yes, the Mac version has had some progress. I had to rebuild my project file 
 I have an older MacMini (Core2 Duo with GMA950), and recently picked up a Magic Trackpad for testing. So I gave the game a spin. The menus do well:
 
 <div id="attachment_3336" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Mac03.png"><img src="/wp-content/uploads/2010/11/Mac03-640x173.png" alt="" title="Mac03" width="640" height="173" class="size-large wp-image-3336" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Mac03-640x173.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac03-450x122.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac03.png 828w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/Mac03.png"><img src="/wp-content/uploads/2010/11/Mac03-640x173.png" alt="" title="Mac03" width="640" height="173" class="size-large wp-image-3336" srcset="/wp-content/uploads/2010/11/Mac03-640x173.png 640w, /wp-content/uploads/2010/11/Mac03-450x122.png 450w, /wp-content/uploads/2010/11/Mac03.png 828w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Ahh, a nice 6% CPU usage on my dual core
@@ -61,7 +61,7 @@ I have an older MacMini (Core2 Duo with GMA950), and recently picked up a Magic 
 But for some reason in-game performance is a little low&#8230; not to mention the CPU usage:
 
 <div id="attachment_3337" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Mac04.png"><img src="/wp-content/uploads/2010/11/Mac04-640x173.png" alt="" title="Mac04" width="640" height="173" class="size-large wp-image-3337" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Mac04-640x173.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac04-450x122.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac04.png 828w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/Mac04.png"><img src="/wp-content/uploads/2010/11/Mac04-640x173.png" alt="" title="Mac04" width="640" height="173" class="size-large wp-image-3337" srcset="/wp-content/uploads/2010/11/Mac04-640x173.png 640w, /wp-content/uploads/2010/11/Mac04-450x122.png 450w, /wp-content/uploads/2010/11/Mac04.png 828w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     ZOUNDS! 76%! Eek! That's the release build. The Debug build was 95%.

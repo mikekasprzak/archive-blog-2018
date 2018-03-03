@@ -12,7 +12,7 @@ categories:
 ---
 Phew! Okay, my little science experiment from today (i.e. why I needed a makefile): **SquirrelyJS**.
 
-[<img src="/wp-content/uploads/2013/05/Shot01-640x359.png" alt="Shot01" width="640" height="359" class="aligncenter size-large wp-image-6239" srcset="http://blog.toonormal.com/wp-content/uploads/2013/05/Shot01-640x359.png 640w, http://blog.toonormal.com/wp-content/uploads/2013/05/Shot01-450x253.png 450w, http://blog.toonormal.com/wp-content/uploads/2013/05/Shot01.png 1366w" sizes="(max-width: 640px) 100vw, 640px" />](http://sykhronics.com/squirrelyjs/)
+[<img src="/wp-content/uploads/2013/05/Shot01-640x359.png" alt="Shot01" width="640" height="359" class="aligncenter size-large wp-image-6239" srcset="/wp-content/uploads/2013/05/Shot01-640x359.png 640w, /wp-content/uploads/2013/05/Shot01-450x253.png 450w, /wp-content/uploads/2013/05/Shot01.png 1366w" sizes="(max-width: 640px) 100vw, 640px" />](http://sykhronics.com/squirrelyjs/)
 
 SquirrelyJS is a [Squirrel Programming Language](http://www.squirrel-lang.org/) compiler and VM running in the browser. So it&#8217;s a bunch of JavaScript code, a bunch of C/C++ code compiled using Emscripten, all wired up to a <del datetime="2013-05-12T01:36:01+00:00">shitty</del> web page.
 

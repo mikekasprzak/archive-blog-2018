@@ -4,7 +4,7 @@ title: 'Notes: Professional Audio/Broadcasting with OBS Studio'
 date: 2018-02-25T23:53:19+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9857
+guid: /?p=9857
 permalink: /2018/02/25/notes-professional-broadcasting-with-obs-studio/
 categories:
   - Uncategorized
@@ -51,21 +51,21 @@ We&#8217;re going to create two dummy Scenes for audio: &#8220;***Audio**&#8221;
 
 The default &#8220;***Audio**&#8221; scene is bare, just a simple **Audio Output Capture**. No filters necessary. In my case the audio level is set to -3 db, but you could probably get away with 0 db.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2018/02/normy-640x96.png" alt="" width="640" height="96" class="aligncenter size-large wp-image-9866" srcset="http://blog.toonormal.com/wp-content/uploads/2018/02/normy-640x96.png 640w, http://blog.toonormal.com/wp-content/uploads/2018/02/normy-450x68.png 450w, http://blog.toonormal.com/wp-content/uploads/2018/02/normy.png 733w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2018/02/normy.png)
+[<img src="/wp-content/uploads/2018/02/normy-640x96.png" alt="" width="640" height="96" class="aligncenter size-large wp-image-9866" srcset="/wp-content/uploads/2018/02/normy-640x96.png 640w, /wp-content/uploads/2018/02/normy-450x68.png 450w, /wp-content/uploads/2018/02/normy.png 733w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2018/02/normy.png)
 
 The more advanced &#8220;***Audio w/ Ducking**&#8221; scene is much more complicated. It has 2 devices, a 2nd separate copy of our **Audio Output Capture** (not a reference), and an **Audio Input Capture** of our Microphone.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2018/02/lessnormy-640x152.png" alt="" width="640" height="152" class="aligncenter size-large wp-image-9867" srcset="http://blog.toonormal.com/wp-content/uploads/2018/02/lessnormy-640x152.png 640w, http://blog.toonormal.com/wp-content/uploads/2018/02/lessnormy-450x107.png 450w, http://blog.toonormal.com/wp-content/uploads/2018/02/lessnormy.png 732w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2018/02/lessnormy.png)
+[<img src="/wp-content/uploads/2018/02/lessnormy-640x152.png" alt="" width="640" height="152" class="aligncenter size-large wp-image-9867" srcset="/wp-content/uploads/2018/02/lessnormy-640x152.png 640w, /wp-content/uploads/2018/02/lessnormy-450x107.png 450w, /wp-content/uploads/2018/02/lessnormy.png 732w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2018/02/lessnormy.png)
 
 The ducking configuration is pretty straightforward. Just a single filter.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2018/02/compy-640x274.png" alt="" width="640" height="274" class="aligncenter size-large wp-image-9871" srcset="http://blog.toonormal.com/wp-content/uploads/2018/02/compy-640x274.png 640w, http://blog.toonormal.com/wp-content/uploads/2018/02/compy-450x192.png 450w, http://blog.toonormal.com/wp-content/uploads/2018/02/compy.png 877w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2018/02/compy.png)
+[<img src="/wp-content/uploads/2018/02/compy-640x274.png" alt="" width="640" height="274" class="aligncenter size-large wp-image-9871" srcset="/wp-content/uploads/2018/02/compy-640x274.png 640w, /wp-content/uploads/2018/02/compy-450x192.png 450w, /wp-content/uploads/2018/02/compy.png 877w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2018/02/compy.png)
 
 The way ducking works, if there is a signal found on the Sidechain (i.e. NOT silence), then the compressor takes effect. The effect described above is a super harsh crush, 32:1 compression on any signal above -48 db. Or put another way: I make the audio 32x quieter when a signal is found.
 
 So to give me no signal, I have a Noise Gate set up on the Microphone.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2018/02/noise-640x296.png" alt="" width="640" height="296" class="aligncenter size-large wp-image-9872" srcset="http://blog.toonormal.com/wp-content/uploads/2018/02/noise-640x296.png 640w, http://blog.toonormal.com/wp-content/uploads/2018/02/noise-450x208.png 450w, http://blog.toonormal.com/wp-content/uploads/2018/02/noise.png 880w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2018/02/noise.png)
+[<img src="/wp-content/uploads/2018/02/noise-640x296.png" alt="" width="640" height="296" class="aligncenter size-large wp-image-9872" srcset="/wp-content/uploads/2018/02/noise-640x296.png 640w, /wp-content/uploads/2018/02/noise-450x208.png 450w, /wp-content/uploads/2018/02/noise.png 880w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2018/02/noise.png)
 
 I have a fancy microphone setup. Without getting too detailed, I&#8217;ve set it up physically in a place and with a pre-amp gain that when talking normally, I get a signal between -30 and -20 db. If I get louder or closer to the mic, the volume goes up (hence the later compression stages, but I&#8217;ll get to those later).
 
@@ -77,7 +77,7 @@ I have to speak up to break the gate threshold. The -38 db close threshold lets 
 
 Instead of using the Output Gain of the Compressor, you&#8217;re better off adding a separate final-stage Gain filter.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2018/02/gainy-640x206.png" alt="" width="640" height="206" class="aligncenter size-large wp-image-9876" srcset="http://blog.toonormal.com/wp-content/uploads/2018/02/gainy-640x206.png 640w, http://blog.toonormal.com/wp-content/uploads/2018/02/gainy-450x145.png 450w, http://blog.toonormal.com/wp-content/uploads/2018/02/gainy.png 874w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2018/02/gainy.png)
+[<img src="/wp-content/uploads/2018/02/gainy-640x206.png" alt="" width="640" height="206" class="aligncenter size-large wp-image-9876" srcset="/wp-content/uploads/2018/02/gainy-640x206.png 640w, /wp-content/uploads/2018/02/gainy-450x145.png 450w, /wp-content/uploads/2018/02/gainy.png 874w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2018/02/gainy.png)
 
 The reason this is better, is because once a signal is pushed to 0 db or above, sound data is blown-out and lost. In my case, I get to chain together multiple Compressors, and because my source stays well under 0 db, I don&#8217;t lose any fidelity (other than what the Compressor is destroying or revealing).
 
@@ -85,9 +85,9 @@ The reason this is better, is because once a signal is pushed to 0 db or above, 
 
 Compressors reduce the range of audio levels. When an audio level passes a Threshold, the audio above that Threshold is scaled down by the Ratio (i.e. the bigger the number, the greater the reduction). Since a compressed audio signal no longer takes up as much of the full audio range, you can then push the overall level up with Gain without peaking.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2018/02/comp1-640x259.png" alt="" width="640" height="259" class="aligncenter size-large wp-image-9878" srcset="http://blog.toonormal.com/wp-content/uploads/2018/02/comp1-640x259.png 640w, http://blog.toonormal.com/wp-content/uploads/2018/02/comp1-450x182.png 450w, http://blog.toonormal.com/wp-content/uploads/2018/02/comp1.png 876w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2018/02/comp1.png)
+[<img src="/wp-content/uploads/2018/02/comp1-640x259.png" alt="" width="640" height="259" class="aligncenter size-large wp-image-9878" srcset="/wp-content/uploads/2018/02/comp1-640x259.png 640w, /wp-content/uploads/2018/02/comp1-450x182.png 450w, /wp-content/uploads/2018/02/comp1.png 876w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2018/02/comp1.png)
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2018/02/comp2-640x259.png" alt="" width="640" height="259" class="aligncenter size-large wp-image-9879" srcset="http://blog.toonormal.com/wp-content/uploads/2018/02/comp2-640x259.png 640w, http://blog.toonormal.com/wp-content/uploads/2018/02/comp2-450x182.png 450w, http://blog.toonormal.com/wp-content/uploads/2018/02/comp2.png 875w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2018/02/comp2.png)
+[<img src="/wp-content/uploads/2018/02/comp2-640x259.png" alt="" width="640" height="259" class="aligncenter size-large wp-image-9879" srcset="/wp-content/uploads/2018/02/comp2-640x259.png 640w, /wp-content/uploads/2018/02/comp2-450x182.png 450w, /wp-content/uploads/2018/02/comp2.png 875w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2018/02/comp2.png)
 
 As the name suggests though, audio range compression potentially affects the audio quality. In general compression sounds good, but if you push it too far it can sound bad (see [the Loudness War](https://en.wikipedia.org/wiki/Loudness_war)).
 

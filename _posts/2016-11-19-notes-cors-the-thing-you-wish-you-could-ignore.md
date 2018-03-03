@@ -4,7 +4,7 @@ title: 'Notes: CORS, the thing you wish you could ignore'
 date: 2016-11-19T04:33:43+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9628
+guid: /?p=9628
 permalink: /2016/11/19/notes-cors-the-thing-you-wish-you-could-ignore/
 categories:
   - Uncategorized

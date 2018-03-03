@@ -4,7 +4,7 @@ title: 'Notes: Customizing Ubuntu'
 date: 2016-10-29T23:38:52+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9437
+guid: /?p=9437
 permalink: /2016/10/29/notes-customizing-ubuntu/
 categories:
   - Uncategorized

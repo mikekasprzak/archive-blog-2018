@@ -11,7 +11,7 @@ categories:
 ---
 This past weekend I began a process of rebranding my company. Shortly after leaving my AAA job in 2005, I created this logo.
 
-[<img src="/wp-content/uploads/2013/02/SykLogo_Brown-450x83.png" alt="SykLogo_Brown" width="450" height="83" class="aligncenter size-medium wp-image-5842" srcset="http://blog.toonormal.com/wp-content/uploads/2013/02/SykLogo_Brown-450x83.png 450w, http://blog.toonormal.com/wp-content/uploads/2013/02/SykLogo_Brown-640x118.png 640w, http://blog.toonormal.com/wp-content/uploads/2013/02/SykLogo_Brown.png 1080w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2013/02/SykLogo_Brown.png)
+[<img src="/wp-content/uploads/2013/02/SykLogo_Brown-450x83.png" alt="SykLogo_Brown" width="450" height="83" class="aligncenter size-medium wp-image-5842" srcset="/wp-content/uploads/2013/02/SykLogo_Brown-450x83.png 450w, /wp-content/uploads/2013/02/SykLogo_Brown-640x118.png 640w, /wp-content/uploads/2013/02/SykLogo_Brown.png 1080w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2013/02/SykLogo_Brown.png)
 
 Thing is, that&#8217;s not even one of the better logos I used, it&#8217;s just the most business&#8217;y one.
 
@@ -27,13 +27,13 @@ I&#8217;ve tried on [several ocassions](/2010/11/14/tales-of-a-silent-h/) to com
 
 Until now.
 
-[<img src="/wp-content/uploads/2013/02/NewSykLogo7-640x237.png" alt="NewSykLogo7" width="640" height="237" class="aligncenter size-large wp-image-5840" srcset="http://blog.toonormal.com/wp-content/uploads/2013/02/NewSykLogo7-640x237.png 640w, http://blog.toonormal.com/wp-content/uploads/2013/02/NewSykLogo7-450x166.png 450w, http://blog.toonormal.com/wp-content/uploads/2013/02/NewSykLogo7.png 1323w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2013/02/NewSykLogo7.png)
+[<img src="/wp-content/uploads/2013/02/NewSykLogo7-640x237.png" alt="NewSykLogo7" width="640" height="237" class="aligncenter size-large wp-image-5840" srcset="/wp-content/uploads/2013/02/NewSykLogo7-640x237.png 640w, /wp-content/uploads/2013/02/NewSykLogo7-450x166.png 450w, /wp-content/uploads/2013/02/NewSykLogo7.png 1323w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2013/02/NewSykLogo7.png)
 
 Yay! There we go! Lots of things going on here, but most importantly I was able to creatively satisfy my type design itch.
 
 The process involved me going to twitter and asking a simple question: Read this, and what does it say? 
 
-[<img src="/wp-content/uploads/2013/02/NewSykLogoWhite-450x72.png" alt="NewSykLogoWhite" width="450" height="72" class="aligncenter size-medium wp-image-5848" srcset="http://blog.toonormal.com/wp-content/uploads/2013/02/NewSykLogoWhite-450x72.png 450w, http://blog.toonormal.com/wp-content/uploads/2013/02/NewSykLogoWhite-640x103.png 640w, http://blog.toonormal.com/wp-content/uploads/2013/02/NewSykLogoWhite.png 1252w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2013/02/NewSykLogoWhite.png)
+[<img src="/wp-content/uploads/2013/02/NewSykLogoWhite-450x72.png" alt="NewSykLogoWhite" width="450" height="72" class="aligncenter size-medium wp-image-5848" srcset="/wp-content/uploads/2013/02/NewSykLogoWhite-450x72.png 450w, /wp-content/uploads/2013/02/NewSykLogoWhite-640x103.png 640w, /wp-content/uploads/2013/02/NewSykLogoWhite.png 1252w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2013/02/NewSykLogoWhite.png)
 
 Some of the results were extremely amusing (SykBronies!? Ha!). So after several iterations, we ended up with the orange logo above. 
 
@@ -45,7 +45,7 @@ Something I&#8217;ve wanted in the logo forever is a character. So part of the d
 
 Anyways, I&#8217;ve gone ahead and printed some biz cards. They look like this.
 
-[<img src="/wp-content/uploads/2013/02/SykBizCard-PlasticFinal.png" alt="SykBizCard-PlasticFinal" width="531" height="686" class="aligncenter size-full wp-image-5851" srcset="http://blog.toonormal.com/wp-content/uploads/2013/02/SykBizCard-PlasticFinal.png 531w, http://blog.toonormal.com/wp-content/uploads/2013/02/SykBizCard-PlasticFinal-348x450.png 348w" sizes="(max-width: 531px) 100vw, 531px" />](/wp-content/uploads/2013/02/SykBizCard-PlasticFinal.png)
+[<img src="/wp-content/uploads/2013/02/SykBizCard-PlasticFinal.png" alt="SykBizCard-PlasticFinal" width="531" height="686" class="aligncenter size-full wp-image-5851" srcset="/wp-content/uploads/2013/02/SykBizCard-PlasticFinal.png 531w, /wp-content/uploads/2013/02/SykBizCard-PlasticFinal-348x450.png 348w" sizes="(max-width: 531px) 100vw, 531px" />](/wp-content/uploads/2013/02/SykBizCard-PlasticFinal.png)
 
 I&#8217;ve always been of the opinion that as a game developer, our business is fun, so we should be having fun everywhere. Hence why I went with such a bizarre job title (Formerly just &#8220;Game Developer, Owner&#8221;).
 

@@ -4,12 +4,12 @@ title: 'Notes: Setting up a Webcam Server'
 date: 2016-09-21T00:29:17+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9296
+guid: /?p=9296
 permalink: /2016/09/21/notes-setting-up-a-webcam-server/
 categories:
   - Uncategorized
 ---
-[<img src="http://blog.toonormal.com/wp-content/uploads/2016/09/kirbytest.png" alt="kirbytest" width="636" height="477" class="aligncenter size-full wp-image-9297" srcset="http://blog.toonormal.com/wp-content/uploads/2016/09/kirbytest.png 636w, http://blog.toonormal.com/wp-content/uploads/2016/09/kirbytest-450x338.png 450w" sizes="(max-width: 636px) 100vw, 636px" />](http://blog.toonormal.com/wp-content/uploads/2016/09/kirbytest.png)
+[<img src="/wp-content/uploads/2016/09/kirbytest.png" alt="kirbytest" width="636" height="477" class="aligncenter size-full wp-image-9297" srcset="/wp-content/uploads/2016/09/kirbytest.png 636w, /wp-content/uploads/2016/09/kirbytest-450x338.png 450w" sizes="(max-width: 636px) 100vw, 636px" />](/wp-content/uploads/2016/09/kirbytest.png)
 
 I have a small room, also known as a closet _\*cough\*_ that I have my printer and some small computers in. Some day I plan to put a 3D printer there as well. It would be wise to set up a simple webcam, so I can check on it. You know, in case of fire and stuff. 😉
 

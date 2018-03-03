@@ -13,7 +13,7 @@ categories:
 Added a toggle button for Windowed and Fullscreen today, and made it actually work. I also did some tweaking of the icons around the edge of the screen (pushed them higher, made the outlines more consistent).
 
 <div id="attachment_3576" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/WindowMaximize1.jpg"><img src="/wp-content/uploads/2010/12/WindowMaximize1-640x370.jpg" alt="" title="WindowMaximize" width="640" height="370" class="size-large wp-image-3576" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/WindowMaximize1-640x370.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/WindowMaximize1-450x260.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/WindowMaximize1.jpg"><img src="/wp-content/uploads/2010/12/WindowMaximize1-640x370.jpg" alt="" title="WindowMaximize" width="640" height="370" class="size-large wp-image-3576" srcset="/wp-content/uploads/2010/12/WindowMaximize1-640x370.jpg 640w, /wp-content/uploads/2010/12/WindowMaximize1-450x260.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     One of these days I need to align the outside UI stuffs to the edge of the screen

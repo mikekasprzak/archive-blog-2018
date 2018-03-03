@@ -4,7 +4,7 @@ title: Streaming Service Feature Checklist
 date: 2015-08-25T17:27:28+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7498
+guid: /?p=7498
 permalink: /2015/08/25/streaming-service-feature-checklist/
 categories:
   - Technobabble

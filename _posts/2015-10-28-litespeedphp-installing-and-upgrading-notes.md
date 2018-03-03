@@ -4,7 +4,7 @@ title: LiteSpeed+PHP Installing and Upgrading Notes
 date: 2015-10-28T11:36:56+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7715
+guid: /?p=7715
 permalink: /2015/10/28/litespeedphp-installing-and-upgrading-notes/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ Another day, another note post. 🙂
 
 <!--more-->
 
-**NOTE:** These originally come from these notes. <http://blog.toonormal.com/2015/09/07/digital-ocean-notes/>
+**NOTE:** These originally come from these notes. </2015/09/07/digital-ocean-notes/>
 
 ## 1. Installing OpenLiteSpeed
 

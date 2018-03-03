@@ -14,7 +14,7 @@ Alright, I don&#8217;t see a reason _not_ to talk about this publicly. So if I&#
 
 Quickly, **Smiles** is an [IGF Mobile nominated](http://www.igfmobile.com/02finalists.html) collection of puzzle games for iPhone. You can learn more about the game at [smiles-game.com](http://www.smiles-game.com), or try it for free by grabbing &#8220;**Free Smiles**&#8221; from the App Store.
 
-[<img class="aligncenter size-full wp-image-741" title="shot01" src="/wp-content/uploads/2009/02/shot01.png" alt="shot01" width="480" height="320" srcset="http://blog.toonormal.com/wp-content/uploads/2009/02/shot01.png 480w, http://blog.toonormal.com/wp-content/uploads/2009/02/shot01-450x300.png 450w" sizes="(max-width: 480px) 100vw, 480px" />](/wp-content/uploads/2009/02/shot01.png)
+[<img class="aligncenter size-full wp-image-741" title="shot01" src="/wp-content/uploads/2009/02/shot01.png" alt="shot01" width="480" height="320" srcset="/wp-content/uploads/2009/02/shot01.png 480w, /wp-content/uploads/2009/02/shot01-450x300.png 450w" sizes="(max-width: 480px) 100vw, 480px" />](/wp-content/uploads/2009/02/shot01.png)
 
 The irony of an HD matching game amuses me, so that&#8217;s something I really would like to push with **Smiles**. At this stage, it&#8217;s not really much more work going straight to HD, so why not?
 
@@ -24,7 +24,7 @@ There&#8217;s certain much more to say on the subject, but I&#8217;ll save that 
 
 The first step as I saw it was to up the resolution of the game art. When I started **Smiles** back in June 2008, I was sure to make my original art large enough that I _could_ fit it in to textures suitable for HD. The first demonstration of this in action was a screenshot I posted over the weekend.
 
-[<img class="aligncenter size-medium wp-image-731" title="smhd03" src="/wp-content/uploads/2009/02/smhd03-450x300.jpg" alt="smhd03" width="450" height="300" srcset="http://blog.toonormal.com/wp-content/uploads/2009/02/smhd03-450x300.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/02/smhd03-1024x682.jpg 1024w, http://blog.toonormal.com/wp-content/uploads/2009/02/smhd03.jpg 1440w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/smhd03.jpg)
+[<img class="aligncenter size-medium wp-image-731" title="smhd03" src="/wp-content/uploads/2009/02/smhd03-450x300.jpg" alt="smhd03" width="450" height="300" srcset="/wp-content/uploads/2009/02/smhd03-450x300.jpg 450w, /wp-content/uploads/2009/02/smhd03-1024x682.jpg 1024w, /wp-content/uploads/2009/02/smhd03.jpg 1440w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/smhd03.jpg)
 
 This involved rebuilding the texture atlas&#8217; the game uses, as the original iPhone one was a fraction of the size.
 

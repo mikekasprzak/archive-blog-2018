@@ -12,7 +12,7 @@ categories:
 So, I&#8217;ve been dabbling with something new.
 
 <div id="attachment_5217" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2012/08/Shot46.jpg"><img src="/wp-content/uploads/2012/08/Shot46-640x497.jpg" alt="Don&#039;t say it... I know what you&#039;re thinking... craft" title="Don&#039;t say it... I know what you&#039;re thinking... craft" width="640" height="497" class="size-large wp-image-5217" srcset="http://blog.toonormal.com/wp-content/uploads/2012/08/Shot46-640x497.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2012/08/Shot46-450x349.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2012/08/Shot46.jpg 661w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2012/08/Shot46.jpg"><img src="/wp-content/uploads/2012/08/Shot46-640x497.jpg" alt="Don&#039;t say it... I know what you&#039;re thinking... craft" title="Don&#039;t say it... I know what you&#039;re thinking... craft" width="640" height="497" class="size-large wp-image-5217" srcset="/wp-content/uploads/2012/08/Shot46-640x497.jpg 640w, /wp-content/uploads/2012/08/Shot46-450x349.jpg 450w, /wp-content/uploads/2012/08/Shot46.jpg 661w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Height-mapped terrain with a look similar to baked Ambient Occlusion.
@@ -20,7 +20,7 @@ So, I&#8217;ve been dabbling with something new.
 </div>
 
 <div id="attachment_5235" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2012/08/Shot47.jpg"><img src="/wp-content/uploads/2012/08/Shot47-640x513.jpg" alt="" title="Seriously, don&#039;t" width="640" height="513" class="size-large wp-image-5235" srcset="http://blog.toonormal.com/wp-content/uploads/2012/08/Shot47-640x513.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2012/08/Shot47-450x361.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2012/08/Shot47.jpg 695w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2012/08/Shot47.jpg"><img src="/wp-content/uploads/2012/08/Shot47-640x513.jpg" alt="" title="Seriously, don&#039;t" width="640" height="513" class="size-large wp-image-5235" srcset="/wp-content/uploads/2012/08/Shot47-640x513.jpg 640w, /wp-content/uploads/2012/08/Shot47-450x361.jpg 450w, /wp-content/uploads/2012/08/Shot47.jpg 695w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Up close, showing the results of a lot of work, that doesn&#8217;t look like a lot of work
@@ -34,7 +34,7 @@ That said, I have very little experience in procedural generation. Smiles and ot
 So I&#8217;ve been spending some time recently experimenting.
 
 <div id="attachment_5222" style="max-width: 550px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2012/08/Shot07.png"><img src="/wp-content/uploads/2012/08/Shot07.png" alt="" title="Not quite Texas" width="540" height="537" class="size-full wp-image-5222" srcset="http://blog.toonormal.com/wp-content/uploads/2012/08/Shot07.png 540w, http://blog.toonormal.com/wp-content/uploads/2012/08/Shot07-150x150.png 150w, http://blog.toonormal.com/wp-content/uploads/2012/08/Shot07-450x447.png 450w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="/wp-content/uploads/2012/08/Shot07.png"><img src="/wp-content/uploads/2012/08/Shot07.png" alt="" title="Not quite Texas" width="540" height="537" class="size-full wp-image-5222" srcset="/wp-content/uploads/2012/08/Shot07.png 540w, /wp-content/uploads/2012/08/Shot07-150x150.png 150w, /wp-content/uploads/2012/08/Shot07-450x447.png 450w" sizes="(max-width: 540px) 100vw, 540px" /></a>
   
   <p class="wp-caption-text">
     Some early random island generation work, and a broken water/wave/precipitation simulation

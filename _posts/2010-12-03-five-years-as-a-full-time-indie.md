@@ -23,7 +23,7 @@ Yes, 5 years ago July I left my job as Technical Director at [Big Blue Bubble](h
 Back then I was still a regular contributor to Indie Games website [GameTunnel](http://www.gametunnel.com), and I hadn&#8217;t yet taken over as _the Ludum Dare guy_ (I was more annoying than useful back then &#8212; It&#8217;s April! Better run a compo!).
 
 <div id="attachment_3604" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/Shot02.png"><img src="/wp-content/uploads/2010/12/Shot02.png" alt="" title="Shot02" width="640" height="480" class="size-full wp-image-3604" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/Shot02.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/Shot02-450x337.png 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/Shot02.png"><img src="/wp-content/uploads/2010/12/Shot02.png" alt="" title="Shot02" width="640" height="480" class="size-full wp-image-3604" srcset="/wp-content/uploads/2010/12/Shot02.png 640w, /wp-content/uploads/2010/12/Shot02-450x337.png 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Uh oh... the flame is lit... what's going to happen now?
@@ -49,7 +49,7 @@ After my PuffBOMB revision, and for the rest of the year I started working on my
 A former boss of mine infected me with his fascination for an obscure Japanese platformer [Umihara Kawase](http://en.wikipedia.org/wiki/Umihara_Kawase), and after spending some time a year or so back learning spring physics, I decided I wanted to attack the &#8220;rope-game&#8221; idea.
 
 <div id="attachment_3623" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/Company01.png"><img src="/wp-content/uploads/2010/12/Company01-640x551.png" alt="" title="Company01" width="640" height="551" class="size-large wp-image-3623" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/Company01-640x551.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/Company01-450x388.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/12/Company01.png 778w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/Company01.png"><img src="/wp-content/uploads/2010/12/Company01-640x551.png" alt="" title="Company01" width="640" height="551" class="size-large wp-image-3623" srcset="/wp-content/uploads/2010/12/Company01-640x551.png 640w, /wp-content/uploads/2010/12/Company01-450x388.png 450w, /wp-content/uploads/2010/12/Company01.png 778w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     The Sykhronics website circa November 2005 ... back when it was just my pseudo-portfolio site
@@ -97,7 +97,7 @@ Mid 2006, we decided that **The Spider** lacked a clear end goal. Any attempt at
 Fall 2006, we decided to take what we&#8217;d done and start working on a remake of PuffBOMB called **PuffBOMB HD**. By January 2007, it looked like this.
 
 <div id="attachment_3646" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x.png"><img src="/wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x-640x451.png" alt="" title="PuffBOMB 480p Laptop Anisotropic 16x Smoothvision 0x" width="640" height="451" class="size-large wp-image-3646" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x-640x451.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x-450x317.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x.png 726w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x.png"><img src="/wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x-640x451.png" alt="" title="PuffBOMB 480p Laptop Anisotropic 16x Smoothvision 0x" width="640" height="451" class="size-large wp-image-3646" srcset="/wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x-640x451.png 640w, /wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x-450x317.png 450w, /wp-content/uploads/2010/12/PuffBOMB-480p-Laptop-Anisotropic-16x-Smoothvision-0x.png 726w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     The weird row of orange things was a (physically) a chain rope... just not visually.
@@ -109,7 +109,7 @@ The original plan was for me to do the art, but at the time I never really did m
 By June 2007, the game looked like this.
 
 <div id="attachment_3651" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/Classic3.jpg"><img src="/wp-content/uploads/2010/12/Classic3-640x400.jpg" alt="" title="Classic3" width="640" height="400" class="size-large wp-image-3651" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/Classic3-640x400.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/Classic3-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/Classic3.jpg"><img src="/wp-content/uploads/2010/12/Classic3-640x400.jpg" alt="" title="Classic3" width="640" height="400" class="size-large wp-image-3651" srcset="/wp-content/uploads/2010/12/Classic3-640x400.jpg 640w, /wp-content/uploads/2010/12/Classic3-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Planning the next move
@@ -117,7 +117,7 @@ By June 2007, the game looked like this.
 </div>
 
 <div id="attachment_3652" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/Classic2.jpg"><img src="/wp-content/uploads/2010/12/Classic2-640x400.jpg" alt="" title="Classic2" width="640" height="400" class="size-large wp-image-3652" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/Classic2-640x400.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/Classic2-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/Classic2.jpg"><img src="/wp-content/uploads/2010/12/Classic2-640x400.jpg" alt="" title="Classic2" width="640" height="400" class="size-large wp-image-3652" srcset="/wp-content/uploads/2010/12/Classic2-640x400.jpg 640w, /wp-content/uploads/2010/12/Classic2-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Soft body mushroom physics, and an evil vortex (the one piece of artwork that I did ... oh, and the horrible UI)
@@ -125,7 +125,7 @@ By June 2007, the game looked like this.
 </div>
 
 <div id="attachment_3653" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/Classic1.jpg"><img src="/wp-content/uploads/2010/12/Classic1-640x400.jpg" alt="" title="Classic1" width="640" height="400" class="size-large wp-image-3653" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/Classic1-640x400.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/Classic1-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/Classic1.jpg"><img src="/wp-content/uploads/2010/12/Classic1-640x400.jpg" alt="" title="Classic1" width="640" height="400" class="size-large wp-image-3653" srcset="/wp-content/uploads/2010/12/Classic1-640x400.jpg 640w, /wp-content/uploads/2010/12/Classic1-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Three 'hamsters', an evil vortex, and a vase
@@ -133,7 +133,7 @@ By June 2007, the game looked like this.
 </div>
 
 <div id="attachment_3654" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/Tournament2.jpg"><img src="/wp-content/uploads/2010/12/Tournament2-640x400.jpg" alt="" title="Tournament2" width="640" height="400" class="size-large wp-image-3654" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/Tournament2-640x400.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/Tournament2-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/Tournament2.jpg"><img src="/wp-content/uploads/2010/12/Tournament2-640x400.jpg" alt="" title="Tournament2" width="640" height="400" class="size-large wp-image-3654" srcset="/wp-content/uploads/2010/12/Tournament2-640x400.jpg 640w, /wp-content/uploads/2010/12/Tournament2-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Multiplayer Mode
@@ -193,7 +193,7 @@ Then one day, I&#8217;m visiting my mom, when she throws out a line she hasn&#82
 I&#8217;ve always responded to that with a bold &#8220;_I refuse to rip off an existing game. If I do make something like that, it has to be based on an original idea_&#8220;. For kicks, I thought I&#8217;d try coming up with something. I came up with an &#8220;original&#8221; matching game mechanic; I start prototyping it, and before I even get it half working, I discover something: My original concept was too complicated, but half implemented it&#8217;s actually unique, original, and a pretty good idea. The concept seemed too obvious, and I was actually afraid if I didn&#8217;t do it, someone else would &#8230; and it would be soon. At least with PuffBOMB clones, the barrier to entry was higher (though physics middleware is far more prevalent today). This matching game though, many coders could get it up and running in just a weekend.
 
 <div id="attachment_3698" style="max-width: 496px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/PTShot02.png"><img src="/wp-content/uploads/2010/12/PTShot02.png" alt="" title="PTShot02" width="486" height="352" class="size-full wp-image-3698" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/PTShot02.png 486w, http://blog.toonormal.com/wp-content/uploads/2010/12/PTShot02-450x325.png 450w" sizes="(max-width: 486px) 100vw, 486px" /></a>
+  <a href="/wp-content/uploads/2010/12/PTShot02.png"><img src="/wp-content/uploads/2010/12/PTShot02.png" alt="" title="PTShot02" width="486" height="352" class="size-full wp-image-3698" srcset="/wp-content/uploads/2010/12/PTShot02.png 486w, /wp-content/uploads/2010/12/PTShot02-450x325.png 450w" sizes="(max-width: 486px) 100vw, 486px" /></a>
   
   <p class="wp-caption-text">
     Pattern Trade prototype, after match detection was working, I realized this by itself is actually a neat game. It became Smiles' Zen mode
@@ -245,7 +245,7 @@ I wrote a book (chapter).
 Later that year I (finished) porting the game to Netbooks.
 
 <div id="attachment_3705" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/NetbookSmiles.jpg"><img src="/wp-content/uploads/2010/12/NetbookSmiles-640x480.jpg" alt="" title="NetbookSmiles" width="640" height="480" class="size-large wp-image-3705" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/NetbookSmiles-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/NetbookSmiles-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/12/NetbookSmiles.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/NetbookSmiles.jpg"><img src="/wp-content/uploads/2010/12/NetbookSmiles-640x480.jpg" alt="" title="NetbookSmiles" width="640" height="480" class="size-large wp-image-3705" srcset="/wp-content/uploads/2010/12/NetbookSmiles-640x480.jpg 640w, /wp-content/uploads/2010/12/NetbookSmiles-450x337.jpg 450w, /wp-content/uploads/2010/12/NetbookSmiles.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     I like netbooks
@@ -277,7 +277,7 @@ I ported it to iPad, where it was a launch title.
 In September I was invited by Intel to speak at their Elements conference (held alongside Intel Developer Forum) in San Fransisco.
 
 <div id="attachment_3733" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/5009240303_6f52a23b4d_b.jpg"><img src="/wp-content/uploads/2010/12/5009240303_6f52a23b4d_b-640x478.jpg" alt="" title="5009240303_6f52a23b4d_b" width="640" height="478" class="size-large wp-image-3733" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/5009240303_6f52a23b4d_b-640x478.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/5009240303_6f52a23b4d_b-450x336.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/12/5009240303_6f52a23b4d_b.jpg 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/5009240303_6f52a23b4d_b.jpg"><img src="/wp-content/uploads/2010/12/5009240303_6f52a23b4d_b-640x478.jpg" alt="" title="5009240303_6f52a23b4d_b" width="640" height="478" class="size-large wp-image-3733" srcset="/wp-content/uploads/2010/12/5009240303_6f52a23b4d_b-640x478.jpg 640w, /wp-content/uploads/2010/12/5009240303_6f52a23b4d_b-450x336.jpg 450w, /wp-content/uploads/2010/12/5009240303_6f52a23b4d_b.jpg 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     2nd from the right, black and white shirt... that was a big stage
@@ -297,7 +297,7 @@ A bunch more platforms including webOS, Maemo, Windows Mobile 6.5 and more recen
 And VERY recently I&#8217;ve started seeding the game to PC distributors.
 
 <div id="attachment_3711" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/NewStore01.png"><img src="/wp-content/uploads/2010/12/NewStore01-640x429.png" alt="" title="NewStore01" width="640" height="429" class="size-large wp-image-3711" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/NewStore01-640x429.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/12/NewStore01-450x302.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/12/NewStore01.png 894w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/12/NewStore01.png"><img src="/wp-content/uploads/2010/12/NewStore01-640x429.png" alt="" title="NewStore01" width="640" height="429" class="size-large wp-image-3711" srcset="/wp-content/uploads/2010/12/NewStore01-640x429.png 640w, /wp-content/uploads/2010/12/NewStore01-450x302.png 450w, /wp-content/uploads/2010/12/NewStore01.png 894w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Desura - a Steam-Like service from the ModDB and IndieDB people. Very cool.

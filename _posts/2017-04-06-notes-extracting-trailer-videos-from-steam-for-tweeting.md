@@ -4,7 +4,7 @@ title: 'Notes: Extracting Trailer Videos from Steam for Tweeting'
 date: 2017-04-06T15:17:41+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9684
+guid: /?p=9684
 permalink: /2017/04/06/notes-extracting-trailer-videos-from-steam-for-tweeting/
 enclosure:
   - |
@@ -90,7 +90,7 @@ Which as you can see is quite unsightly.
 
 If you browse to a page on the PSN store website, open up the developer tools, from the network tab you can filter by **Media**.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/04/networkypsn.png" alt="" width="576" height="211" class="aligncenter size-full wp-image-9688" srcset="http://blog.toonormal.com/wp-content/uploads/2017/04/networkypsn.png 576w, http://blog.toonormal.com/wp-content/uploads/2017/04/networkypsn-450x165.png 450w" sizes="(max-width: 576px) 100vw, 576px" />](http://blog.toonormal.com/wp-content/uploads/2017/04/networkypsn.png)
+[<img src="/wp-content/uploads/2017/04/networkypsn.png" alt="" width="576" height="211" class="aligncenter size-full wp-image-9688" srcset="/wp-content/uploads/2017/04/networkypsn.png 576w, /wp-content/uploads/2017/04/networkypsn-450x165.png 450w" sizes="(max-width: 576px) 100vw, 576px" />](/wp-content/uploads/2017/04/networkypsn.png)
 
 With this open, once you **click the play button**, the video file that&#8217;s referenced will appear under Media. Open in its own tab and save it.
 

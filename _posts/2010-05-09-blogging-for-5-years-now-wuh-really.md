@@ -25,7 +25,7 @@ Between all this fun, I&#8217;ve been finishing my (updated) Windows and Linux p
 
 Also this week, **Smiles HD** was featured by Apple. Here&#8217;s a pic.
 
-[<img src="/wp-content/uploads/2010/05/SmilesHDFeatured-640x356.png" alt="" title="SmilesHDFeatured" width="640" height="356" class="aligncenter size-large wp-image-2575" srcset="http://blog.toonormal.com/wp-content/uploads/2010/05/SmilesHDFeatured-640x356.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/05/SmilesHDFeatured-450x250.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/05/SmilesHDFeatured.png 1024w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2010/05/SmilesHDFeatured.png)
+[<img src="/wp-content/uploads/2010/05/SmilesHDFeatured-640x356.png" alt="" title="SmilesHDFeatured" width="640" height="356" class="aligncenter size-large wp-image-2575" srcset="/wp-content/uploads/2010/05/SmilesHDFeatured-640x356.png 640w, /wp-content/uploads/2010/05/SmilesHDFeatured-450x250.png 450w, /wp-content/uploads/2010/05/SmilesHDFeatured.png 1024w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2010/05/SmilesHDFeatured.png)
 
 You could say I&#8217;ve been looking forward to this for a year and a half now&#8230; because&#8230; well&#8230; I have been. ;). So hooray! Smiles has _finally_ been featured!
 

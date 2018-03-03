@@ -21,7 +21,7 @@ To say I had a great time would be an understatement. Had I been around for just
 
 I&#8217;m thrilled to be a part of this great community.
 
-[<img src="/wp-content/uploads/2009/03/smilesigflogo-450x290.jpg" alt="smilesigflogo" title="smilesigflogo" width="450" height="290" class="aligncenter size-medium wp-image-933" srcset="http://blog.toonormal.com/wp-content/uploads/2009/03/smilesigflogo-450x290.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/03/smilesigflogo.jpg 580w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/03/smilesigflogo.jpg)
+[<img src="/wp-content/uploads/2009/03/smilesigflogo-450x290.jpg" alt="smilesigflogo" title="smilesigflogo" width="450" height="290" class="aligncenter size-medium wp-image-933" srcset="/wp-content/uploads/2009/03/smilesigflogo-450x290.jpg 450w, /wp-content/uploads/2009/03/smilesigflogo.jpg 580w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/03/smilesigflogo.jpg)
 
 At the [IGF+GD Choice Awards](http://gdc.gamespot.com/video/6206799/), Petri Purho of [Kloonigames](http://www.kloonigames.com/blog/) and [Crayon Physics](http://www.crayonphysics.com/) fame had this to say.
 
@@ -39,11 +39,11 @@ A few days later, &#8220;lite&#8221; version **Free Smiles** hits the store. It 
 
 Then comes the Game Developers Conference. After a great day of IGS festivities, hanging out with [Nelson](http://www.casuallyhardcore.com/) and a couple [ToJam](http://www.tojam.ca) guys, back at the hotel [Phil](http://www.galcon.com) and I make a wonderful discovery.
 
-[<img src="/wp-content/uploads/2009/03/itunesigf-412x450.jpg" alt="itunesigf" title="itunesigf" width="412" height="450" class="aligncenter size-medium wp-image-941" srcset="http://blog.toonormal.com/wp-content/uploads/2009/03/itunesigf-412x450.jpg 412w, http://blog.toonormal.com/wp-content/uploads/2009/03/itunesigf.jpg 478w" sizes="(max-width: 412px) 100vw, 412px" />](/wp-content/uploads/2009/03/itunesigf.jpg)
+[<img src="/wp-content/uploads/2009/03/itunesigf-412x450.jpg" alt="itunesigf" title="itunesigf" width="412" height="450" class="aligncenter size-medium wp-image-941" srcset="/wp-content/uploads/2009/03/itunesigf-412x450.jpg 412w, /wp-content/uploads/2009/03/itunesigf.jpg 478w" sizes="(max-width: 412px) 100vw, 412px" />](/wp-content/uploads/2009/03/itunesigf.jpg)
 
 Where does that lovely image go you ask?
 
-[<img src="/wp-content/uploads/2009/03/igfapple-450x398.jpg" alt="igfapple" title="igfapple" width="450" height="398" class="aligncenter size-medium wp-image-945" srcset="http://blog.toonormal.com/wp-content/uploads/2009/03/igfapple-450x398.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/03/igfapple-1024x906.jpg 1024w, http://blog.toonormal.com/wp-content/uploads/2009/03/igfapple.jpg 1037w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/03/igfapple.jpg)
+[<img src="/wp-content/uploads/2009/03/igfapple-450x398.jpg" alt="igfapple" title="igfapple" width="450" height="398" class="aligncenter size-medium wp-image-945" srcset="/wp-content/uploads/2009/03/igfapple-450x398.jpg 450w, /wp-content/uploads/2009/03/igfapple-1024x906.jpg 1024w, /wp-content/uploads/2009/03/igfapple.jpg 1037w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/03/igfapple.jpg)
 
 Heck yeah! So officially, **Smiles** has _now_ been featured by Apple. Not individually yet, but as part of a collection of titles of some significance. Woo hoo!
 

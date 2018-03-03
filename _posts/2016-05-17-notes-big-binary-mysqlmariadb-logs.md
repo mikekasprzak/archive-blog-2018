@@ -4,7 +4,7 @@ title: 'Notes: Big Binary MySQL/MariaDB Logs'
 date: 2016-05-17T11:36:56+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=8818
+guid: /?p=8818
 permalink: /2016/05/17/notes-big-binary-mysqlmariadb-logs/
 categories:
   - Uncategorized

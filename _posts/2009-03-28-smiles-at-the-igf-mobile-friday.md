@@ -15,7 +15,7 @@ Friday was the short day. Wednesday and Thursday we exhibited 10-6, where Friday
 
 My neighbors were the Secret Exit guys. I ended up spending a bulk of the show goofing off with Tuukka, an artist on Zen Bound. The Secret Exit guys refer to him as the &#8220;prankster&#8221; of the bunch. I stepped out on occasion, one time to see a talk (Experimental Games Workshop). When I got back, my sign changed.
 
-[<img src="/wp-content/uploads/2009/03/modifiedsign-450x337.jpg" alt="modifiedsign" title="modifiedsign" width="450" height="337" class="aligncenter size-medium wp-image-913" srcset="http://blog.toonormal.com/wp-content/uploads/2009/03/modifiedsign-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/03/modifiedsign.jpg 912w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/03/modifiedsign.jpg)
+[<img src="/wp-content/uploads/2009/03/modifiedsign-450x337.jpg" alt="modifiedsign" title="modifiedsign" width="450" height="337" class="aligncenter size-medium wp-image-913" srcset="/wp-content/uploads/2009/03/modifiedsign-450x337.jpg 450w, /wp-content/uploads/2009/03/modifiedsign.jpg 912w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/03/modifiedsign.jpg)
 
 Good stuff.
 

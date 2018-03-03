@@ -4,7 +4,7 @@ title: 'Notes: Rogers Wireless E-mail to Text'
 date: 2016-09-20T23:26:38+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9300
+guid: /?p=9300
 permalink: /2016/09/20/notes-rogers-wireless-e-mail-to-text/
 categories:
   - Uncategorized

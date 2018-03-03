@@ -4,7 +4,7 @@ title: Connecting to devices via a Serial USB cable
 date: 2015-11-25T14:55:25+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7899
+guid: /?p=7899
 permalink: /2015/11/25/connecting-to-devices-via-a-serial-usb-cable/
 categories:
   - Technobabble

@@ -35,7 +35,7 @@ Now you can run **test.exe** or **testcpp.exe** and watch them crash. Be sure co
 
 If you read the documentation for DrMinGW, what may not be entirely obvious with **exchndl.dll** is that it doesn&#8217;t pop up a box, but instead writes an RPT file relative your executable (myapp.exe -> myapp.RPT).
 
-[<img src="/wp-content/uploads/2012/12/rpt.png" alt="" title="rpt" width="585" height="138" class="aligncenter size-full wp-image-5723" srcset="http://blog.toonormal.com/wp-content/uploads/2012/12/rpt.png 585w, http://blog.toonormal.com/wp-content/uploads/2012/12/rpt-450x106.png 450w" sizes="(max-width: 585px) 100vw, 585px" />](/wp-content/uploads/2012/12/rpt.png)
+[<img src="/wp-content/uploads/2012/12/rpt.png" alt="" title="rpt" width="585" height="138" class="aligncenter size-full wp-image-5723" srcset="/wp-content/uploads/2012/12/rpt.png 585w, /wp-content/uploads/2012/12/rpt-450x106.png 450w" sizes="(max-width: 585px) 100vw, 585px" />](/wp-content/uploads/2012/12/rpt.png)
 
 Relative the executable is alright for debugging, but once your game/app is installed by a user you no longer have permission to write relative your executable (unless you get elevated privileges). My solution is to write the report file somewhere safe instead. Below is a modified &#8220;OnStartup()&#8221; function that places the report in your roaming profile. Overwrite the original function found inside &#8220;exchndl.c&#8221; (#includes and all).
 
@@ -95,7 +95,7 @@ void OnStartup(void)
 
 Now if you&#8217;re to browse to your roaming profile directory, you&#8217;ll find the report.
 
-[<img src="/wp-content/uploads/2012/12/rptbetter.png" alt="" title="rptbetter" width="631" height="147" class="aligncenter size-full wp-image-5727" srcset="http://blog.toonormal.com/wp-content/uploads/2012/12/rptbetter.png 631w, http://blog.toonormal.com/wp-content/uploads/2012/12/rptbetter-450x104.png 450w" sizes="(max-width: 631px) 100vw, 631px" />](/wp-content/uploads/2012/12/rptbetter.png)
+[<img src="/wp-content/uploads/2012/12/rptbetter.png" alt="" title="rptbetter" width="631" height="147" class="aligncenter size-full wp-image-5727" srcset="/wp-content/uploads/2012/12/rptbetter.png 631w, /wp-content/uploads/2012/12/rptbetter-450x104.png 450w" sizes="(max-width: 631px) 100vw, 631px" />](/wp-content/uploads/2012/12/rptbetter.png)
 
 Phew!
 

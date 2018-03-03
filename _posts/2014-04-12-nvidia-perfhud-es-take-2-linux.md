@@ -77,11 +77,11 @@ The order of these 2 steps matters. I was not able to get PerfHUD ES to connect 
 
 If everything worked correctly, you&#8217;ll now be able to click on the currently running instance of the app.
 
-[<img src="/wp-content/uploads/2014/04/NVP2-330x450.png" alt="NVP2" width="330" height="450" class="aligncenter size-medium wp-image-6862" srcset="http://blog.toonormal.com/wp-content/uploads/2014/04/NVP2-330x450.png 330w, http://blog.toonormal.com/wp-content/uploads/2014/04/NVP2.png 410w" sizes="(max-width: 330px) 100vw, 330px" />](/wp-content/uploads/2014/04/NVP2.png)
+[<img src="/wp-content/uploads/2014/04/NVP2-330x450.png" alt="NVP2" width="330" height="450" class="aligncenter size-medium wp-image-6862" srcset="/wp-content/uploads/2014/04/NVP2-330x450.png 330w, /wp-content/uploads/2014/04/NVP2.png 410w" sizes="(max-width: 330px) 100vw, 330px" />](/wp-content/uploads/2014/04/NVP2.png)
 
 Click that, and click connect. Moments later the profiling should begin.
 
-[<img src="/wp-content/uploads/2014/04/NVP03-450x253.png" alt="NVP03" width="450" height="253" class="aligncenter size-medium wp-image-6863" srcset="http://blog.toonormal.com/wp-content/uploads/2014/04/NVP03-450x253.png 450w, http://blog.toonormal.com/wp-content/uploads/2014/04/NVP03-640x359.png 640w, http://blog.toonormal.com/wp-content/uploads/2014/04/NVP03.png 1366w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2014/04/NVP03.png)
+[<img src="/wp-content/uploads/2014/04/NVP03-450x253.png" alt="NVP03" width="450" height="253" class="aligncenter size-medium wp-image-6863" srcset="/wp-content/uploads/2014/04/NVP03-450x253.png 450w, /wp-content/uploads/2014/04/NVP03-640x359.png 640w, /wp-content/uploads/2014/04/NVP03.png 1366w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2014/04/NVP03.png)
 
 Click over to the Frame debugger. That&#8217;s where all the fun stuff is. Scrub through each draw command; View geometry, textures and shaders; and so on.
 

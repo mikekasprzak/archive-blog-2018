@@ -20,7 +20,7 @@ Dividing the width by the height gives us a scalar we can compare against the sa
 
 The following picture shows Smiles at it&#8217;s original size (480x**320**), pushed up as large as the height (1080x**720**) can fin in a **720p** screen (1280x**720**).  Note: the &#8220;1080&#8221; here is not the same thing as 1080p. Just an amusing coincidence.
 
-[<img class="aligncenter size-medium wp-image-834" title="stretchtoextents1" src="/wp-content/uploads/2009/02/stretchtoextents1-450x329.png" alt="stretchtoextents1" width="450" height="329" srcset="http://blog.toonormal.com/wp-content/uploads/2009/02/stretchtoextents1-450x329.png 450w, http://blog.toonormal.com/wp-content/uploads/2009/02/stretchtoextents1-1024x750.png 1024w, http://blog.toonormal.com/wp-content/uploads/2009/02/stretchtoextents1.png 1280w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/stretchtoextents1.png)
+[<img class="aligncenter size-medium wp-image-834" title="stretchtoextents1" src="/wp-content/uploads/2009/02/stretchtoextents1-450x329.png" alt="stretchtoextents1" width="450" height="329" srcset="/wp-content/uploads/2009/02/stretchtoextents1-450x329.png 450w, /wp-content/uploads/2009/02/stretchtoextents1-1024x750.png 1024w, /wp-content/uploads/2009/02/stretchtoextents1.png 1280w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/stretchtoextents1.png)
 
 This fits, but shows a good 200 pixels of empty space on the sides.
 
@@ -30,7 +30,7 @@ One of the design niceties of **Smiles** is that the game has both a foreground 
 
 So instead of &#8220;black baring&#8221; it, I can grow the background to fit the screen.
 
-[<img class="aligncenter size-medium wp-image-887" title="smhd04" src="/wp-content/uploads/2009/02/smhd04-450x253.jpg" alt="smhd04" width="450" height="253" srcset="http://blog.toonormal.com/wp-content/uploads/2009/02/smhd04-450x253.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/02/smhd04-1024x576.jpg 1024w, http://blog.toonormal.com/wp-content/uploads/2009/02/smhd04.jpg 1280w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/smhd04.jpg)
+[<img class="aligncenter size-medium wp-image-887" title="smhd04" src="/wp-content/uploads/2009/02/smhd04-450x253.jpg" alt="smhd04" width="450" height="253" srcset="/wp-content/uploads/2009/02/smhd04-450x253.jpg 450w, /wp-content/uploads/2009/02/smhd04-1024x576.jpg 1024w, /wp-content/uploads/2009/02/smhd04.jpg 1280w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/smhd04.jpg)
 
 At the moment I am cheating. I simply made sure I draw enough extra boxes over the sides to fill the width of the screen. Eventually I&#8217;ll have to make the backgrounds a little smarter, but GDC is coming up fast so time is short.
 

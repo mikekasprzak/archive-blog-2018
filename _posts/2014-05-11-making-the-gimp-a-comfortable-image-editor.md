@@ -22,7 +22,7 @@ It seems The GIMP has made some serious progress over the years. I still have th
 
 Ignore everything and immediately click this checkbox.
 
-[<img src="/wp-content/uploads/2014/05/Gimp01.png" alt="Gimp01" width="485" height="189" class="aligncenter size-full wp-image-6909" srcset="http://blog.toonormal.com/wp-content/uploads/2014/05/Gimp01.png 485w, http://blog.toonormal.com/wp-content/uploads/2014/05/Gimp01-450x175.png 450w" sizes="(max-width: 485px) 100vw, 485px" />](/wp-content/uploads/2014/05/Gimp01.png)
+[<img src="/wp-content/uploads/2014/05/Gimp01.png" alt="Gimp01" width="485" height="189" class="aligncenter size-full wp-image-6909" srcset="/wp-content/uploads/2014/05/Gimp01.png 485w, /wp-content/uploads/2014/05/Gimp01-450x175.png 450w" sizes="(max-width: 485px) 100vw, 485px" />](/wp-content/uploads/2014/05/Gimp01.png)
 
 90% of what you hate about The GIMP is now fixed.
 
@@ -32,7 +32,7 @@ Go to **Edit -> Preferences -> Input Devices -> Input Controllers (listed)**.
 
 Under **Active Controllers**, click on **Main Mouse Wheel** and then the Gear.
 
-[<img src="/wp-content/uploads/2014/05/Gimp04-640x306.png" alt="Gimp04" width="640" height="306" class="aligncenter size-large wp-image-6920" srcset="http://blog.toonormal.com/wp-content/uploads/2014/05/Gimp04-640x306.png 640w, http://blog.toonormal.com/wp-content/uploads/2014/05/Gimp04-450x215.png 450w, http://blog.toonormal.com/wp-content/uploads/2014/05/Gimp04.png 782w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2014/05/Gimp04.png)
+[<img src="/wp-content/uploads/2014/05/Gimp04-640x306.png" alt="Gimp04" width="640" height="306" class="aligncenter size-large wp-image-6920" srcset="/wp-content/uploads/2014/05/Gimp04-640x306.png 640w, /wp-content/uploads/2014/05/Gimp04-450x215.png 450w, /wp-content/uploads/2014/05/Gimp04.png 782w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2014/05/Gimp04.png)
 
 Click **Scroll Up (should be blank) -> Edit**, then pick **View -> Zoom In**.
   
@@ -79,7 +79,7 @@ I&#8217;m fairly certain somebody is screwing up their Integer to Float conversi
 
 **ENTER** needs to act like an accelerator key when in Dialogs.
 
-[<img src="/wp-content/uploads/2014/05/Gimp05.png" alt="Gimp05" width="406" height="408" class="aligncenter size-full wp-image-6924" srcset="http://blog.toonormal.com/wp-content/uploads/2014/05/Gimp05.png 406w, http://blog.toonormal.com/wp-content/uploads/2014/05/Gimp05-150x150.png 150w" sizes="(max-width: 406px) 100vw, 406px" />](/wp-content/uploads/2014/05/Gimp05.png)
+[<img src="/wp-content/uploads/2014/05/Gimp05.png" alt="Gimp05" width="406" height="408" class="aligncenter size-full wp-image-6924" srcset="/wp-content/uploads/2014/05/Gimp05.png 406w, /wp-content/uploads/2014/05/Gimp05-150x150.png 150w" sizes="(max-width: 406px) 100vw, 406px" />](/wp-content/uploads/2014/05/Gimp05.png)
 
 You&#8217;ll note that &#8220;Scale&#8221; is lit up. As long as I&#8217;m in a text field, it stays that way. I should be able to push **ENTER** right now to accept the settings; Otherwise, why the heck have you wasted my time highlighting Scale?
 

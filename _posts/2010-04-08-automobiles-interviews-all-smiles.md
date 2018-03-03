@@ -24,7 +24,7 @@ Since last year, Intel has been running a contest to attract developers to their
 Late January, I received a note informing me that I came **2nd Place** in their Early Bird Deadline contest. The Early Bird contest featured 5 prizes; 3 home entertainment packages, and **2 cars**!
 
 <div id="attachment_2455" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/04/015.jpg"><img src="/wp-content/uploads/2010/04/015-640x480.jpg" alt="" title="015" width="640" height="480" class="size-large wp-image-2455" srcset="http://blog.toonormal.com/wp-content/uploads/2010/04/015-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/04/015-450x337.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/04/015.jpg"><img src="/wp-content/uploads/2010/04/015-640x480.jpg" alt="" title="015" width="640" height="480" class="size-large wp-image-2455" srcset="/wp-content/uploads/2010/04/015-640x480.jpg 640w, /wp-content/uploads/2010/04/015-450x337.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     This is somewhat appropriate. A car won with a cheerful game called Smiles. Even the car is smiling.
@@ -32,7 +32,7 @@ Late January, I received a note informing me that I came **2nd Place** in their 
 </div>
 
 <div id="attachment_2456" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/04/018.jpg"><img src="/wp-content/uploads/2010/04/018-640x480.jpg" alt="" title="018" width="640" height="480" class="size-large wp-image-2456" srcset="http://blog.toonormal.com/wp-content/uploads/2010/04/018-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/04/018-450x337.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/04/018.jpg"><img src="/wp-content/uploads/2010/04/018-640x480.jpg" alt="" title="018" width="640" height="480" class="size-large wp-image-2456" srcset="/wp-content/uploads/2010/04/018-640x480.jpg 640w, /wp-content/uploads/2010/04/018-450x337.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     iPhone Smiles is small enough to be downloaded 2x over 3G, and you can fit 2 of my cars in a parking space.
@@ -50,7 +50,7 @@ Then it happened again!
 Around the middle of February, I get ANOTHER e-mail, this time telling me my game Smiles won the &#8220;**Elegance in Design**&#8221; award. That was 1 of 2 prizes everyone was gunning for (the other award was &#8220;Most Innovative App&#8221; which went to [FXpansion for GURU](http://www.fxpansion.com/)). And what was the prize? Oh, an all expense paid trip to GDC!
 
 <div id="attachment_2163" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/03/TwiceTheGDC1.jpg"><img src="/wp-content/uploads/2010/03/TwiceTheGDC1-640x479.jpg" alt="" title="TwiceTheGDC" width="640" height="479" class="size-large wp-image-2163" srcset="http://blog.toonormal.com/wp-content/uploads/2010/03/TwiceTheGDC1-640x479.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/03/TwiceTheGDC1-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/03/TwiceTheGDC1.jpg 979w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/03/TwiceTheGDC1.jpg"><img src="/wp-content/uploads/2010/03/TwiceTheGDC1-640x479.jpg" alt="" title="TwiceTheGDC" width="640" height="479" class="size-large wp-image-2163" srcset="/wp-content/uploads/2010/03/TwiceTheGDC1-640x479.jpg 640w, /wp-content/uploads/2010/03/TwiceTheGDC1-450x337.jpg 450w, /wp-content/uploads/2010/03/TwiceTheGDC1.jpg 979w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     I don't know about you, but I really did have TWICE the GDC as everyone else
@@ -68,7 +68,7 @@ How about a free computer?
 The final giveaway from Intel was for the first 100 approved apps. I made the Early Bird deadline, so I caught this one easily. Free &#8220;top of the line&#8221; Netbook!
 
 <div id="attachment_2414" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/04/NetbookSmiles.jpg"><img src="/wp-content/uploads/2010/04/NetbookSmiles-640x480.jpg" alt="" title="NetbookSmiles" width="640" height="480" class="size-large wp-image-2414" srcset="http://blog.toonormal.com/wp-content/uploads/2010/04/NetbookSmiles-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/04/NetbookSmiles-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/04/NetbookSmiles.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/04/NetbookSmiles.jpg"><img src="/wp-content/uploads/2010/04/NetbookSmiles-640x480.jpg" alt="" title="NetbookSmiles" width="640" height="480" class="size-large wp-image-2414" srcset="/wp-content/uploads/2010/04/NetbookSmiles-640x480.jpg 640w, /wp-content/uploads/2010/04/NetbookSmiles-450x337.jpg 450w, /wp-content/uploads/2010/04/NetbookSmiles.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Smiles on my new Netbook
@@ -82,7 +82,7 @@ So, holy crap! That&#8217;s a lot of awesome! Clearly I am the happiest game mak
 Oh hey, there&#8217;s actually more!
 
 <div id="attachment_2470" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/04/IntelBooks.jpg"><img src="/wp-content/uploads/2010/04/IntelBooks-640x480.jpg" alt="" title="IntelBooks" width="640" height="480" class="size-large wp-image-2470" srcset="http://blog.toonormal.com/wp-content/uploads/2010/04/IntelBooks-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/04/IntelBooks-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/04/IntelBooks.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/04/IntelBooks.jpg"><img src="/wp-content/uploads/2010/04/IntelBooks-640x480.jpg" alt="" title="IntelBooks" width="640" height="480" class="size-large wp-image-2470" srcset="/wp-content/uploads/2010/04/IntelBooks-640x480.jpg 640w, /wp-content/uploads/2010/04/IntelBooks-450x337.jpg 450w, /wp-content/uploads/2010/04/IntelBooks.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Submit an app and actually use their site, score a free book. Not bad.
@@ -94,7 +94,7 @@ As part of Intel&#8217;s dev program, submitting an app and participating in the
 Oh, and at GDC, I grabbed one of these from the Intel booth too. One of the cooler pieces of GDC shwag, now a permanent desk ornament.
 
 <div id="attachment_2466" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/04/IntelDeskLamp.jpg"><img src="/wp-content/uploads/2010/04/IntelDeskLamp-640x480.jpg" alt="" title="IntelDeskLamp" width="640" height="480" class="size-large wp-image-2466" srcset="http://blog.toonormal.com/wp-content/uploads/2010/04/IntelDeskLamp-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/04/IntelDeskLamp-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/04/IntelDeskLamp.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/04/IntelDeskLamp.jpg"><img src="/wp-content/uploads/2010/04/IntelDeskLamp-640x480.jpg" alt="" title="IntelDeskLamp" width="640" height="480" class="size-large wp-image-2466" srcset="/wp-content/uploads/2010/04/IntelDeskLamp-640x480.jpg 640w, /wp-content/uploads/2010/04/IntelDeskLamp-450x337.jpg 450w, /wp-content/uploads/2010/04/IntelDeskLamp.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Shake it and it changes colors, while the confetti swirls around the gel.

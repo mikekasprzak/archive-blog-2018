@@ -13,7 +13,7 @@ Well it seems I didn&#8217;t make any of the launch day &#8220;Featured&#8221; s
 
 **Smiles HD**, regular price $4.99 is FREE April 3rd!
 
-[<img src="/wp-content/uploads/2010/04/FreeDay.png" alt="" title="FreeDay" width="592" height="264" class="aligncenter size-full wp-image-2389" srcset="http://blog.toonormal.com/wp-content/uploads/2010/04/FreeDay.png 592w, http://blog.toonormal.com/wp-content/uploads/2010/04/FreeDay-450x200.png 450w" sizes="(max-width: 592px) 100vw, 592px" />](http://itunes.apple.com/us/app/smiles-hd/id364871736?mt=8)
+[<img src="/wp-content/uploads/2010/04/FreeDay.png" alt="" title="FreeDay" width="592" height="264" class="aligncenter size-full wp-image-2389" srcset="/wp-content/uploads/2010/04/FreeDay.png 592w, /wp-content/uploads/2010/04/FreeDay-450x200.png 450w" sizes="(max-width: 592px) 100vw, 592px" />](http://itunes.apple.com/us/app/smiles-hd/id364871736?mt=8)
 
 <http://itunes.apple.com/us/app/smiles-hd/id364871736?mt=8>
 

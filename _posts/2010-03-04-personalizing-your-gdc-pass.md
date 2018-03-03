@@ -17,7 +17,7 @@ Ordinarily, greeting someone by glancing at their chest might be seen as a littl
 The passes do a good job of helping you connect a face to a name, and even a company, but you don&#8217;t always know who made or represents what. GDC passes include a relatively large pocket, so you could either make something to insert behind your name card, or cover the pass with some strategically placed stickers.
 
 <div id="attachment_2081" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/03/GDCPass.jpg"><img src="/wp-content/uploads/2010/03/GDCPass-640x485.jpg" alt="" title="GDCPass" width="640" height="485" class="size-large wp-image-2081" srcset="http://blog.toonormal.com/wp-content/uploads/2010/03/GDCPass-640x485.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/03/GDCPass-450x341.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/03/GDCPass.jpg 1521w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/03/GDCPass.jpg"><img src="/wp-content/uploads/2010/03/GDCPass-640x485.jpg" alt="" title="GDCPass" width="640" height="485" class="size-large wp-image-2081" srcset="/wp-content/uploads/2010/03/GDCPass-640x485.jpg 640w, /wp-content/uploads/2010/03/GDCPass-450x341.jpg 450w, /wp-content/uploads/2010/03/GDCPass.jpg 1521w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Mike the walking Ludum Dare advertisement

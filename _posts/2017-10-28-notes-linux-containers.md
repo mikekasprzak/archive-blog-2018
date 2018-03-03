@@ -4,7 +4,7 @@ title: 'Notes: Linux Containers'
 date: 2017-10-28T14:07:04+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9781
+guid: /?p=9781
 permalink: /2017/10/28/notes-linux-containers/
 categories:
   - Uncategorized

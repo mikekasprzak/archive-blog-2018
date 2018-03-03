@@ -4,16 +4,16 @@ title: Orange Pi Lite Notes
 date: 2016-08-30T04:45:29+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9189
+guid: /?p=9189
 permalink: /2016/08/30/orange-pi-lite-notes/
 categories:
   - Uncategorized
 ---
 Hey! It&#8217;s more notes!
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2016/08/orangepi_lite_detail1-640x482.jpg" alt="orangepi_lite_detail1" width="640" height="482" class="aligncenter size-large wp-image-9190" srcset="http://blog.toonormal.com/wp-content/uploads/2016/08/orangepi_lite_detail1-640x482.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/08/orangepi_lite_detail1-450x339.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/08/orangepi_lite_detail1.jpg 816w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2016/08/orangepi_lite_detail1.jpg)
+[<img src="/wp-content/uploads/2016/08/orangepi_lite_detail1-640x482.jpg" alt="orangepi_lite_detail1" width="640" height="482" class="aligncenter size-large wp-image-9190" srcset="/wp-content/uploads/2016/08/orangepi_lite_detail1-640x482.jpg 640w, /wp-content/uploads/2016/08/orangepi_lite_detail1-450x339.jpg 450w, /wp-content/uploads/2016/08/orangepi_lite_detail1.jpg 816w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2016/08/orangepi_lite_detail1.jpg)
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2016/08/Opi_gpio-640x560.png" alt="Opi_gpio" width="640" height="560" class="aligncenter size-large wp-image-9191" srcset="http://blog.toonormal.com/wp-content/uploads/2016/08/Opi_gpio-640x560.png 640w, http://blog.toonormal.com/wp-content/uploads/2016/08/Opi_gpio-450x394.png 450w, http://blog.toonormal.com/wp-content/uploads/2016/08/Opi_gpio.png 800w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2016/08/Opi_gpio.png)
+[<img src="/wp-content/uploads/2016/08/Opi_gpio-640x560.png" alt="Opi_gpio" width="640" height="560" class="aligncenter size-large wp-image-9191" srcset="/wp-content/uploads/2016/08/Opi_gpio-640x560.png 640w, /wp-content/uploads/2016/08/Opi_gpio-450x394.png 450w, /wp-content/uploads/2016/08/Opi_gpio.png 800w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2016/08/Opi_gpio.png)
 
 Orange Pi Lite is, IMO, the only difficult Orange Pi to get working. Primarily, because it has WiFi, and no Network socket.
 

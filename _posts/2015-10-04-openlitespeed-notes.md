@@ -4,7 +4,7 @@ title: OpenLiteSpeed Notes
 date: 2015-10-04T03:40:35+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7623
+guid: /?p=7623
 permalink: /2015/10/04/openlitespeed-notes/
 categories:
   - Uncategorized

@@ -4,14 +4,14 @@ title: 'Research: Fixing 858D Hot Air Stations and Fake Hakko Irons'
 date: 2016-02-06T04:06:11+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=8196
+guid: /?p=8196
 permalink: /2016/02/06/research-fixing-858d-hot-air-stations-and-fake-hakko-irons/
 categories:
   - Technobabble
 ---
 Researching, I learned that China **does** make some good Soldering Stations, Hot Air Stations, even some good hybrids. 
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/02/YIHUA_898D.jpg" rel="attachment wp-att-8199"><img src="http://blog.toonormal.com/wp-content/uploads/2016/02/YIHUA_898D-450x317.jpg" alt="YIHUA_898D" width="450" height="317" class="aligncenter size-medium wp-image-8199" srcset="http://blog.toonormal.com/wp-content/uploads/2016/02/YIHUA_898D-450x317.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/02/YIHUA_898D.jpg 560w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/02/YIHUA_898D.jpg" rel="attachment wp-att-8199"><img src="/wp-content/uploads/2016/02/YIHUA_898D-450x317.jpg" alt="YIHUA_898D" width="450" height="317" class="aligncenter size-medium wp-image-8199" srcset="/wp-content/uploads/2016/02/YIHUA_898D-450x317.jpg 450w, /wp-content/uploads/2016/02/YIHUA_898D.jpg 560w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 The problem is they assemble them wrong. VERY WRONG! **DANGEROUSLY WRONG!**
 
@@ -65,13 +65,13 @@ Yikes.
 
 So instead, I&#8217;ve decided to try a fake/counterfeit Hakko 936. Hakko being a top quality Japanese maker of Irons.
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/02/fakehakko.jpg" rel="attachment wp-att-8237"><img src="http://blog.toonormal.com/wp-content/uploads/2016/02/fakehakko-450x289.jpg" alt="fakehakko" width="450" height="289" class="aligncenter size-medium wp-image-8237" srcset="http://blog.toonormal.com/wp-content/uploads/2016/02/fakehakko-450x289.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/02/fakehakko-640x411.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/02/fakehakko.jpg 700w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/02/fakehakko.jpg" rel="attachment wp-att-8237"><img src="/wp-content/uploads/2016/02/fakehakko-450x289.jpg" alt="fakehakko" width="450" height="289" class="aligncenter size-medium wp-image-8237" srcset="/wp-content/uploads/2016/02/fakehakko-450x289.jpg 450w, /wp-content/uploads/2016/02/fakehakko-640x411.jpg 640w, /wp-content/uploads/2016/02/fakehakko.jpg 700w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 The 936 is actually an obsolete iron that&#8217;s no longer made.
 
 Now, this is not the same thing as the clone Hakko&#8217;s.
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/02/clonehakko.jpg" rel="attachment wp-att-8238"><img src="http://blog.toonormal.com/wp-content/uploads/2016/02/clonehakko-450x450.jpg" alt="clonehakko" width="450" height="450" class="aligncenter size-medium wp-image-8238" srcset="http://blog.toonormal.com/wp-content/uploads/2016/02/clonehakko-450x450.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/02/clonehakko-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2016/02/clonehakko-640x640.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/02/clonehakko.jpg 750w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/02/clonehakko.jpg" rel="attachment wp-att-8238"><img src="/wp-content/uploads/2016/02/clonehakko-450x450.jpg" alt="clonehakko" width="450" height="450" class="aligncenter size-medium wp-image-8238" srcset="/wp-content/uploads/2016/02/clonehakko-450x450.jpg 450w, /wp-content/uploads/2016/02/clonehakko-150x150.jpg 150w, /wp-content/uploads/2016/02/clonehakko-640x640.jpg 640w, /wp-content/uploads/2016/02/clonehakko.jpg 750w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 The clones all have strange company names, the same case and product code, but there are actually a some subtle differences. For one, the connector used by the irons is actually the opposite (female instead of male), so it&#8217;s not directly compatible (even though it&#8217;s effectively the same).
 
@@ -85,7 +85,7 @@ Of course, when I say &#8220;better made&#8221;, it&#8217;s a loose suggestion. 
 
 Not to mention, you can cheaply buy replacement parts for everything, from the irons, the heating elements, even the sockets and main board.
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/02/hakkoboard.jpg" rel="attachment wp-att-8240"><img src="http://blog.toonormal.com/wp-content/uploads/2016/02/hakkoboard-450x450.jpg" alt="hakkoboard" width="450" height="450" class="aligncenter size-medium wp-image-8240" srcset="http://blog.toonormal.com/wp-content/uploads/2016/02/hakkoboard-450x450.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/02/hakkoboard-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2016/02/hakkoboard-640x640.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/02/hakkoboard.jpg 1200w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/02/hakkoboard.jpg" rel="attachment wp-att-8240"><img src="/wp-content/uploads/2016/02/hakkoboard-450x450.jpg" alt="hakkoboard" width="450" height="450" class="aligncenter size-medium wp-image-8240" srcset="/wp-content/uploads/2016/02/hakkoboard-450x450.jpg 450w, /wp-content/uploads/2016/02/hakkoboard-150x150.jpg 150w, /wp-content/uploads/2016/02/hakkoboard-640x640.jpg 640w, /wp-content/uploads/2016/02/hakkoboard.jpg 1200w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 You could literally build one from parts.
 
@@ -93,7 +93,7 @@ So this is why I decided to go with a fake Hakko, for the repair-ability. My uni
 
 As for the standalone SMD Station (hot air gun), I actually bought one off Amazon. It&#8217;s totally one of the same cheap ones you get off AliExpress, but frankly price wasn&#8217;t any better if I was to order direct. 
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/02/smdstation.jpg" rel="attachment wp-att-8244"><img src="http://blog.toonormal.com/wp-content/uploads/2016/02/smdstation-450x450.jpg" alt="smdstation" width="450" height="450" class="aligncenter size-medium wp-image-8244" srcset="http://blog.toonormal.com/wp-content/uploads/2016/02/smdstation-450x450.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/02/smdstation-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2016/02/smdstation-640x640.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/02/smdstation.jpg 1001w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/02/smdstation.jpg" rel="attachment wp-att-8244"><img src="/wp-content/uploads/2016/02/smdstation-450x450.jpg" alt="smdstation" width="450" height="450" class="aligncenter size-medium wp-image-8244" srcset="/wp-content/uploads/2016/02/smdstation-450x450.jpg 450w, /wp-content/uploads/2016/02/smdstation-150x150.jpg 150w, /wp-content/uploads/2016/02/smdstation-640x640.jpg 640w, /wp-content/uploads/2016/02/smdstation.jpg 1001w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 Despite the photo, I&#8217;m not entirely sure the unit has those memory recall buttons. The Amazon page has variants with and without, and people that own them have suggested theirs did not have the buttons. TBD.
 

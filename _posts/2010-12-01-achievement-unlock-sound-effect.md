@@ -22,13 +22,13 @@ I am a regular [twitter user](http://twitter.com/mikekasprzak). I run a client (
 A couple days ago, I caught glance of this request from [Noel Llopis](http://gamesfromwithin.com/) (developer of Flower Garden, Dr. Seuss&#8217; Lorax Garden, and the upcoming Casey’s Contraptions).
 
 <center>
-  <a href="http://twitter.com/#!/noel_llopis/status/9509528957616128"><img src="/wp-content/uploads/2010/12/NoelTwitter.png" alt="" title="NoelTwitter" width="540" height="92" class="size-full wp-image-3554" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/NoelTwitter.png 540w, http://blog.toonormal.com/wp-content/uploads/2010/12/NoelTwitter-450x76.png 450w" sizes="(max-width: 540px) 100vw, 540px" /></a>
+  <a href="http://twitter.com/#!/noel_llopis/status/9509528957616128"><img src="/wp-content/uploads/2010/12/NoelTwitter.png" alt="" title="NoelTwitter" width="540" height="92" class="size-full wp-image-3554" srcset="/wp-content/uploads/2010/12/NoelTwitter.png 540w, /wp-content/uploads/2010/12/NoelTwitter-450x76.png 450w" sizes="(max-width: 540px) 100vw, 540px" /></a>
 </center>
 
 That&#8217;s a good question. As far as I know there&#8217;s no real &#8220;standard&#8221; achievement sound (unless you want to rip-off Microsoft). I made my own way back when I was doing the sound design for Smiles, and I think it&#8217;s pretty good. It&#8217;s toned at a rather high pitch, and does a good job cutting through any music and sound effects playing.
 
 <div id="attachment_3552" style="max-width: 567px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/12/Achievement.jpg"><img src="/wp-content/uploads/2010/12/Achievement.jpg" alt="" title="Achievement" width="557" height="138" class="size-full wp-image-3552" srcset="http://blog.toonormal.com/wp-content/uploads/2010/12/Achievement.jpg 557w, http://blog.toonormal.com/wp-content/uploads/2010/12/Achievement-450x111.jpg 450w" sizes="(max-width: 557px) 100vw, 557px" /></a>
+  <a href="/wp-content/uploads/2010/12/Achievement.jpg"><img src="/wp-content/uploads/2010/12/Achievement.jpg" alt="" title="Achievement" width="557" height="138" class="size-full wp-image-3552" srcset="/wp-content/uploads/2010/12/Achievement.jpg 557w, /wp-content/uploads/2010/12/Achievement-450x111.jpg 450w" sizes="(max-width: 557px) 100vw, 557px" /></a>
   
   <p class="wp-caption-text">
     Smiles take on achievement-unlocked popups

@@ -4,7 +4,7 @@ title: Using a PICkit2 on Linux
 date: 2016-01-26T19:08:34+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=8097
+guid: /?p=8097
 permalink: /2016/01/26/using-a-pickit2-on-linux/
 categories:
   - Linux

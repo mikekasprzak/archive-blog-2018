@@ -13,7 +13,7 @@ categories:
 I run an online game-jam event called [**Ludum Dare**](http://www.ludumdare.com), and this past weekend I got together with a friend ([Derek Laufman](http://twitter.com/laufman) of [**Halfbot**](http://www.halfbot.com)) and we made a game. What did we make? A platformer about size.
 
 <div id="attachment_5025" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="http://www.sykhronics.com/nook/60/"><img src="/wp-content/uploads/2012/04/SS_01.png" alt="" title="Click to Play!" width="640" height="480" class="size-full wp-image-5025" srcset="http://blog.toonormal.com/wp-content/uploads/2012/04/SS_01.png 640w, http://blog.toonormal.com/wp-content/uploads/2012/04/SS_01-450x337.png 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="http://www.sykhronics.com/nook/60/"><img src="/wp-content/uploads/2012/04/SS_01.png" alt="" title="Click to Play!" width="640" height="480" class="size-full wp-image-5025" srcset="/wp-content/uploads/2012/04/SS_01.png 640w, /wp-content/uploads/2012/04/SS_01-450x337.png 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Nook - A game where size matters. Click the image to Play!

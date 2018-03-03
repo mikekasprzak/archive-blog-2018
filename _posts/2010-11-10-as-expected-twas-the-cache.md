@@ -13,7 +13,7 @@ categories:
 Not much to say or show, just that the performance problem _was_ due to the textures being larger than the texture cache.
 
 <div id="attachment_3365" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Mac05.jpg"><img src="/wp-content/uploads/2010/11/Mac05-640x399.jpg" alt="" title="Mac05" width="640" height="399" class="size-large wp-image-3365" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Mac05-640x399.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac05-450x280.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac05.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/Mac05.jpg"><img src="/wp-content/uploads/2010/11/Mac05-640x399.jpg" alt="" title="Mac05" width="640" height="399" class="size-large wp-image-3365" srcset="/wp-content/uploads/2010/11/Mac05-640x399.jpg 640w, /wp-content/uploads/2010/11/Mac05-450x280.jpg 450w, /wp-content/uploads/2010/11/Mac05.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Under 10% CPU usage, much better

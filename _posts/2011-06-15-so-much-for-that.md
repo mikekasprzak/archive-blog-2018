@@ -13,7 +13,7 @@ categories:
 Hey, well that didn&#8217;t work. Smiles for WP7 after a couple weeks.
 
 <div id="attachment_4315" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/06/Win7.png"><img src="/wp-content/uploads/2011/06/Win7-640x460.png" alt="" title="Win7" width="640" height="460" class="size-large wp-image-4315" srcset="http://blog.toonormal.com/wp-content/uploads/2011/06/Win7-640x460.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/06/Win7-450x324.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/06/Win7.png 725w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/06/Win7.png"><img src="/wp-content/uploads/2011/06/Win7-640x460.png" alt="" title="Win7" width="640" height="460" class="size-large wp-image-4315" srcset="/wp-content/uploads/2011/06/Win7-640x460.png 640w, /wp-content/uploads/2011/06/Win7-450x324.png 450w, /wp-content/uploads/2011/06/Win7.png 725w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Note, that's cumulative... which means total overall

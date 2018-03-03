@@ -11,7 +11,7 @@ categories:
   - Smiles
   - Technobabble
 ---
-[<img src="/wp-content/uploads/2009/01/iphoneaudio-450x337.jpg" alt="iphoneaudio" title="iphoneaudio" width="450" height="337" class="alignnone size-medium wp-image-404" srcset="http://blog.toonormal.com/wp-content/uploads/2009/01/iphoneaudio-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/01/iphoneaudio-1024x768.jpg 1024w, http://blog.toonormal.com/wp-content/uploads/2009/01/iphoneaudio.jpg 1094w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/01/iphoneaudio.jpg)
+[<img src="/wp-content/uploads/2009/01/iphoneaudio-450x337.jpg" alt="iphoneaudio" title="iphoneaudio" width="450" height="337" class="alignnone size-medium wp-image-404" srcset="/wp-content/uploads/2009/01/iphoneaudio-450x337.jpg 450w, /wp-content/uploads/2009/01/iphoneaudio-1024x768.jpg 1024w, /wp-content/uploads/2009/01/iphoneaudio.jpg 1094w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/01/iphoneaudio.jpg)
 
 3x 2&#8243; binders full of documents. Looks like I have some reading to do.
 

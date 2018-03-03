@@ -15,7 +15,7 @@ categories:
 Now, this compo has been a little different. We announced our date nice and early, so the people at GDC would know about it, and to save us from silly &#8220;when will the compo be?&#8221; questions. So really, it was probably our best pre-announcement for a compo date to date.
 
 <div id="attachment_2163" style="max-width: 650px" class="wp-caption alignright">
-  <a href="/wp-content/uploads/2010/03/TwiceTheGDC1.jpg"><img src="/wp-content/uploads/2010/03/TwiceTheGDC1-640x479.jpg" alt="" title="TwiceTheGDC" width="640" height="479" class="size-large wp-image-2163" srcset="http://blog.toonormal.com/wp-content/uploads/2010/03/TwiceTheGDC1-640x479.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/03/TwiceTheGDC1-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/03/TwiceTheGDC1.jpg 979w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/03/TwiceTheGDC1.jpg"><img src="/wp-content/uploads/2010/03/TwiceTheGDC1-640x479.jpg" alt="" title="TwiceTheGDC" width="640" height="479" class="size-large wp-image-2163" srcset="/wp-content/uploads/2010/03/TwiceTheGDC1-640x479.jpg 640w, /wp-content/uploads/2010/03/TwiceTheGDC1-450x337.jpg 450w, /wp-content/uploads/2010/03/TwiceTheGDC1.jpg 979w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     I even made labels!

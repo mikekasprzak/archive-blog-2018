@@ -4,7 +4,7 @@ title: A summary of Mike 2016
 date: 2016-10-25T00:57:18+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9370
+guid: /?p=9370
 permalink: /2016/10/25/a-summary-of-mike-2016/
 categories:
   - Uncategorized

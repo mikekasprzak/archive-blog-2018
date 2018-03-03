@@ -13,7 +13,7 @@ categories:
 ---
 First on the agenda, the book is real.
 
-[<img src="/wp-content/uploads/2009/06/iphonebookisreal-450x271.jpg" alt="iphonebookisreal" title="iphonebookisreal" width="450" height="271" class="aligncenter size-medium wp-image-1140" srcset="http://blog.toonormal.com/wp-content/uploads/2009/06/iphonebookisreal-450x271.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/06/iphonebookisreal-1024x617.jpg 1024w, http://blog.toonormal.com/wp-content/uploads/2009/06/iphonebookisreal.jpg 1044w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/06/iphonebookisreal.jpg)
+[<img src="/wp-content/uploads/2009/06/iphonebookisreal-450x271.jpg" alt="iphonebookisreal" title="iphonebookisreal" width="450" height="271" class="aligncenter size-medium wp-image-1140" srcset="/wp-content/uploads/2009/06/iphonebookisreal-450x271.jpg 450w, /wp-content/uploads/2009/06/iphonebookisreal-1024x617.jpg 1024w, /wp-content/uploads/2009/06/iphonebookisreal.jpg 1044w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/06/iphonebookisreal.jpg)
 
 As you can see above, my three complimentary copies showed up in the mail today. Word from the [_Dread Pirate_](http://twitter.com/dreadpiratepj) himself (i.e. Lead Author/Tech Reviewer) is the books should be en route, if not already arriving at book stores all over the place. After all, the guy in Canada got his. 😉
 
@@ -37,11 +37,11 @@ And that&#8217;s pretty much everything. It&#8217;s a maintenance update, but fa
 
 Smiles makes a brief appearance at WWDC, via the App Wall. Big thanks to [Jay](http://www.loomsoft.net/) for meticulously searching the wall for me.
 
-[<img src="/wp-content/uploads/2009/06/smilesatwwdc2009-337x450.jpg" alt="smilesatwwdc2009" title="smilesatwwdc2009" width="337" height="450" class="aligncenter size-medium wp-image-1163" srcset="http://blog.toonormal.com/wp-content/uploads/2009/06/smilesatwwdc2009-337x450.jpg 337w, http://blog.toonormal.com/wp-content/uploads/2009/06/smilesatwwdc2009.jpg 600w" sizes="(max-width: 337px) 100vw, 337px" />](/wp-content/uploads/2009/06/smilesatwwdc2009.jpg)
+[<img src="/wp-content/uploads/2009/06/smilesatwwdc2009-337x450.jpg" alt="smilesatwwdc2009" title="smilesatwwdc2009" width="337" height="450" class="aligncenter size-medium wp-image-1163" srcset="/wp-content/uploads/2009/06/smilesatwwdc2009-337x450.jpg 337w, /wp-content/uploads/2009/06/smilesatwwdc2009.jpg 600w" sizes="(max-width: 337px) 100vw, 337px" />](/wp-content/uploads/2009/06/smilesatwwdc2009.jpg)
 
 Also, Smiles Drop snuck in to the gallery from another site. See the far left side for a very &#8220;not red&#8221; icon.
 
-[<img src="/wp-content/uploads/2009/06/appwallwithdrop-450x337.jpg" alt="appwallwithdrop" title="appwallwithdrop" width="450" height="337" class="aligncenter size-medium wp-image-1165" srcset="http://blog.toonormal.com/wp-content/uploads/2009/06/appwallwithdrop-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/06/appwallwithdrop.jpg 630w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/06/appwallwithdrop.jpg)
+[<img src="/wp-content/uploads/2009/06/appwallwithdrop-450x337.jpg" alt="appwallwithdrop" title="appwallwithdrop" width="450" height="337" class="aligncenter size-medium wp-image-1165" srcset="/wp-content/uploads/2009/06/appwallwithdrop-450x337.jpg 450w, /wp-content/uploads/2009/06/appwallwithdrop.jpg 630w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/06/appwallwithdrop.jpg)
 
 &#8211; &#8211; &#8211; &#8211; &#8211;
 

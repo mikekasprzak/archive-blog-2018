@@ -139,6 +139,6 @@ You can do this with the &#8220;**Additional Drivers**&#8221; program.
 
 Open it, wait a moment for it to show up, and do the above.
 
-[<img src="/wp-content/uploads/2015/01/SauceDriver-450x352.png" alt="SauceDriver" width="450" height="352" class="aligncenter size-medium wp-image-7181" srcset="http://blog.toonormal.com/wp-content/uploads/2015/01/SauceDriver-450x352.png 450w, http://blog.toonormal.com/wp-content/uploads/2015/01/SauceDriver.png 609w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2015/01/SauceDriver.png)
+[<img src="/wp-content/uploads/2015/01/SauceDriver-450x352.png" alt="SauceDriver" width="450" height="352" class="aligncenter size-medium wp-image-7181" srcset="/wp-content/uploads/2015/01/SauceDriver-450x352.png 450w, /wp-content/uploads/2015/01/SauceDriver.png 609w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2015/01/SauceDriver.png)
 
 You can quickly restart the graphics driver by logging out (instead of rebooting).

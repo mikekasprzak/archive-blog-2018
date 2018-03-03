@@ -89,7 +89,7 @@ Where the **Smiles** story begins is the **Grid** library.
 Here&#8217;s some concept art.
 
 <center>
-  <a href="/wp-content/uploads/2009/01/pillarmockup.png"><img src="/wp-content/uploads/2009/01/pillarmockup-449x337.png" alt="pillarmockup" title="pillarmockup" width="449" height="337" class="alignnone size-medium wp-image-501" srcset="http://blog.toonormal.com/wp-content/uploads/2009/01/pillarmockup-449x337.png 449w, http://blog.toonormal.com/wp-content/uploads/2009/01/pillarmockup.png 760w" sizes="(max-width: 449px) 100vw, 449px" /></a>
+  <a href="/wp-content/uploads/2009/01/pillarmockup.png"><img src="/wp-content/uploads/2009/01/pillarmockup-449x337.png" alt="pillarmockup" title="pillarmockup" width="449" height="337" class="alignnone size-medium wp-image-501" srcset="/wp-content/uploads/2009/01/pillarmockup-449x337.png 449w, /wp-content/uploads/2009/01/pillarmockup.png 760w" sizes="(max-width: 449px) 100vw, 449px" /></a>
 </center>
 
 **Pillar Caterpillar** wasn&#8217;t playable within the compo timeline. It however still featured some great pre-production work, and a useful chunk of code that became it&#8217;s own library in **Playground**. Further work was done on the project, but that mock-up is the coolest looking part.
@@ -101,7 +101,7 @@ For the time being, only minor changes were done to **Grid**.
 Shortly after the iPhone SDK was official announced in March 2008, I started prototyping some game concepts. The first, **Magtraction** (since Magnetica was taken, by a game completely unrelated to magnets).
 
 <center>
-  <a href="/wp-content/uploads/2009/01/magshot04.png"><img src="/wp-content/uploads/2009/01/magshot04-450x325.png" alt="magshot04" title="magshot04" width="450" height="325" class="alignnone size-medium wp-image-512" srcset="http://blog.toonormal.com/wp-content/uploads/2009/01/magshot04-450x325.png 450w, http://blog.toonormal.com/wp-content/uploads/2009/01/magshot04.png 486w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="/wp-content/uploads/2009/01/magshot04.png"><img src="/wp-content/uploads/2009/01/magshot04-450x325.png" alt="magshot04" title="magshot04" width="450" height="325" class="alignnone size-medium wp-image-512" srcset="/wp-content/uploads/2009/01/magshot04-450x325.png 450w, /wp-content/uploads/2009/01/magshot04.png 486w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 </center>
 
 A prototyped game concept deemed &#8220;**too boring**&#8220;.
@@ -109,7 +109,7 @@ A prototyped game concept deemed &#8220;**too boring**&#8220;.
 The second, **Dungeon Legion**.
 
 <center>
-  <a href="/wp-content/uploads/2009/01/legionshot04.png"><img src="/wp-content/uploads/2009/01/legionshot04-450x325.png" alt="legionshot04" title="legionshot04" width="450" height="325" class="alignnone size-medium wp-image-513" srcset="http://blog.toonormal.com/wp-content/uploads/2009/01/legionshot04-450x325.png 450w, http://blog.toonormal.com/wp-content/uploads/2009/01/legionshot04.png 486w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="/wp-content/uploads/2009/01/legionshot04.png"><img src="/wp-content/uploads/2009/01/legionshot04-450x325.png" alt="legionshot04" title="legionshot04" width="450" height="325" class="alignnone size-medium wp-image-513" srcset="/wp-content/uploads/2009/01/legionshot04-450x325.png 450w, /wp-content/uploads/2009/01/legionshot04.png 486w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 </center>
 
 A prototype game concept deemed &#8220;**too awesome**&#8220;. Too awesome to finish in a short period of time. 😀

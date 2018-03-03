@@ -17,7 +17,7 @@ Now this past weekend I did a promotion, giving Smiles Zen away for FREE. What m
 Some screenshots of the iPhone build running on my PC.
 
 <div id="attachment_1410" style="max-width: 460px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/11/SmilesZen13.jpg"><img src="/wp-content/uploads/2009/11/SmilesZen13-450x313.jpg" alt="Smiles Zen, promoting Drop" title="SmilesZen13" width="450" height="313" class="size-medium wp-image-1410" srcset="http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesZen13-450x313.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesZen13.jpg 966w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="/wp-content/uploads/2009/11/SmilesZen13.jpg"><img src="/wp-content/uploads/2009/11/SmilesZen13-450x313.jpg" alt="Smiles Zen, promoting Drop" title="SmilesZen13" width="450" height="313" class="size-medium wp-image-1410" srcset="/wp-content/uploads/2009/11/SmilesZen13-450x313.jpg 450w, /wp-content/uploads/2009/11/SmilesZen13.jpg 966w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p class="wp-caption-text">
     Smiles Zen, promoting Drop
@@ -25,7 +25,7 @@ Some screenshots of the iPhone build running on my PC.
 </div>
 
 <div id="attachment_1411" style="max-width: 460px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/11/SmilesDrop13.jpg"><img src="/wp-content/uploads/2009/11/SmilesDrop13-450x313.jpg" alt="Smiles Drop, promoting Zen" title="SmilesDrop13" width="450" height="313" class="size-medium wp-image-1411" srcset="http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesDrop13-450x313.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/11/SmilesDrop13.jpg 966w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="/wp-content/uploads/2009/11/SmilesDrop13.jpg"><img src="/wp-content/uploads/2009/11/SmilesDrop13-450x313.jpg" alt="Smiles Drop, promoting Zen" title="SmilesDrop13" width="450" height="313" class="size-medium wp-image-1411" srcset="/wp-content/uploads/2009/11/SmilesDrop13-450x313.jpg 450w, /wp-content/uploads/2009/11/SmilesDrop13.jpg 966w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p class="wp-caption-text">
     Smiles Drop, promoting Zen

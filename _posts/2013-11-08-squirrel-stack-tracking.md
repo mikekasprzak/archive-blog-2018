@@ -14,7 +14,7 @@ Squirrel native dev lives and dies by the stack, so here are some notes on the e
 
 NOTE: SQUserPointer&#8217;s are noted as void*&#8217;s (since that&#8217;s what they really are).
 
-[<img src="/wp-content/uploads/2013/11/SquirrelStack1-640x206.png" alt="SquirrelStack" width="640" height="206" class="aligncenter size-large wp-image-6421" srcset="http://blog.toonormal.com/wp-content/uploads/2013/11/SquirrelStack1-640x206.png 640w, http://blog.toonormal.com/wp-content/uploads/2013/11/SquirrelStack1-450x145.png 450w, http://blog.toonormal.com/wp-content/uploads/2013/11/SquirrelStack1.png 1070w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2013/11/SquirrelStack1.png)
+[<img src="/wp-content/uploads/2013/11/SquirrelStack1-640x206.png" alt="SquirrelStack" width="640" height="206" class="aligncenter size-large wp-image-6421" srcset="/wp-content/uploads/2013/11/SquirrelStack1-640x206.png 640w, /wp-content/uploads/2013/11/SquirrelStack1-450x145.png 450w, /wp-content/uploads/2013/11/SquirrelStack1.png 1070w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2013/11/SquirrelStack1.png)
 
 ## Virtual Machine
 

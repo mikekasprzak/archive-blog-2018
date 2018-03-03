@@ -21,7 +21,7 @@ It was available on launch day for Windows Phone 7. Looks like a pretty well mad
 Prior to launch, I participated in a Windows Phone 7 press event in Toronto, amongst other things.
 
 <div id="attachment_3240" style="max-width: 460px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/10/2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204.jpg"><img src="/wp-content/uploads/2010/10/2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204.jpg" alt="" title="2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204" width="450" height="600" class="size-full wp-image-3240" srcset="http://blog.toonormal.com/wp-content/uploads/2010/10/2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/10/2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204-337x450.jpg 337w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="/wp-content/uploads/2010/10/2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204.jpg"><img src="/wp-content/uploads/2010/10/2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204.jpg" alt="" title="2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204" width="450" height="600" class="size-full wp-image-3240" srcset="/wp-content/uploads/2010/10/2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204.jpg 450w, /wp-content/uploads/2010/10/2860.05_5F00_826245f5_2D00_d969_2D00_4fc4_2D00_b39d_2D00_9700d9143204-337x450.jpg 337w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p class="wp-caption-text">
     Geez Mike, you're blurry and wearing shorts to a press event... *sigh*
@@ -31,7 +31,7 @@ Prior to launch, I participated in a Windows Phone 7 press event in Toronto, amo
 The WP7 version hasn&#8217;t done very well.
 
 <div id="attachment_4258" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/05/WP7Sales.png"><img src="/wp-content/uploads/2011/05/WP7Sales-640x451.png" alt="" title="WP7Sales" width="640" height="451" class="size-large wp-image-4258" srcset="http://blog.toonormal.com/wp-content/uploads/2011/05/WP7Sales-640x451.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/05/WP7Sales-450x317.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/05/WP7Sales.png 722w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/05/WP7Sales.png"><img src="/wp-content/uploads/2011/05/WP7Sales-640x451.png" alt="" title="WP7Sales" width="640" height="451" class="size-large wp-image-4258" srcset="/wp-content/uploads/2011/05/WP7Sales-640x451.png 640w, /wp-content/uploads/2011/05/WP7Sales-450x317.png 450w, /wp-content/uploads/2011/05/WP7Sales.png 722w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     10 Sales, 14 Trials. Trials I only enabled recently, which is why they're so low.
@@ -39,7 +39,7 @@ The WP7 version hasn&#8217;t done very well.
 </div>
 
 <div id="attachment_4259" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/05/WP7Graph.png"><img src="/wp-content/uploads/2011/05/WP7Graph-640x460.png" alt="" title="WP7Graph" width="640" height="460" class="size-large wp-image-4259" srcset="http://blog.toonormal.com/wp-content/uploads/2011/05/WP7Graph-640x460.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/05/WP7Graph-450x323.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/05/WP7Graph.png 722w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/05/WP7Graph.png"><img src="/wp-content/uploads/2011/05/WP7Graph-640x460.png" alt="" title="WP7Graph" width="640" height="460" class="size-large wp-image-4259" srcset="/wp-content/uploads/2011/05/WP7Graph-640x460.png 640w, /wp-content/uploads/2011/05/WP7Graph-450x323.png 450w, /wp-content/uploads/2011/05/WP7Graph.png 722w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Well, at least the graph looks cool... I guess
@@ -63,7 +63,7 @@ So great! Visit the Zune store right now, and go get yourself a **free full game
 If your PC is set up correctly, you can click here:
 
 <center>
-  <a href="http://social.zune.net/redirect?type=phoneApp&#038;id=ab1dce4c-b3d5-df11-a844-00237de2db9e&#038;source=TooNormal"><img src="/wp-content/uploads/2011/05/TileIcon173.png" alt="" title="TileIcon173" width="173" height="173" class="aligncenter size-full wp-image-4281" srcset="http://blog.toonormal.com/wp-content/uploads/2011/05/TileIcon173.png 173w, http://blog.toonormal.com/wp-content/uploads/2011/05/TileIcon173-150x150.png 150w" sizes="(max-width: 173px) 100vw, 173px" /><br /><img src="/content/icons/wp7banner.png" border="0" /></a>
+  <a href="http://social.zune.net/redirect?type=phoneApp&#038;id=ab1dce4c-b3d5-df11-a844-00237de2db9e&#038;source=TooNormal"><img src="/wp-content/uploads/2011/05/TileIcon173.png" alt="" title="TileIcon173" width="173" height="173" class="aligncenter size-full wp-image-4281" srcset="/wp-content/uploads/2011/05/TileIcon173.png 173w, /wp-content/uploads/2011/05/TileIcon173-150x150.png 150w" sizes="(max-width: 173px) 100vw, 173px" /><br /><img src="/content/icons/wp7banner.png" border="0" /></a>
 </center>
 
 Otherwise, search for **Smiles**.

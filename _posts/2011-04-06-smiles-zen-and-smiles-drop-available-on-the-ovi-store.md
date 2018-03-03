@@ -12,7 +12,7 @@ categories:
 Looks like the Symbian^3 versions of the game went live this morning in the Ovi store.
 
 <div id="attachment_4040" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/04/OviStore.png"><img src="/wp-content/uploads/2011/04/OviStore-640x566.png" alt="" title="OviStore" width="640" height="566" class="size-large wp-image-4040" srcset="http://blog.toonormal.com/wp-content/uploads/2011/04/OviStore-640x566.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/04/OviStore-450x398.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/04/OviStore.png 1023w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/04/OviStore.png"><img src="/wp-content/uploads/2011/04/OviStore-640x566.png" alt="" title="OviStore" width="640" height="566" class="size-large wp-image-4040" srcset="/wp-content/uploads/2011/04/OviStore-640x566.png 640w, /wp-content/uploads/2011/04/OviStore-450x398.png 450w, /wp-content/uploads/2011/04/OviStore.png 1023w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     The full game Smiles you see there is for Maemo devices... i.e. the N900. Zen+Drop are for Symbian

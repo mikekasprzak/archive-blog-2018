@@ -17,4 +17,4 @@ I&#8217;m hopeful. The new trailer is out there in the wild now, and-a&#8230; no
 
 PS: An amusing shot from some experiments.
 
-[<img src="/wp-content/uploads/2009/08/amusing02-450x281.png" alt="amusing02" title="amusing02" width="450" height="281" class="aligncenter size-medium wp-image-1193" srcset="http://blog.toonormal.com/wp-content/uploads/2009/08/amusing02-450x281.png 450w, http://blog.toonormal.com/wp-content/uploads/2009/08/amusing02.png 960w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/08/amusing02.png)
+[<img src="/wp-content/uploads/2009/08/amusing02-450x281.png" alt="amusing02" title="amusing02" width="450" height="281" class="aligncenter size-medium wp-image-1193" srcset="/wp-content/uploads/2009/08/amusing02-450x281.png 450w, /wp-content/uploads/2009/08/amusing02.png 960w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/08/amusing02.png)

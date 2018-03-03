@@ -4,7 +4,7 @@ title: Last Minute VPN Notes
 date: 2017-06-02T15:27:27+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9694
+guid: /?p=9694
 permalink: /2017/06/02/last-minute-vpn-notes/
 categories:
   - Uncategorized

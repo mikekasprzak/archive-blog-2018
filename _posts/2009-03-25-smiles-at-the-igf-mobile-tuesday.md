@@ -17,7 +17,7 @@ As you may or may not have heard, I didn&#8217;t win. But that&#8217;s alright, 
 
 We&#8217;re sharing booth space with the IGF main competition entrants, which is great. That way, when people come to see the cool IGF games, they&#8217;ll find us too. Here&#8217;s my slice.
 
-[<img src="/wp-content/uploads/2009/03/smilesigfbooth-337x450.jpg" alt="smilesigfbooth" title="smilesigfbooth" width="337" height="450" class="aligncenter size-medium wp-image-903" srcset="http://blog.toonormal.com/wp-content/uploads/2009/03/smilesigfbooth-337x450.jpg 337w, http://blog.toonormal.com/wp-content/uploads/2009/03/smilesigfbooth.jpg 684w" sizes="(max-width: 337px) 100vw, 337px" />](/wp-content/uploads/2009/03/smilesigfbooth.jpg)
+[<img src="/wp-content/uploads/2009/03/smilesigfbooth-337x450.jpg" alt="smilesigfbooth" title="smilesigfbooth" width="337" height="450" class="aligncenter size-medium wp-image-903" srcset="/wp-content/uploads/2009/03/smilesigfbooth-337x450.jpg 337w, /wp-content/uploads/2009/03/smilesigfbooth.jpg 684w" sizes="(max-width: 337px) 100vw, 337px" />](/wp-content/uploads/2009/03/smilesigfbooth.jpg)
 
 Other cool stuff, Apple put up a page of us IGF Mobile entries. Very awesome. The part I love though, Smiles is the 1st game listed on the page. I&#8217;ll have to take some shots of iTunes when I get home.
 

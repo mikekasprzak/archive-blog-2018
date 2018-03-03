@@ -47,7 +47,7 @@ It was Wednesday evening, and I had decided that I was out. The whole process of
 
 My post-project-frustration tweet was responded to by [Dave](http://www.bluescrn.net/), one of my favorite Ludum Dare long-time regulars (check out some of his [cool prior games here](http://www.bluescrn.net/?p=22)). He said something that made me feel stupid.
 
-[<img src="/wp-content/uploads/2011/04/DaveReed.png" alt="" title="DaveReed" width="569" height="126" class="aligncenter size-full wp-image-3918" srcset="http://blog.toonormal.com/wp-content/uploads/2011/04/DaveReed.png 569w, http://blog.toonormal.com/wp-content/uploads/2011/04/DaveReed-450x99.png 450w" sizes="(max-width: 569px) 100vw, 569px" />](/wp-content/uploads/2011/04/DaveReed.png)
+[<img src="/wp-content/uploads/2011/04/DaveReed.png" alt="" title="DaveReed" width="569" height="126" class="aligncenter size-full wp-image-3918" srcset="/wp-content/uploads/2011/04/DaveReed.png 569w, /wp-content/uploads/2011/04/DaveReed-450x99.png 450w" sizes="(max-width: 569px) 100vw, 569px" />](/wp-content/uploads/2011/04/DaveReed.png)
 
 No no, I couldn&#8217;t possibly do that! Middleware! Eww! What about my pride? I&#8217;m Mr crazy dude that ports to every platform himself! What would my mom say?
 
@@ -58,7 +58,7 @@ Dave, Airplay, you win.
 The one thing that I could not refute was Android support. My existing Android port has been sitting in a half state of completion for months, maybe years. I was finally making some notable progress early this year, but put it off for some other more important deadlines (things worth money and prizes). I still have code to write to properly support the awkward system of indexing a Jar file to get my assets.
 
 <div id="attachment_3928" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/04/Android02.jpg"><img src="/wp-content/uploads/2011/04/Android02-640x480.jpg" alt="" title="Android02" width="640" height="480" class="size-large wp-image-3928" srcset="http://blog.toonormal.com/wp-content/uploads/2011/04/Android02-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2011/04/Android02-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2011/04/Android02.jpg 912w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/04/Android02.jpg"><img src="/wp-content/uploads/2011/04/Android02-640x480.jpg" alt="" title="Android02" width="640" height="480" class="size-large wp-image-3928" srcset="/wp-content/uploads/2011/04/Android02-640x480.jpg 640w, /wp-content/uploads/2011/04/Android02-450x337.jpg 450w, /wp-content/uploads/2011/04/Android02.jpg 912w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     My Android port, circa new-years day. All my ports look like this when they start (no texture title screen)
@@ -68,7 +68,7 @@ The one thing that I could not refute was Android support. My existing Android p
 So okay. If I could get an Android port of Smiles running in just a few days on Airplay, I&#8217;d seriously consider using it for both the Android and the Symbian^3 port. 30 day trial go!
 
 <div id="attachment_3931" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/04/AndroidBug.jpg"><img src="/wp-content/uploads/2011/04/AndroidBug-640x480.jpg" alt="" title="AndroidBug" width="640" height="480" class="size-large wp-image-3931" srcset="http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidBug-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidBug-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidBug.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/04/AndroidBug.jpg"><img src="/wp-content/uploads/2011/04/AndroidBug-640x480.jpg" alt="" title="AndroidBug" width="640" height="480" class="size-large wp-image-3931" srcset="/wp-content/uploads/2011/04/AndroidBug-640x480.jpg 640w, /wp-content/uploads/2011/04/AndroidBug-450x337.jpg 450w, /wp-content/uploads/2011/04/AndroidBug.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     This glitchy reinterpretation was new. Cut-off S looks like a macaroni noodle.
@@ -78,7 +78,7 @@ So okay. If I could get an Android port of Smiles running in just a few days on 
 Huh. Okay. So you&#8217;re working, and stuff. Then&#8230; uh&#8230; How about the full game, and make it work on Symbian^3 as well?
 
 <div id="attachment_3903" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/04/AndroidsAndSymbians.jpg"><img src="/wp-content/uploads/2011/04/AndroidsAndSymbians-640x480.jpg" alt="" title="AndroidsAndSymbians" width="640" height="480" class="size-large wp-image-3903" srcset="http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidsAndSymbians-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidsAndSymbians-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidsAndSymbians.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/04/AndroidsAndSymbians.jpg"><img src="/wp-content/uploads/2011/04/AndroidsAndSymbians-640x480.jpg" alt="" title="AndroidsAndSymbians" width="640" height="480" class="size-large wp-image-3903" srcset="/wp-content/uploads/2011/04/AndroidsAndSymbians-640x480.jpg 640w, /wp-content/uploads/2011/04/AndroidsAndSymbians-450x337.jpg 450w, /wp-content/uploads/2011/04/AndroidsAndSymbians.jpg 1094w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Select Android and Symbian^3 phones... and what I mean by select are just the phones I have

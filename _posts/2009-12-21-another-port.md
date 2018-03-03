@@ -22,7 +22,7 @@ I sent off my initial port around noon, the deadline being 6 PM my time. There w
 How about some pics?
 
 <div id="attachment_1744" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/12/DropXX.png"><img src="/wp-content/uploads/2009/12/DropXX-640x374.png" alt="Smiles Drop, now with rotation buttons" title="DropXX" width="640" height="374" class="size-large wp-image-1744" srcset="http://blog.toonormal.com/wp-content/uploads/2009/12/DropXX-640x374.png 640w, http://blog.toonormal.com/wp-content/uploads/2009/12/DropXX-450x263.png 450w, http://blog.toonormal.com/wp-content/uploads/2009/12/DropXX.png 820w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/12/DropXX.png"><img src="/wp-content/uploads/2009/12/DropXX-640x374.png" alt="Smiles Drop, now with rotation buttons" title="DropXX" width="640" height="374" class="size-large wp-image-1744" srcset="/wp-content/uploads/2009/12/DropXX-640x374.png 640w, /wp-content/uploads/2009/12/DropXX-450x263.png 450w, /wp-content/uploads/2009/12/DropXX.png 820w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Smiles Drop, now with rotation buttons
@@ -30,7 +30,7 @@ How about some pics?
 </div>
 
 <div id="attachment_1749" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/12/DropLose.png"><img src="/wp-content/uploads/2009/12/DropLose-640x374.png" alt="Avalanche with extra &quot;Good Job, you lost!&quot;" title="DropLose" width="640" height="374" class="size-large wp-image-1749" srcset="http://blog.toonormal.com/wp-content/uploads/2009/12/DropLose-640x374.png 640w, http://blog.toonormal.com/wp-content/uploads/2009/12/DropLose-450x263.png 450w, http://blog.toonormal.com/wp-content/uploads/2009/12/DropLose.png 820w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/12/DropLose.png"><img src="/wp-content/uploads/2009/12/DropLose-640x374.png" alt="Avalanche with extra &quot;Good Job, you lost!&quot;" title="DropLose" width="640" height="374" class="size-large wp-image-1749" srcset="/wp-content/uploads/2009/12/DropLose-640x374.png 640w, /wp-content/uploads/2009/12/DropLose-450x263.png 450w, /wp-content/uploads/2009/12/DropLose.png 820w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Avalanche with extra "Good Job, you lost!"

@@ -13,7 +13,7 @@ categories:
 So finally, Smiles 1.1 for Netbooks (The Intel AppUp Center) has been submitted. Also, though Moblin Netbook Smiles was submitted last week, it came back with a very minor issue. That is now fixed, and sent as well. So Netbook Smiles == all done.
 
 <div id="attachment_2771" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/05/NetbookSmiles.jpg"><img src="/wp-content/uploads/2010/05/NetbookSmiles-640x605.jpg" alt="" title="NetbookSmiles" width="640" height="605" class="size-large wp-image-2771" srcset="http://blog.toonormal.com/wp-content/uploads/2010/05/NetbookSmiles-640x605.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/05/NetbookSmiles-450x425.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/05/NetbookSmiles.jpg 889w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/05/NetbookSmiles.jpg"><img src="/wp-content/uploads/2010/05/NetbookSmiles-640x605.jpg" alt="" title="NetbookSmiles" width="640" height="605" class="size-large wp-image-2771" srcset="/wp-content/uploads/2010/05/NetbookSmiles-640x605.jpg 640w, /wp-content/uploads/2010/05/NetbookSmiles-450x425.jpg 450w, /wp-content/uploads/2010/05/NetbookSmiles.jpg 889w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Moblin 2.1 running on the USB key

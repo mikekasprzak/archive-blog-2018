@@ -4,7 +4,7 @@ title: VPS Host Notes
 date: 2015-09-29T01:56:51+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7531
+guid: /?p=7531
 permalink: /2015/09/29/vps-host-notes/
 categories:
   - Uncategorized

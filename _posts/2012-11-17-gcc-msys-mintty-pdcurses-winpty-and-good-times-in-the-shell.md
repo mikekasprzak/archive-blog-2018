@@ -42,7 +42,7 @@ Something you may notice when working with the MSYS or Cygwin shell is that the 
 The solution is to install MinTTY, a much nicer shell for working on Windows. Doing the above mingw-get installs it, but to use it you need to make 1 more change. I typically have a shortcut to msys.bat, so I modify my shortcut directly to have it start in MinTTY.
 
 <div id="attachment_5656" style="max-width: 396px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2012/11/MinTTY.png"><img src="/wp-content/uploads/2012/11/MinTTY.png" alt="" title="MinTTY" width="386" height="384" class="size-full wp-image-5656" srcset="http://blog.toonormal.com/wp-content/uploads/2012/11/MinTTY.png 386w, http://blog.toonormal.com/wp-content/uploads/2012/11/MinTTY-150x150.png 150w" sizes="(max-width: 386px) 100vw, 386px" /></a>
+  <a href="/wp-content/uploads/2012/11/MinTTY.png"><img src="/wp-content/uploads/2012/11/MinTTY.png" alt="" title="MinTTY" width="386" height="384" class="size-full wp-image-5656" srcset="/wp-content/uploads/2012/11/MinTTY.png 386w, /wp-content/uploads/2012/11/MinTTY-150x150.png 150w" sizes="(max-width: 386px) 100vw, 386px" /></a>
   
   <p class="wp-caption-text">
     Modifying a shortcut to Msys.bat to include an argument &#8220;&#8211;mintty&#8221;
@@ -52,7 +52,7 @@ The solution is to install MinTTY, a much nicer shell for working on Windows. Do
 And now we&#8217;re in MinTTY town. If you&#8217;re on Windows 7 (Aero), you can even make your MinTTY Windows semi-transparent.
 
 <div id="attachment_5659" style="max-width: 557px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2012/11/MinTTYGlass.png"><img src="/wp-content/uploads/2012/11/MinTTYGlass.png" alt="" title="MinTTYGlass" width="547" height="384" class="size-full wp-image-5659" srcset="http://blog.toonormal.com/wp-content/uploads/2012/11/MinTTYGlass.png 547w, http://blog.toonormal.com/wp-content/uploads/2012/11/MinTTYGlass-450x315.png 450w" sizes="(max-width: 547px) 100vw, 547px" /></a>
+  <a href="/wp-content/uploads/2012/11/MinTTYGlass.png"><img src="/wp-content/uploads/2012/11/MinTTYGlass.png" alt="" title="MinTTYGlass" width="547" height="384" class="size-full wp-image-5659" srcset="/wp-content/uploads/2012/11/MinTTYGlass.png 547w, /wp-content/uploads/2012/11/MinTTYGlass-450x315.png 450w" sizes="(max-width: 547px) 100vw, 547px" /></a>
   
   <p class="wp-caption-text">
     MinTTY in Glass mode
@@ -70,7 +70,7 @@ Same as before. The link you want is beside the &#8220;Looking for the latest ve
 MinTTY&#8217;s limitation is that it that despite everything it does support, it doesn&#8217;t support PDCurses.
 
 <div id="attachment_5660" style="max-width: 484px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2012/11/MinTTYNetty.png"><img src="/wp-content/uploads/2012/11/MinTTYNetty.png" alt="" title="MinTTYNetty" width="474" height="96" class="size-full wp-image-5660" srcset="http://blog.toonormal.com/wp-content/uploads/2012/11/MinTTYNetty.png 474w, http://blog.toonormal.com/wp-content/uploads/2012/11/MinTTYNetty-450x91.png 450w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="/wp-content/uploads/2012/11/MinTTYNetty.png"><img src="/wp-content/uploads/2012/11/MinTTYNetty.png" alt="" title="MinTTYNetty" width="474" height="96" class="size-full wp-image-5660" srcset="/wp-content/uploads/2012/11/MinTTYNetty.png 474w, /wp-content/uploads/2012/11/MinTTYNetty-450x91.png 450w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p class="wp-caption-text">
     Sorry folks, MinTTY can&#8217;t run your PDCurses code

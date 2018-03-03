@@ -9,7 +9,7 @@ permalink: /2013/03/01/the-new-cards/
 categories:
   - The Business of Things
 ---
-[<img src="/wp-content/uploads/2013/03/CardPhoto-640x634.jpg" alt="CardPhoto" width="640" height="634" class="aligncenter size-large wp-image-5857" srcset="http://blog.toonormal.com/wp-content/uploads/2013/03/CardPhoto-640x634.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2013/03/CardPhoto-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2013/03/CardPhoto-450x445.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2013/03/CardPhoto.jpg 765w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2013/03/CardPhoto.jpg)
+[<img src="/wp-content/uploads/2013/03/CardPhoto-640x634.jpg" alt="CardPhoto" width="640" height="634" class="aligncenter size-large wp-image-5857" srcset="/wp-content/uploads/2013/03/CardPhoto-640x634.jpg 640w, /wp-content/uploads/2013/03/CardPhoto-150x150.jpg 150w, /wp-content/uploads/2013/03/CardPhoto-450x445.jpg 450w, /wp-content/uploads/2013/03/CardPhoto.jpg 765w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2013/03/CardPhoto.jpg)
 
 Ordered from [Morning Print](http://www.morningprint.com). White plastic, thin, nice and vibrant, and practically **indestructible**!
 

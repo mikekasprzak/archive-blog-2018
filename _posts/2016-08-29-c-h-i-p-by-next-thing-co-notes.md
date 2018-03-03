@@ -4,14 +4,14 @@ title: C.H.I.P. (by Next Thing Co) Notes
 date: 2016-08-29T01:49:31+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9177
+guid: /?p=9177
 permalink: /2016/08/29/c-h-i-p-by-next-thing-co-notes/
 categories:
   - Uncategorized
 ---
 Just some notes.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2016/08/chip_pinouts.jpg" alt="chip_pinouts" width="600" height="438" class="aligncenter size-full wp-image-9178" srcset="http://blog.toonormal.com/wp-content/uploads/2016/08/chip_pinouts.jpg 600w, http://blog.toonormal.com/wp-content/uploads/2016/08/chip_pinouts-450x329.jpg 450w" sizes="(max-width: 600px) 100vw, 600px" />](http://blog.toonormal.com/wp-content/uploads/2016/08/chip_pinouts.jpg)
+[<img src="/wp-content/uploads/2016/08/chip_pinouts.jpg" alt="chip_pinouts" width="600" height="438" class="aligncenter size-full wp-image-9178" srcset="/wp-content/uploads/2016/08/chip_pinouts.jpg 600w, /wp-content/uploads/2016/08/chip_pinouts-450x329.jpg 450w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2016/08/chip_pinouts.jpg)
 
 To reinstall (upgrade) the OS, go here:
 

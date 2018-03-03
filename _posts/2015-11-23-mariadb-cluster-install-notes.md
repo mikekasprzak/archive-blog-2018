@@ -4,7 +4,7 @@ title: MariaDB Cluster Install notes
 date: 2015-11-23T16:01:20+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7813
+guid: /?p=7813
 permalink: /2015/11/23/mariadb-cluster-install-notes/
 categories:
   - Technobabble

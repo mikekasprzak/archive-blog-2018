@@ -20,7 +20,7 @@ I&#8217;ve been reasonably active on their development forums, and it&#8217;s be
 A few pictures of the store shamelessly showing off my new favorite PC game.
 
 <div id="attachment_1904" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/01/AppUp01.png"><img src="/wp-content/uploads/2010/01/AppUp01-640x375.png" alt="I was casually browsing the store one day, and look what I found" title="AppUp01" width="640" height="375" class="size-large wp-image-1904" srcset="http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp01-640x375.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp01-450x263.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp01.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/01/AppUp01.png"><img src="/wp-content/uploads/2010/01/AppUp01-640x375.png" alt="I was casually browsing the store one day, and look what I found" title="AppUp01" width="640" height="375" class="size-large wp-image-1904" srcset="/wp-content/uploads/2010/01/AppUp01-640x375.png 640w, /wp-content/uploads/2010/01/AppUp01-450x263.png 450w, /wp-content/uploads/2010/01/AppUp01.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     I was casually browsing the store one day, and look what I found
@@ -28,7 +28,7 @@ A few pictures of the store shamelessly showing off my new favorite PC game.
 </div>
 
 <div id="attachment_1906" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/01/AppUp02.png"><img src="/wp-content/uploads/2010/01/AppUp02-640x375.png" alt="Smiles, I will learn your secrets" title="AppUp02" width="640" height="375" class="size-large wp-image-1906" srcset="http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp02-640x375.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp02-450x263.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp02.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/01/AppUp02.png"><img src="/wp-content/uploads/2010/01/AppUp02-640x375.png" alt="Smiles, I will learn your secrets" title="AppUp02" width="640" height="375" class="size-large wp-image-1906" srcset="/wp-content/uploads/2010/01/AppUp02-640x375.png 640w, /wp-content/uploads/2010/01/AppUp02-450x263.png 450w, /wp-content/uploads/2010/01/AppUp02.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Smiles, I will learn your secrets
@@ -36,7 +36,7 @@ A few pictures of the store shamelessly showing off my new favorite PC game.
 </div>
 
 <div id="attachment_1907" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/01/AppUp03.png"><img src="/wp-content/uploads/2010/01/AppUp03-640x375.png" alt="Hey whats this button do... oh... okay, I guess I bought it" title="AppUp03" width="640" height="375" class="size-large wp-image-1907" srcset="http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp03-640x375.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp03-450x263.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp03.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/01/AppUp03.png"><img src="/wp-content/uploads/2010/01/AppUp03-640x375.png" alt="Hey whats this button do... oh... okay, I guess I bought it" title="AppUp03" width="640" height="375" class="size-large wp-image-1907" srcset="/wp-content/uploads/2010/01/AppUp03-640x375.png 640w, /wp-content/uploads/2010/01/AppUp03-450x263.png 450w, /wp-content/uploads/2010/01/AppUp03.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Hey whats this button do... oh... okay, I guess I bought it
@@ -44,7 +44,7 @@ A few pictures of the store shamelessly showing off my new favorite PC game.
 </div>
 
 <div id="attachment_1908" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/01/AppUp04.png"><img src="/wp-content/uploads/2010/01/AppUp04-640x375.png" alt="Ahh, the icon view" title="AppUp04" width="640" height="375" class="size-large wp-image-1908" srcset="http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp04-640x375.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp04-450x263.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/01/AppUp04.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/01/AppUp04.png"><img src="/wp-content/uploads/2010/01/AppUp04-640x375.png" alt="Ahh, the icon view" title="AppUp04" width="640" height="375" class="size-large wp-image-1908" srcset="/wp-content/uploads/2010/01/AppUp04-640x375.png 640w, /wp-content/uploads/2010/01/AppUp04-450x263.png 450w, /wp-content/uploads/2010/01/AppUp04.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Ahh, the icon view

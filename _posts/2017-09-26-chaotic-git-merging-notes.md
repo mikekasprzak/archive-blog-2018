@@ -4,7 +4,7 @@ title: Chaotic Git Merging Notes
 date: 2017-09-26T20:51:43+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9715
+guid: /?p=9715
 permalink: /2017/09/26/chaotic-git-merging-notes/
 categories:
   - Uncategorized
@@ -123,11 +123,11 @@ At this point we need to hop over to GitHub, and find the specific Pull Requests
 
 At the bottom of the Conversation page you&#8217;ll find the big green **Merge Pull Request** button.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut-640x132.png" alt="" width="640" height="132" class="aligncenter size-large wp-image-9725" srcset="http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut-640x132.png 640w, http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut-450x93.png 450w, http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut.png 790w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut.png)
+[<img src="/wp-content/uploads/2017/09/mergebut-640x132.png" alt="" width="640" height="132" class="aligncenter size-large wp-image-9725" srcset="/wp-content/uploads/2017/09/mergebut-640x132.png 640w, /wp-content/uploads/2017/09/mergebut-450x93.png 450w, /wp-content/uploads/2017/09/mergebut.png 790w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/09/mergebut.png)
 
 Beside it though is what we care about, the view **Command Line Instructions** link. This unrolls a set of instructions.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut2-640x409.png" alt="" width="640" height="409" class="aligncenter size-large wp-image-9726" srcset="http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut2-640x409.png 640w, http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut2-450x288.png 450w, http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut2.png 788w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/09/mergebut2.png)
+[<img src="/wp-content/uploads/2017/09/mergebut2-640x409.png" alt="" width="640" height="409" class="aligncenter size-large wp-image-9726" srcset="/wp-content/uploads/2017/09/mergebut2-640x409.png 640w, /wp-content/uploads/2017/09/mergebut2-450x288.png 450w, /wp-content/uploads/2017/09/mergebut2.png 788w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/09/mergebut2.png)
 
 If it was safe for us to merge our changes in to **master**, we could just do what it says with **one caveat** (in Step 2, I come back to this in a later section). However our target is not **master**, so we will be making some changes.
 

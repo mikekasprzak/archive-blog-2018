@@ -72,7 +72,7 @@ So for a few dollars more per month, I now have 20x the upload I used to. Yes, I
 And to throw a wrench in to that Live Streaming, ha, I _just_ switched to Linux.
 
 <div id="attachment_6621" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2014/01/LinuxDesktop.png"><img src="/wp-content/uploads/2014/01/LinuxDesktop-640x359.png" alt="Hey wait! That&#039;s Windows 7! Oh weird, how&#039;d you get that sidebar?" width="640" height="359" class="size-large wp-image-6621" srcset="http://blog.toonormal.com/wp-content/uploads/2014/01/LinuxDesktop-640x359.png 640w, http://blog.toonormal.com/wp-content/uploads/2014/01/LinuxDesktop-450x253.png 450w, http://blog.toonormal.com/wp-content/uploads/2014/01/LinuxDesktop.png 1366w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2014/01/LinuxDesktop.png"><img src="/wp-content/uploads/2014/01/LinuxDesktop-640x359.png" alt="Hey wait! That&#039;s Windows 7! Oh weird, how&#039;d you get that sidebar?" width="640" height="359" class="size-large wp-image-6621" srcset="/wp-content/uploads/2014/01/LinuxDesktop-640x359.png 640w, /wp-content/uploads/2014/01/LinuxDesktop-450x253.png 450w, /wp-content/uploads/2014/01/LinuxDesktop.png 1366w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Hey wait! That&#8217;s Windows 7! Oh weird, how&#8217;d you get that sidebar?

@@ -4,7 +4,7 @@ title: 'Notes: Creating an rsync jail'
 date: 2017-04-01T04:25:57+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9675
+guid: /?p=9675
 permalink: /2017/04/01/notes-creating-an-rsync-jail/
 categories:
   - Uncategorized

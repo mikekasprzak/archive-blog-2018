@@ -19,7 +19,7 @@ But the icing on the cake was a _development_ Wednesday/Thursday of last week. I
 But what this post is about is a little ritual of mine. Fridge stocking.
 
 <div id="attachment_1709" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/11/fridge.jpg"><img src="/wp-content/uploads/2009/11/fridge-640x480.jpg" alt="Yes, I even have 2 mustards" title="fridge" width="640" height="480" class="size-large wp-image-1709" srcset="http://blog.toonormal.com/wp-content/uploads/2009/11/fridge-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/11/fridge-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/11/fridge.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/11/fridge.jpg"><img src="/wp-content/uploads/2009/11/fridge-640x480.jpg" alt="Yes, I even have 2 mustards" title="fridge" width="640" height="480" class="size-large wp-image-1709" srcset="/wp-content/uploads/2009/11/fridge-640x480.jpg 640w, /wp-content/uploads/2009/11/fridge-450x337.jpg 450w, /wp-content/uploads/2009/11/fridge.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Yes, I even have 2 mustards
@@ -31,7 +31,7 @@ Now, I do normally have a nice variety of drinks in my fridge, caffeinated and w
 The freezer is replenished with a fresh stock of frozen dinners, cereal in the cupboard, and last but not least, noodles!
 
 <div id="attachment_1712" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/11/noodles.jpg"><img src="/wp-content/uploads/2009/11/noodles-640x480.jpg" alt="Thanks to advances in technology, scientists are able to put peanut butter inside pretzels" title="noodles" width="640" height="480" class="size-large wp-image-1712" srcset="http://blog.toonormal.com/wp-content/uploads/2009/11/noodles-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/11/noodles-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/11/noodles.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/11/noodles.jpg"><img src="/wp-content/uploads/2009/11/noodles-640x480.jpg" alt="Thanks to advances in technology, scientists are able to put peanut butter inside pretzels" title="noodles" width="640" height="480" class="size-large wp-image-1712" srcset="/wp-content/uploads/2009/11/noodles-640x480.jpg 640w, /wp-content/uploads/2009/11/noodles-450x337.jpg 450w, /wp-content/uploads/2009/11/noodles.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Thanks to advances in technology, scientists are able to put peanut butter inside pretzels

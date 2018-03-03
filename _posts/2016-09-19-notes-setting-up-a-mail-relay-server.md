@@ -4,14 +4,14 @@ title: 'Notes: Setting up a modern Mail Server and Relay'
 date: 2016-09-19T19:01:04+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9216
+guid: /?p=9216
 permalink: /2016/09/19/notes-setting-up-a-mail-relay-server/
 categories:
   - Technobabble
 ---
 This is an attempt to clean up these notes:
 
-<http://blog.toonormal.com/2016/03/20/notes-mail-server-madness/>
+</2016/03/20/notes-mail-server-madness/>
 
 References go there. This post is a summary.
 

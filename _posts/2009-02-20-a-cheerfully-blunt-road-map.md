@@ -59,9 +59,9 @@ The second part, a **cross platform strategy**. In other words, make it availabl
 
 To start, that mean PC, Mac and Linux. Actually, that&#8217;s already well underway. **Smiles** was actually developed on Windows and Linux, in addition to the Mac.
 
-[<img class="aligncenter size-medium wp-image-640" title="00000fxx05" src="/wp-content/uploads/2009/02/00000fxx05-450x360.png" alt="00000fxx05" width="450" height="360" srcset="http://blog.toonormal.com/wp-content/uploads/2009/02/00000fxx05-450x360.png 450w, http://blog.toonormal.com/wp-content/uploads/2009/02/00000fxx05-1024x819.png 1024w, http://blog.toonormal.com/wp-content/uploads/2009/02/00000fxx05.png 1280w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/00000fxx05.png)
+[<img class="aligncenter size-medium wp-image-640" title="00000fxx05" src="/wp-content/uploads/2009/02/00000fxx05-450x360.png" alt="00000fxx05" width="450" height="360" srcset="/wp-content/uploads/2009/02/00000fxx05-450x360.png 450w, /wp-content/uploads/2009/02/00000fxx05-1024x819.png 1024w, /wp-content/uploads/2009/02/00000fxx05.png 1280w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/00000fxx05.png)
 
-[<img class="aligncenter size-medium wp-image-641" title="00000fxx06" src="/wp-content/uploads/2009/02/00000fxx06-450x263.png" alt="00000fxx06" width="450" height="263" srcset="http://blog.toonormal.com/wp-content/uploads/2009/02/00000fxx06-450x263.png 450w, http://blog.toonormal.com/wp-content/uploads/2009/02/00000fxx06.png 1024w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/00000fxx06.png)
+[<img class="aligncenter size-medium wp-image-641" title="00000fxx06" src="/wp-content/uploads/2009/02/00000fxx06-450x263.png" alt="00000fxx06" width="450" height="263" srcset="/wp-content/uploads/2009/02/00000fxx06-450x263.png 450w, /wp-content/uploads/2009/02/00000fxx06.png 1024w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/02/00000fxx06.png)
 
 I come from a console game development background, so this has become standard stuff for me.
 

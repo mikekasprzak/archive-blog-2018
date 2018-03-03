@@ -12,7 +12,7 @@ categories:
 As the title suggests, I came 4th place with Smiles Zen (in Italian).
 
 <div id="attachment_1773" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2009/12/SamsungFinalistsItaly.jpg"><img src="/wp-content/uploads/2009/12/SamsungFinalistsItaly-640x676.jpg" alt="Hey, isn&#039;t that Fluffy art from the Blender movie?" title="SamsungFinalistsItaly" width="640" height="676" class="size-large wp-image-1773" srcset="http://blog.toonormal.com/wp-content/uploads/2009/12/SamsungFinalistsItaly-640x676.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2009/12/SamsungFinalistsItaly-425x450.jpg 425w, http://blog.toonormal.com/wp-content/uploads/2009/12/SamsungFinalistsItaly.jpg 1004w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2009/12/SamsungFinalistsItaly.jpg"><img src="/wp-content/uploads/2009/12/SamsungFinalistsItaly-640x676.jpg" alt="Hey, isn&#039;t that Fluffy art from the Blender movie?" title="SamsungFinalistsItaly" width="640" height="676" class="size-large wp-image-1773" srcset="/wp-content/uploads/2009/12/SamsungFinalistsItaly-640x676.jpg 640w, /wp-content/uploads/2009/12/SamsungFinalistsItaly-425x450.jpg 425w, /wp-content/uploads/2009/12/SamsungFinalistsItaly.jpg 1004w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Hey, isn't that Fluffy art from the Blender movie?

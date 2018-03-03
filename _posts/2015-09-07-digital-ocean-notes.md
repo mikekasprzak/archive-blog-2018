@@ -4,7 +4,7 @@ title: Digital Ocean Notes
 date: 2015-09-07T11:11:02+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7512
+guid: /?p=7512
 permalink: /2015/09/07/digital-ocean-notes/
 categories:
   - Technobabble

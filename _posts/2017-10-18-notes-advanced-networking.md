@@ -4,7 +4,7 @@ title: 'Notes: Advanced Networking (overview)'
 date: 2017-10-18T02:34:21+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9754
+guid: /?p=9754
 permalink: /2017/10/18/notes-advanced-networking/
 categories:
   - Uncategorized
@@ -99,7 +99,7 @@ Previously my network was built up of a pair of off-the-shelf all-in-one consume
 
 ### TP-LINK 8-Port Gigabit Easy Smart Switch TP-SG108E
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/10/tpswitch.jpg" alt="" width="621" height="263" class="aligncenter size-full wp-image-9758" srcset="http://blog.toonormal.com/wp-content/uploads/2017/10/tpswitch.jpg 621w, http://blog.toonormal.com/wp-content/uploads/2017/10/tpswitch-450x191.jpg 450w" sizes="(max-width: 621px) 100vw, 621px" />](http://blog.toonormal.com/wp-content/uploads/2017/10/tpswitch.jpg)
+[<img src="/wp-content/uploads/2017/10/tpswitch.jpg" alt="" width="621" height="263" class="aligncenter size-full wp-image-9758" srcset="/wp-content/uploads/2017/10/tpswitch.jpg 621w, /wp-content/uploads/2017/10/tpswitch-450x191.jpg 450w" sizes="(max-width: 621px) 100vw, 621px" />](/wp-content/uploads/2017/10/tpswitch.jpg)
 
 These are great value managed switches that can be had for $30 ($50 CAD). They give you 8 ports that can be configured a variety of ways. Keep in mind there are no uplink ports, so each additional switch/access point you connect takes up one of your 8 slots.
 
@@ -125,7 +125,7 @@ Power Usage: Max 5.4W (9V * 0.6A).
 
 ### Ubiquiti EdgeRouter-X
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/10/edgerouterx-640x433.jpg" alt="" width="640" height="433" class="aligncenter size-large wp-image-9764" srcset="http://blog.toonormal.com/wp-content/uploads/2017/10/edgerouterx-640x433.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2017/10/edgerouterx-450x305.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2017/10/edgerouterx.jpg 662w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/10/edgerouterx.jpg)
+[<img src="/wp-content/uploads/2017/10/edgerouterx-640x433.jpg" alt="" width="640" height="433" class="aligncenter size-large wp-image-9764" srcset="/wp-content/uploads/2017/10/edgerouterx-640x433.jpg 640w, /wp-content/uploads/2017/10/edgerouterx-450x305.jpg 450w, /wp-content/uploads/2017/10/edgerouterx.jpg 662w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/10/edgerouterx.jpg)
 
 This is an amazing little device. For a mere $50 ($70 CAD), this is a high-end router for a respectable price. It&#8217;s NOT an all-in-one (i.e. no WiFi, no USB storage), but rather a single device that does advanced internet routing on a budget.
 
@@ -143,7 +143,7 @@ Power Usage: Max 6.0W (12V \* 0.5A) with included adapter, or 12.0W (24V \* 0.5A
 
 ### Ubiqiti Ubifi Access Point
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/10/ubifi-640x249.jpg" alt="" width="640" height="249" class="aligncenter size-large wp-image-9775" srcset="http://blog.toonormal.com/wp-content/uploads/2017/10/ubifi-640x249.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2017/10/ubifi-450x175.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2017/10/ubifi.jpg 717w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/10/ubifi.jpg)
+[<img src="/wp-content/uploads/2017/10/ubifi-640x249.jpg" alt="" width="640" height="249" class="aligncenter size-large wp-image-9775" srcset="/wp-content/uploads/2017/10/ubifi-640x249.jpg 640w, /wp-content/uploads/2017/10/ubifi-450x175.jpg 450w, /wp-content/uploads/2017/10/ubifi.jpg 717w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/10/ubifi.jpg)
 
 Now this is where you really know you&#8217;ve entered a new world networking. Rather than a combination Router+Switch+Access Point, you literally have all 3 separately. This specific piece of hardware (the Access Point) is a little dumb, but not actually.
 
@@ -153,13 +153,13 @@ You can do the most basic of tasks with your phone, but a controller really is r
 
 Your choices for what runs a key are quite impressive. Ubiquiti makes a standalone key (or mini PC) that can be had for ~$100 that is just set-up and ready to go.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel-640x427.jpg" alt="" width="640" height="427" class="aligncenter size-large wp-image-9776" srcset="http://blog.toonormal.com/wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel-640x427.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel-450x300.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel.jpg)
+[<img src="/wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel-640x427.jpg" alt="" width="640" height="427" class="aligncenter size-large wp-image-9776" srcset="/wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel-640x427.jpg 640w, /wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel-450x300.jpg 450w, /wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/10/UniFi-Cloud-Key-mit-Kabel.jpg)
 
 Alternatively, you can the Ubifi controller in an off site cloud VPS&#8230; yes really. This feature is really weird to me, but hey, okay! It&#8217;s super helpful as far as remote management goes. That&#8217;s not me though.
 
 More up my alley is running a cheap microserver. Something from the Orange Pi or NanoPi family. A variety of Quad core ARMv7 and ARMv8 computers that can be had for about $20.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/10/orangepi_one-640x640.jpg" alt="" width="640" height="640" class="aligncenter size-large wp-image-9777" srcset="http://blog.toonormal.com/wp-content/uploads/2017/10/orangepi_one-640x640.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2017/10/orangepi_one-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2017/10/orangepi_one-450x450.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2017/10/orangepi_one.jpg 800w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/10/orangepi_one.jpg)
+[<img src="/wp-content/uploads/2017/10/orangepi_one-640x640.jpg" alt="" width="640" height="640" class="aligncenter size-large wp-image-9777" srcset="/wp-content/uploads/2017/10/orangepi_one-640x640.jpg 640w, /wp-content/uploads/2017/10/orangepi_one-150x150.jpg 150w, /wp-content/uploads/2017/10/orangepi_one-450x450.jpg 450w, /wp-content/uploads/2017/10/orangepi_one.jpg 800w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/10/orangepi_one.jpg)
 
 Setting one of these up does require some homework. Armbian, my goto distribution for these mini PCs is extremely great for mini servers. Just be aware of what devices have proper support before buying.
 
@@ -177,7 +177,7 @@ Source: <https://community.ubnt.com/t5/EdgeMAX/Layman-s-firewall-explanation/m-p
 
 * * *
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/10/ERL1-640x362.png" alt="" width="640" height="362" class="aligncenter size-large wp-image-9793" srcset="http://blog.toonormal.com/wp-content/uploads/2017/10/ERL1-640x362.png 640w, http://blog.toonormal.com/wp-content/uploads/2017/10/ERL1-450x255.png 450w, http://blog.toonormal.com/wp-content/uploads/2017/10/ERL1.png 956w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/10/ERL1.png)
+[<img src="/wp-content/uploads/2017/10/ERL1-640x362.png" alt="" width="640" height="362" class="aligncenter size-large wp-image-9793" srcset="/wp-content/uploads/2017/10/ERL1-640x362.png 640w, /wp-content/uploads/2017/10/ERL1-450x255.png 450w, /wp-content/uploads/2017/10/ERL1.png 956w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/10/ERL1.png)
 
 A firewall policy is a set of rules with a default action. Firewall policies are applied before **SNAT** (Source Network Address Translation) and after **DNAT** (Destination Network Address Translation).
 

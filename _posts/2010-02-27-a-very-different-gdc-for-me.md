@@ -31,7 +31,7 @@ Some cool stuff. 6 sponsored talks covering topics ranging from Netbooks to mult
 Oh hey, so what do we find if we keep scrolling?
 
 <div id="attachment_2055" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/02/MikeIntelAgenda.jpg"><img src="/wp-content/uploads/2010/02/MikeIntelAgenda-640x547.jpg" alt="" title="MikeIntelAgenda" width="640" height="547" class="size-large wp-image-2055" srcset="http://blog.toonormal.com/wp-content/uploads/2010/02/MikeIntelAgenda-640x547.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/02/MikeIntelAgenda-450x384.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/02/MikeIntelAgenda.jpg 837w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/02/MikeIntelAgenda.jpg"><img src="/wp-content/uploads/2010/02/MikeIntelAgenda-640x547.jpg" alt="" title="MikeIntelAgenda" width="640" height="547" class="size-large wp-image-2055" srcset="/wp-content/uploads/2010/02/MikeIntelAgenda-640x547.jpg 640w, /wp-content/uploads/2010/02/MikeIntelAgenda-450x384.jpg 450w, /wp-content/uploads/2010/02/MikeIntelAgenda.jpg 837w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Mike Kasprzak Live @ the Intel Booth, GDC 2010! Wait... What!?!

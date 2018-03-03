@@ -4,7 +4,7 @@ title: 'Notes: Benchmarking VPS Bandwidth'
 date: 2016-06-21T11:50:57+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9122
+guid: /?p=9122
 permalink: /2016/06/21/notes-benchmarking-vps-bandwidth/
 categories:
   - Uncategorized

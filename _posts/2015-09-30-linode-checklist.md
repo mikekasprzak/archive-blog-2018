@@ -4,7 +4,7 @@ title: Linode Checklist
 date: 2015-09-30T18:05:50+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=7562
+guid: /?p=7562
 permalink: /2015/09/30/linode-checklist/
 categories:
   - Uncategorized

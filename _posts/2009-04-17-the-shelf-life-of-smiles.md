@@ -15,7 +15,7 @@ Smiles has been available for nearly 6 months in the App Store now. From [the st
 
 It&#8217;s been a great ride. Smiles scored itself a nomination in the [IGF](http://www.igfmobile.com), which is something I&#8217;m immensely proud of. It&#8217;s also been collecting extremely high regards on nearly _every_ website that&#8217;s taken a look at it. One of the cooler ones to date has been the Silver Award from PocketGamer, which I _just recently_ found out is actually **more** than a mere banner graphic.
 
-[<img src="/wp-content/uploads/2009/04/smilessilveraward-450x337.jpg" alt="smilessilveraward" title="smilessilveraward" width="450" height="337" class="aligncenter size-medium wp-image-1006" srcset="http://blog.toonormal.com/wp-content/uploads/2009/04/smilessilveraward-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2009/04/smilessilveraward-1024x768.jpg 1024w, http://blog.toonormal.com/wp-content/uploads/2009/04/smilessilveraward.jpg 1094w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/04/smilessilveraward.jpg)
+[<img src="/wp-content/uploads/2009/04/smilessilveraward-450x337.jpg" alt="smilessilveraward" title="smilessilveraward" width="450" height="337" class="aligncenter size-medium wp-image-1006" srcset="/wp-content/uploads/2009/04/smilessilveraward-450x337.jpg 450w, /wp-content/uploads/2009/04/smilessilveraward-1024x768.jpg 1024w, /wp-content/uploads/2009/04/smilessilveraward.jpg 1094w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2009/04/smilessilveraward.jpg)
 
 Pretty awesome. 🙂
 

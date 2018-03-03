@@ -23,7 +23,7 @@ On Live Coding again, I see it as more than just code. Right now it&#8217;s only
 My Live Coding setup is bound to the Window focus. When the game re-gains focus, a process of scanning content begins, and any assets found to have changed are reloaded. Pictures:
 
 <div id="attachment_4478" style="max-width: 628px" class="wp-caption alignright">
-  <a href="/wp-content/uploads/2011/08/TechShot03.png"><img src="/wp-content/uploads/2011/08/TechShot03.png" alt="" title="TechShot03" width="618" height="203" class="size-full wp-image-4478" srcset="http://blog.toonormal.com/wp-content/uploads/2011/08/TechShot03.png 618w, http://blog.toonormal.com/wp-content/uploads/2011/08/TechShot03-450x147.png 450w" sizes="(max-width: 618px) 100vw, 618px" /></a>
+  <a href="/wp-content/uploads/2011/08/TechShot03.png"><img src="/wp-content/uploads/2011/08/TechShot03.png" alt="" title="TechShot03" width="618" height="203" class="size-full wp-image-4478" srcset="/wp-content/uploads/2011/08/TechShot03.png 618w, /wp-content/uploads/2011/08/TechShot03-450x147.png 450w" sizes="(max-width: 618px) 100vw, 618px" /></a>
   
   <p class="wp-caption-text">
     Script before modification. Showing a no-change refresh. Currently just text printing that AWESOME line.
@@ -37,7 +37,7 @@ An ALT+TAB, some munging with the Main.nut script file, an ALT+TAB back in:
 
 
 <div id="attachment_4479" style="max-width: 628px" class="wp-caption alignright">
-  <a href="/wp-content/uploads/2011/08/TechShot04.png"><img src="/wp-content/uploads/2011/08/TechShot04.png" alt="" title="TechShot04" width="618" height="299" class="size-full wp-image-4479" srcset="http://blog.toonormal.com/wp-content/uploads/2011/08/TechShot04.png 618w, http://blog.toonormal.com/wp-content/uploads/2011/08/TechShot04-450x217.png 450w" sizes="(max-width: 618px) 100vw, 618px" /></a>
+  <a href="/wp-content/uploads/2011/08/TechShot04.png"><img src="/wp-content/uploads/2011/08/TechShot04.png" alt="" title="TechShot04" width="618" height="299" class="size-full wp-image-4479" srcset="/wp-content/uploads/2011/08/TechShot04.png 618w, /wp-content/uploads/2011/08/TechShot04-450x217.png 450w" sizes="(max-width: 618px) 100vw, 618px" /></a>
   
   <p class="wp-caption-text">
     After modification, things go from AWESOME to SILLY. Tom is an instrument.

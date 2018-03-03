@@ -13,7 +13,7 @@ categories:
 So I spent the evening getting Smiles working in 64bit Linux (Ubuntu 10.10) as well as the Mac. Here are the results:
 
 <div id="attachment_3421" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Linux6401.jpg"><img src="/wp-content/uploads/2010/11/Linux6401-640x400.jpg" alt="" title="Linux6401" width="640" height="400" class="size-large wp-image-3421" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Linux6401-640x400.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/Linux6401-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/Linux6401.jpg"><img src="/wp-content/uploads/2010/11/Linux6401-640x400.jpg" alt="" title="Linux6401" width="640" height="400" class="size-large wp-image-3421" srcset="/wp-content/uploads/2010/11/Linux6401-640x400.jpg 640w, /wp-content/uploads/2010/11/Linux6401-450x281.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Smiles HD, 64bit binary running on 'The Zotac' -- Ubuntu 10.10 Desktop
@@ -23,7 +23,7 @@ So I spent the evening getting Smiles working in 64bit Linux (Ubuntu 10.10) as w
 And the Mac again:
 
 <div id="attachment_3426" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Mac06.jpg"><img src="/wp-content/uploads/2010/11/Mac06-640x411.jpg" alt="" title="Mac06" width="640" height="411" class="size-large wp-image-3426" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Mac06-640x411.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac06-450x289.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac06.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/Mac06.jpg"><img src="/wp-content/uploads/2010/11/Mac06-640x411.jpg" alt="" title="Mac06" width="640" height="411" class="size-large wp-image-3426" srcset="/wp-content/uploads/2010/11/Mac06-640x411.jpg 640w, /wp-content/uploads/2010/11/Mac06-450x289.jpg 450w, /wp-content/uploads/2010/11/Mac06.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Smiles HD on the Mac again, this time in 64 bits
@@ -33,7 +33,7 @@ And the Mac again:
 And a closeup of the processes section:
 
 <div id="attachment_3427" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/Mac07.jpg"><img src="/wp-content/uploads/2010/11/Mac07-640x109.jpg" alt="" title="Mac07" width="640" height="109" class="size-large wp-image-3427" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/Mac07-640x109.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac07-450x76.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/Mac07.jpg 862w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/Mac07.jpg"><img src="/wp-content/uploads/2010/11/Mac07-640x109.jpg" alt="" title="Mac07" width="640" height="109" class="size-large wp-image-3427" srcset="/wp-content/uploads/2010/11/Mac07-640x109.jpg 640w, /wp-content/uploads/2010/11/Mac07-450x76.jpg 450w, /wp-content/uploads/2010/11/Mac07.jpg 862w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     A zoom of the process, showing 64bit mode. The CPU usage is due to it being a debug build.

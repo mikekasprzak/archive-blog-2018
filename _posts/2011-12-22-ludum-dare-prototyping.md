@@ -24,7 +24,7 @@ The past few months I&#8217;ve been spending majority of my time building the te
 So once the Ludum Dare theme is announced, I ran with the demake idea, and about 3 days later I have something _far more fun and interesting_ than I had before&#8230; Written from scratch, in JavaScript.
 
 <div id="attachment_4960" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/12/Shot09.png"><img src="/wp-content/uploads/2011/12/Shot09-640x366.png" alt="" title="Shot09" width="640" height="366" class="size-large wp-image-4960" srcset="http://blog.toonormal.com/wp-content/uploads/2011/12/Shot09-640x366.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/12/Shot09-450x257.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/12/Shot09.png 1047w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/12/Shot09.png"><img src="/wp-content/uploads/2011/12/Shot09-640x366.png" alt="" title="Shot09" width="640" height="366" class="size-large wp-image-4960" srcset="/wp-content/uploads/2011/12/Shot09-640x366.png 640w, /wp-content/uploads/2011/12/Shot09-450x257.png 450w, /wp-content/uploads/2011/12/Shot09.png 1047w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Fighting some Bats

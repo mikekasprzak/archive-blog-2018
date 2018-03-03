@@ -32,7 +32,7 @@ One thing that held back the Linux build was a little discovery of mine. It seem
 Actually this isn&#8217;t a very big deal as there&#8217;s an update that should fix it, but it reminded me I may want a fallback option. So versions of Smiles HD newer than 1.1.0 will include both the full 1080p assets, and some non-texture-compressed 16bit &#8220;720p&#8221; assets. That adds about 10 MB to the game (already 40 MB). Not much really, and it guarantees compatibility. I suppose an option would be to write a software decoder for S3TC (DXT) compressed data, but for PC&#8217;s I&#8217;m okay with adding 10 MB. I&#8217;ll probably omit it from the Mac version though, since the store requires OS 10.6.6.
 
 <div id="attachment_3529" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/LinuxWindow.png"><img src="/wp-content/uploads/2010/11/LinuxWindow-640x375.png" alt="" title="LinuxWindow" width="640" height="375" class="size-large wp-image-3529" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/LinuxWindow-640x375.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/LinuxWindow-450x263.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/LinuxWindow.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/LinuxWindow.png"><img src="/wp-content/uploads/2010/11/LinuxWindow-640x375.png" alt="" title="LinuxWindow" width="640" height="375" class="size-large wp-image-3529" srcset="/wp-content/uploads/2010/11/LinuxWindow-640x375.png 640w, /wp-content/uploads/2010/11/LinuxWindow-450x263.png 450w, /wp-content/uploads/2010/11/LinuxWindow.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Tiny Window for a Tiny Netbook Screen (1024x600) -- Oh hey! I added space from the border
@@ -44,7 +44,7 @@ One thing that didn&#8217;t make 1.1.0 was a toggle button for switching between
 When Smiles HD starts, it checks the desktop resolution and uses that as the game resolution. Every system I&#8217;ve tested it on runs nearly 60fps. Interestingly, as the resolution of the attached monitor goes up, the computers seem to have a beefier GPU (no Intel GMA 950&#8217;s attached to 1080p screens&#8230; except for my Mac, and it runs fine there).
 
 <div id="attachment_3542" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/SmilesWindows85.jpg"><img src="/wp-content/uploads/2010/11/SmilesWindows85-640x360.jpg" alt="" title="SmilesWindows85" width="640" height="360" class="size-large wp-image-3542" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/SmilesWindows85-640x360.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/SmilesWindows85-450x253.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/SmilesWindows85.jpg"><img src="/wp-content/uploads/2010/11/SmilesWindows85-640x360.jpg" alt="" title="SmilesWindows85" width="640" height="360" class="size-large wp-image-3542" srcset="/wp-content/uploads/2010/11/SmilesWindows85-640x360.jpg 640w, /wp-content/uploads/2010/11/SmilesWindows85-450x253.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Hello Windows 7. My my! You have such big gutters!

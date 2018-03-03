@@ -12,7 +12,7 @@ categories:
 Finally! Go take a look!
 
 <div id="attachment_3985" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="https://market.android.com/developer?pub=Sykhronics+Entertainment"><img src="/wp-content/uploads/2011/04/AndroidMarket-640x423.png" alt="" title="AndroidMarket" width="640" height="423" class="size-large wp-image-3985" srcset="http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidMarket-640x423.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidMarket-450x297.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/04/AndroidMarket.png 1112w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="https://market.android.com/developer?pub=Sykhronics+Entertainment"><img src="/wp-content/uploads/2011/04/AndroidMarket-640x423.png" alt="" title="AndroidMarket" width="640" height="423" class="size-large wp-image-3985" srcset="/wp-content/uploads/2011/04/AndroidMarket-640x423.png 640w, /wp-content/uploads/2011/04/AndroidMarket-450x297.png 450w, /wp-content/uploads/2011/04/AndroidMarket.png 1112w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     The 'No Android' Smiles era has ended. Welcome to the era of Android Smiles.

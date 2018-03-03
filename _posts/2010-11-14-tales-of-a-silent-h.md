@@ -22,14 +22,14 @@ You can see more examples of [prior logos here](/2005/11/27/classic-logos/).
 
 For [the past 5 years](/2005/11/26/logo-rhythm/) I&#8217;ve been using this:
 
-[<img src="/wp-content/uploads/2010/11/SykLogo_Brown-640x118.png" alt="" title="SykLogo_Brown" width="640" height="118" class="aligncenter size-large wp-image-3457" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/SykLogo_Brown-640x118.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/SykLogo_Brown-450x83.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/SykLogo_Brown.png 1080w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2010/11/SykLogo_Brown.png)
+[<img src="/wp-content/uploads/2010/11/SykLogo_Brown-640x118.png" alt="" title="SykLogo_Brown" width="640" height="118" class="aligncenter size-large wp-image-3457" srcset="/wp-content/uploads/2010/11/SykLogo_Brown-640x118.png 640w, /wp-content/uploads/2010/11/SykLogo_Brown-450x83.png 450w, /wp-content/uploads/2010/11/SykLogo_Brown.png 1080w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2010/11/SykLogo_Brown.png)
 
 I don&#8217;t know if I&#8217;ve ever really liked it, but it was _good enough_. The thing is, it **WAS** good enough, not so much anymore (or in other words, I&#8217;m bored of it).
 
 Neither that or Smiles use fonts I created, with the exception of the Smiles logo and PAUSE/UNDO text.
 
 <div id="attachment_3454" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/PTLogo3.png"><img src="/wp-content/uploads/2010/11/PTLogo3-640x288.png" alt="" title="PTLogo3" width="640" height="288" class="size-large wp-image-3454" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/PTLogo3-640x288.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/PTLogo3-450x202.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/PTLogo3.png 1311w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/PTLogo3.png"><img src="/wp-content/uploads/2010/11/PTLogo3-640x288.png" alt="" title="PTLogo3" width="640" height="288" class="size-large wp-image-3454" srcset="/wp-content/uploads/2010/11/PTLogo3-640x288.png 640w, /wp-content/uploads/2010/11/PTLogo3-450x202.png 450w, /wp-content/uploads/2010/11/PTLogo3.png 1311w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Smiles... it's a logo, and the only original typography design I've done in years

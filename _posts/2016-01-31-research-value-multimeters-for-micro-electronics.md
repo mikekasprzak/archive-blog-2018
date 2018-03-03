@@ -4,7 +4,7 @@ title: 'Research: Value Multimeters for Micro Electronics'
 date: 2016-01-31T22:46:31+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=8104
+guid: /?p=8104
 permalink: /2016/01/31/research-value-multimeters-for-micro-electronics/
 categories:
   - Technobabble
@@ -31,7 +31,7 @@ The devices I&#8217;ve chosen I believe are ideal for me, and are capable of som
 
 Cost: [**$3-$6**](http://www.aliexpress.com/item/Modern-LCD-Digital-Multimeter-battery-Ammeter-Voltmeter-Ohmmeter-Current-Tester-Grey-White-Blue-Black-Sep02/32455581515.html)
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/01/junkmeter.jpg" rel="attachment wp-att-8141"><img src="http://blog.toonormal.com/wp-content/uploads/2016/01/junkmeter-450x450.jpg" alt="junkmeter" width="450" height="450" class="aligncenter size-medium wp-image-8141" srcset="http://blog.toonormal.com/wp-content/uploads/2016/01/junkmeter-450x450.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/01/junkmeter-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2016/01/junkmeter-640x640.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/01/junkmeter.jpg 807w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/01/junkmeter.jpg" rel="attachment wp-att-8141"><img src="/wp-content/uploads/2016/01/junkmeter-450x450.jpg" alt="junkmeter" width="450" height="450" class="aligncenter size-medium wp-image-8141" srcset="/wp-content/uploads/2016/01/junkmeter-450x450.jpg 450w, /wp-content/uploads/2016/01/junkmeter-150x150.jpg 150w, /wp-content/uploads/2016/01/junkmeter-640x640.jpg 640w, /wp-content/uploads/2016/01/junkmeter.jpg 807w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 To be honest, the product code isn&#8217;t even that useful, but there a bunch to be found.
 
@@ -75,7 +75,7 @@ Cost: [**~$16**](http://www.aliexpress.com/item/UNI-T-UT136B-Auto-Range-Digital-
   
 Manual: <http://www.uni-trend.com/uploads/soft/wanyongbiao/UT136ABCD-Manual-en.pdf>
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/01/unit-ut136b.jpg" rel="attachment wp-att-8113"><img src="http://blog.toonormal.com/wp-content/uploads/2016/01/unit-ut136b-450x450.jpg" alt="unit-ut136b" width="450" height="450" class="aligncenter size-medium wp-image-8113" srcset="http://blog.toonormal.com/wp-content/uploads/2016/01/unit-ut136b-450x450.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/01/unit-ut136b-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2016/01/unit-ut136b-640x640.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/01/unit-ut136b.jpg 800w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/01/unit-ut136b.jpg" rel="attachment wp-att-8113"><img src="/wp-content/uploads/2016/01/unit-ut136b-450x450.jpg" alt="unit-ut136b" width="450" height="450" class="aligncenter size-medium wp-image-8113" srcset="/wp-content/uploads/2016/01/unit-ut136b-450x450.jpg 450w, /wp-content/uploads/2016/01/unit-ut136b-150x150.jpg 150w, /wp-content/uploads/2016/01/unit-ut136b-640x640.jpg 640w, /wp-content/uploads/2016/01/unit-ut136b.jpg 800w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 After doing my research, to me this appears to be the minimum quality meter you should own. I currently own 2 junk meters I bought from Radio Shack, and I&#8217;m pretty sure I spent $60+ on the one because it was &#8220;automatic&#8221;. What a difference a decade makes.
 
@@ -124,11 +124,11 @@ Cost: [**~$47**](http://www.aliexpress.com/item/UNI-T-UT-61E-UT61E-22-000-count-
   
 Manual: <http://uni-trend.com/manual2/UT61English.pdf>
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/01/UNIT-UT61E.jpg" rel="attachment wp-att-8124"><img src="http://blog.toonormal.com/wp-content/uploads/2016/01/UNIT-UT61E-450x450.jpg" alt="UNIT-UT61E" width="450" height="450" class="aligncenter size-medium wp-image-8124" srcset="http://blog.toonormal.com/wp-content/uploads/2016/01/UNIT-UT61E-450x450.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/01/UNIT-UT61E-150x150.jpg 150w, http://blog.toonormal.com/wp-content/uploads/2016/01/UNIT-UT61E-640x640.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/01/UNIT-UT61E.jpg 800w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/01/UNIT-UT61E.jpg" rel="attachment wp-att-8124"><img src="/wp-content/uploads/2016/01/UNIT-UT61E-450x450.jpg" alt="UNIT-UT61E" width="450" height="450" class="aligncenter size-medium wp-image-8124" srcset="/wp-content/uploads/2016/01/UNIT-UT61E-450x450.jpg 450w, /wp-content/uploads/2016/01/UNIT-UT61E-150x150.jpg 150w, /wp-content/uploads/2016/01/UNIT-UT61E-640x640.jpg 640w, /wp-content/uploads/2016/01/UNIT-UT61E.jpg 800w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 It includes a few accessories.
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/01/accessory.png" rel="attachment wp-att-8125"><img src="http://blog.toonormal.com/wp-content/uploads/2016/01/accessory-450x306.png" alt="accessory" width="450" height="306" class="aligncenter size-medium wp-image-8125" srcset="http://blog.toonormal.com/wp-content/uploads/2016/01/accessory-450x306.png 450w, http://blog.toonormal.com/wp-content/uploads/2016/01/accessory.png 616w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/01/accessory.png" rel="attachment wp-att-8125"><img src="/wp-content/uploads/2016/01/accessory-450x306.png" alt="accessory" width="450" height="306" class="aligncenter size-medium wp-image-8125" srcset="/wp-content/uploads/2016/01/accessory-450x306.png 450w, /wp-content/uploads/2016/01/accessory.png 616w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 **Pros**
 
@@ -196,7 +196,7 @@ From what I&#8217;ve seen, in the price range (~$50), there is nothing better.
 
 At the time of this post I&#8217;ve ordered both the junk tester (A830L) and the UNI-T UT-136B. Why the junk? As a backup mainly (or worst case, parts). The meters I have today are really bad.
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/01/mycrappymeters.jpg" rel="attachment wp-att-8145"><img src="http://blog.toonormal.com/wp-content/uploads/2016/01/mycrappymeters-450x337.jpg" alt="mycrappymeters" width="450" height="337" class="aligncenter size-medium wp-image-8145" srcset="http://blog.toonormal.com/wp-content/uploads/2016/01/mycrappymeters-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/01/mycrappymeters-640x479.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/01/mycrappymeters.jpg 1429w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/01/mycrappymeters.jpg" rel="attachment wp-att-8145"><img src="/wp-content/uploads/2016/01/mycrappymeters-450x337.jpg" alt="mycrappymeters" width="450" height="337" class="aligncenter size-medium wp-image-8145" srcset="/wp-content/uploads/2016/01/mycrappymeters-450x337.jpg 450w, /wp-content/uploads/2016/01/mycrappymeters-640x479.jpg 640w, /wp-content/uploads/2016/01/mycrappymeters.jpg 1429w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 The Radio Shack meter, while automatic, is lacking a lot of useful features like a beeper. Even the junk meter has a beeper!
 

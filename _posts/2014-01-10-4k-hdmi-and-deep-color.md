@@ -26,7 +26,7 @@ Chroma Subsampling is extremely common. Practically every video you&#8217;ve eve
 In the land of Subsampling, a descriptor like **4:4:4** or **4:2:2** is used. Images are broken up in to 4&#215;2 pixel cells. The descriptor says how much color (chroma) data is lost. **4:4:4** is the perfect form of Chroma Subsampling. Chroma Subsampling uses the **YCbCr** color space (sometimes called YCC) as opposed to the standard RGB color space.
 
 <div id="attachment_6676" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2014/01/ChromaSubSampling.png"><img src="/wp-content/uploads/2014/01/ChromaSubSampling-640x180.png" alt="Great subsampling diagram from Wikipedia, showing the different encodings mean" width="640" height="180" class="size-large wp-image-6676" srcset="http://blog.toonormal.com/wp-content/uploads/2014/01/ChromaSubSampling-640x180.png 640w, http://blog.toonormal.com/wp-content/uploads/2014/01/ChromaSubSampling-450x126.png 450w, http://blog.toonormal.com/wp-content/uploads/2014/01/ChromaSubSampling.png 965w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2014/01/ChromaSubSampling.png"><img src="/wp-content/uploads/2014/01/ChromaSubSampling-640x180.png" alt="Great subsampling diagram from Wikipedia, showing the different encodings mean" width="640" height="180" class="size-large wp-image-6676" srcset="/wp-content/uploads/2014/01/ChromaSubSampling-640x180.png 640w, /wp-content/uploads/2014/01/ChromaSubSampling-450x126.png 450w, /wp-content/uploads/2014/01/ChromaSubSampling.png 965w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Great subsampling diagram from <a href="http://en.wikipedia.org/wiki/Chroma_subsampling#Sampling_systems_and_ratios">Wikipedia</a>, showing the different encodings mean
@@ -63,7 +63,7 @@ If I was to guess though, because TV&#8217;s aren&#8217;t right in front of your
 Some Plasma and LCD screens use something called [Pentile Matrix](http://en.wikipedia.org/wiki/PenTile_matrix_family) arrangement of their red, green, and blue pixels.
 
 <div id="attachment_6726" style="max-width: 460px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2014/01/Pentile.jpg"><img src="/wp-content/uploads/2014/01/Pentile-450x337.jpg" alt="The AMOLED screen of the Nexus One" width="450" height="337" class="size-medium wp-image-6726" srcset="http://blog.toonormal.com/wp-content/uploads/2014/01/Pentile-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2014/01/Pentile.jpg 640w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+  <a href="/wp-content/uploads/2014/01/Pentile.jpg"><img src="/wp-content/uploads/2014/01/Pentile-450x337.jpg" alt="The AMOLED screen of the Nexus One" width="450" height="337" class="size-medium wp-image-6726" srcset="/wp-content/uploads/2014/01/Pentile-450x337.jpg 450w, /wp-content/uploads/2014/01/Pentile.jpg 640w" sizes="(max-width: 450px) 100vw, 450px" /></a>
   
   <p class="wp-caption-text">
     The AMOLED screen of the Nexus One. A green for every pixel, but every other pixel is a blue, switching red/blue order every line. Not all AMOLED screens are Pentile. The Super AMOLED Plus screen found in the PS Vita uses a <a href="http://www.edepot.com/playstation.html#PSP2_Video">standard RGB layout</a>
@@ -79,7 +79,7 @@ Me, my latest graphics fascination is **Deep Color**. Deep Color is the marketin
 This can result in banding, especially in near flat color gradients.
 
 <div id="attachment_6696" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2014/01/Banding.jpg"><img src="/wp-content/uploads/2014/01/Banding.jpg" alt="From Wikipedia" width="640" height="371" class="size-full wp-image-6696" srcset="http://blog.toonormal.com/wp-content/uploads/2014/01/Banding.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2014/01/Banding-450x260.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2014/01/Banding.jpg"><img src="/wp-content/uploads/2014/01/Banding.jpg" alt="From Wikipedia" width="640" height="371" class="size-full wp-image-6696" srcset="/wp-content/uploads/2014/01/Banding.jpg 640w, /wp-content/uploads/2014/01/Banding-450x260.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     From <a href="http://en.wikipedia.org/wiki/Color_banding">Wikipedia</a>, though it&#8217;s possible the banding shown may be exaggerated

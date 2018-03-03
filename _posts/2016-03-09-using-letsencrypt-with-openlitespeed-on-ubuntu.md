@@ -4,7 +4,7 @@ title: Using LetsEncrypt with OpenLiteSpeed on Ubuntu
 date: 2016-03-09T18:11:32+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=8275
+guid: /?p=8275
 permalink: /2016/03/09/using-letsencrypt-with-openlitespeed-on-ubuntu/
 categories:
   - Linux

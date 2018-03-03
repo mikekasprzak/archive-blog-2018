@@ -14,7 +14,7 @@ Linux notes again!!?!
 
 Yes, as it turns out I decided to replace my dead workstation PC (with beefy specs like Water Cooled Quad Core CPU, NVidia GPUs, RAID Array, etc) with a teeny tiny PC slightly larger than a stack of coasters: A Brix BXi3.
 
-[<img src="/wp-content/uploads/2014/05/8760_big-450x325.jpg" alt="8760_big" width="450" height="325" class="aligncenter size-medium wp-image-6879" srcset="http://blog.toonormal.com/wp-content/uploads/2014/05/8760_big-450x325.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2014/05/8760_big-640x462.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2014/05/8760_big.jpg 1000w" sizes="(max-width: 450px) 100vw, 450px" />](http://ca.gigabyte.com/products/product-page.aspx?pid=4742)
+[<img src="/wp-content/uploads/2014/05/8760_big-450x325.jpg" alt="8760_big" width="450" height="325" class="aligncenter size-medium wp-image-6879" srcset="/wp-content/uploads/2014/05/8760_big-450x325.jpg 450w, /wp-content/uploads/2014/05/8760_big-640x462.jpg 640w, /wp-content/uploads/2014/05/8760_big.jpg 1000w" sizes="(max-width: 450px) 100vw, 450px" />](http://ca.gigabyte.com/products/product-page.aspx?pid=4742)
 
 I tried using an older NVidia ION powered Nettop, but that machine really didn&#8217;t work well with Ubuntu 14.04 (The Window Manager at least). I&#8217;m told other WMs are fine, but I&#8217;d rather install a Server disto on a lacking machine like that. 
 
@@ -115,7 +115,7 @@ Go to **System Settings -> Keyboard -> Shortcuts -> Launchers**.
 
 Find the setting &#8220;**Key to show the HUD**&#8220;, select it, push **backspace**.
 
-[<img src="/wp-content/uploads/2014/05/VMgyr-450x299.jpg" alt="VMgyr" width="450" height="299" class="aligncenter size-medium wp-image-6903" srcset="http://blog.toonormal.com/wp-content/uploads/2014/05/VMgyr-450x299.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2014/05/VMgyr-640x426.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2014/05/VMgyr.jpg 797w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2014/05/VMgyr.jpg)
+[<img src="/wp-content/uploads/2014/05/VMgyr-450x299.jpg" alt="VMgyr" width="450" height="299" class="aligncenter size-medium wp-image-6903" srcset="/wp-content/uploads/2014/05/VMgyr-450x299.jpg 450w, /wp-content/uploads/2014/05/VMgyr-640x426.jpg 640w, /wp-content/uploads/2014/05/VMgyr.jpg 797w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2014/05/VMgyr.jpg)
 
 Reference: <http://askubuntu.com/a/122232>
 

@@ -4,7 +4,7 @@ title: 'Notes: Linux video-to-giffing'
 date: 2017-06-30T13:39:15+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9709
+guid: /?p=9709
 permalink: /2017/06/30/notes-linux-video-to-giffing/
 categories:
   - Uncategorized

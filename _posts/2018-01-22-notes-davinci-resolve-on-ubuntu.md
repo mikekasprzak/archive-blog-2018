@@ -4,7 +4,7 @@ title: 'Notes: DaVinci Resolve on Ubuntu'
 date: 2018-01-22T12:32:00+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9846
+guid: /?p=9846
 permalink: /2018/01/22/notes-davinci-resolve-on-ubuntu/
 categories:
   - Uncategorized

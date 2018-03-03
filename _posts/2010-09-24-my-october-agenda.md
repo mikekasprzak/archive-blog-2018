@@ -48,6 +48,6 @@ That is the current technical challenge ahead for me; A pretty easy one at that.
 
 Artistically, to save time, I&#8217;m strongly considering a main character in the style of the &#8220;bird things&#8221; from my [TIGSource Comicompo page](http://kpulv.com/comicompo3/). This, but cleaner:
 
-[<img src="/wp-content/uploads/2010/09/ComicCollage01sm.png" alt="" title="ComicCollage01sm" width="486" height="486" class="aligncenter size-full wp-image-3161" srcset="http://blog.toonormal.com/wp-content/uploads/2010/09/ComicCollage01sm.png 486w, http://blog.toonormal.com/wp-content/uploads/2010/09/ComicCollage01sm-150x150.png 150w, http://blog.toonormal.com/wp-content/uploads/2010/09/ComicCollage01sm-450x450.png 450w" sizes="(max-width: 486px) 100vw, 486px" />](/wp-content/uploads/2010/09/ComicCollage01sm.png)
+[<img src="/wp-content/uploads/2010/09/ComicCollage01sm.png" alt="" title="ComicCollage01sm" width="486" height="486" class="aligncenter size-full wp-image-3161" srcset="/wp-content/uploads/2010/09/ComicCollage01sm.png 486w, /wp-content/uploads/2010/09/ComicCollage01sm-150x150.png 150w, /wp-content/uploads/2010/09/ComicCollage01sm-450x450.png 450w" sizes="(max-width: 486px) 100vw, 486px" />](/wp-content/uploads/2010/09/ComicCollage01sm.png)
 
 That&#8217;s all for now. It&#8217;s now midnight Friday (having LD start time Deja Vu), so it&#8217;s time for a bit of planning/prep before bed.

@@ -26,7 +26,7 @@ Haxe NME is cool, impressive and all, but it seems more a home for Adobe Flash r
 
 JavaScript \*is\* cool. I&#8217;ve been working with it more and more lately. I made a game with [Derek Laufman](http://twitter.com/laufman) of [Halfbot](http://halfbot.com) using JavaScript for [Ludum Dare 26](http://www.ludumdare.com/compo/).
 
-[<img src="/wp-content/uploads/2013/05/Toom091.png" alt="Toom09" width="556" height="311" class="aligncenter size-full wp-image-6208" srcset="http://blog.toonormal.com/wp-content/uploads/2013/05/Toom091.png 556w, http://blog.toonormal.com/wp-content/uploads/2013/05/Toom091-450x251.png 450w" sizes="(max-width: 556px) 100vw, 556px" />](http://sykhronics.com/toom/ld48/)
+[<img src="/wp-content/uploads/2013/05/Toom091.png" alt="Toom09" width="556" height="311" class="aligncenter size-full wp-image-6208" srcset="/wp-content/uploads/2013/05/Toom091.png 556w, /wp-content/uploads/2013/05/Toom091-450x251.png 450w" sizes="(max-width: 556px) 100vw, 556px" />](http://sykhronics.com/toom/ld48/)
 
 Time was short during Ludum Dare, but we came up with some neat ideas, so we&#8217;re redoing the game. A &#8220;Director&#8217;s Cut&#8221; if you will. It&#8217;s still taking place in the one room, but we&#8217;re planning to make both the room and the interactions you have inside it way more interesting.
 

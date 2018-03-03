@@ -32,7 +32,7 @@ So Mike, what will you be doing?
 I&#8217;ll be working to convince you that this is a game you **must** play:
 
 <div id="attachment_3868" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2011/01/DL07.png"><img src="/wp-content/uploads/2011/01/DL07-640x563.png" alt="" title="DL07" width="640" height="563" class="size-large wp-image-3868" srcset="http://blog.toonormal.com/wp-content/uploads/2011/01/DL07-640x563.png 640w, http://blog.toonormal.com/wp-content/uploads/2011/01/DL07-450x396.png 450w, http://blog.toonormal.com/wp-content/uploads/2011/01/DL07.png 901w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2011/01/DL07.png"><img src="/wp-content/uploads/2011/01/DL07-640x563.png" alt="" title="DL07" width="640" height="563" class="size-large wp-image-3868" srcset="/wp-content/uploads/2011/01/DL07-640x563.png 640w, /wp-content/uploads/2011/01/DL07-450x396.png 450w, /wp-content/uploads/2011/01/DL07.png 901w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     I intentionally chose the ugliest recent screenshot, so when it finally starts looking good, we can A/B it showing how much better it looks. Mmmm... Yellow circle on green terrain.

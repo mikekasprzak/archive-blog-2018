@@ -4,7 +4,7 @@ title: 'Notes: Advanced OBS Stream Config'
 date: 2017-06-23T03:40:07+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9701
+guid: /?p=9701
 permalink: /2017/06/23/notes-advanced-obs-stream-config/
 categories:
   - Uncategorized
@@ -27,7 +27,7 @@ I&#8217;m using a 3-stage setup.
 
 **ReaFir** can be used to capture the noise profile of the room.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/06/reafir-640x345.png" alt="" width="640" height="345" class="aligncenter size-large wp-image-9704" srcset="http://blog.toonormal.com/wp-content/uploads/2017/06/reafir-640x345.png 640w, http://blog.toonormal.com/wp-content/uploads/2017/06/reafir-450x243.png 450w, http://blog.toonormal.com/wp-content/uploads/2017/06/reafir.png 932w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/06/reafir.png)
+[<img src="/wp-content/uploads/2017/06/reafir-640x345.png" alt="" width="640" height="345" class="aligncenter size-large wp-image-9704" srcset="/wp-content/uploads/2017/06/reafir-640x345.png 640w, /wp-content/uploads/2017/06/reafir-450x243.png 450w, /wp-content/uploads/2017/06/reafir.png 932w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/06/reafir.png)
 
 Simply select the SUBTRACT mode, and click the checkbox beside it to toggle capture mode. Also, you may want to up the FFT size for better fidelity (at the cost of more CPU).
 
@@ -35,7 +35,7 @@ You should do this any time your noise conditions change. i.e. you turn on a fan
 
 **ReaEQ** can be used to tweak the dynamics, remove muddyness from audio.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/06/reaeq-640x345.png" alt="" width="640" height="345" class="aligncenter size-large wp-image-9705" srcset="http://blog.toonormal.com/wp-content/uploads/2017/06/reaeq-640x345.png 640w, http://blog.toonormal.com/wp-content/uploads/2017/06/reaeq-450x243.png 450w, http://blog.toonormal.com/wp-content/uploads/2017/06/reaeq.png 989w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2017/06/reaeq.png)
+[<img src="/wp-content/uploads/2017/06/reaeq-640x345.png" alt="" width="640" height="345" class="aligncenter size-large wp-image-9705" srcset="/wp-content/uploads/2017/06/reaeq-640x345.png 640w, /wp-content/uploads/2017/06/reaeq-450x243.png 450w, /wp-content/uploads/2017/06/reaeq.png 989w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2017/06/reaeq.png)
 
 My current setup is a 5 part EQ.
 
@@ -47,7 +47,7 @@ My current setup is a 5 part EQ.
 
 **ReaComp** is the compressor.
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2017/06/reacomp.png" alt="" width="579" height="405" class="aligncenter size-full wp-image-9707" srcset="http://blog.toonormal.com/wp-content/uploads/2017/06/reacomp.png 579w, http://blog.toonormal.com/wp-content/uploads/2017/06/reacomp-450x315.png 450w" sizes="(max-width: 579px) 100vw, 579px" />](http://blog.toonormal.com/wp-content/uploads/2017/06/reacomp.png)
+[<img src="/wp-content/uploads/2017/06/reacomp.png" alt="" width="579" height="405" class="aligncenter size-full wp-image-9707" srcset="/wp-content/uploads/2017/06/reacomp.png 579w, /wp-content/uploads/2017/06/reacomp-450x315.png 450w" sizes="(max-width: 579px) 100vw, 579px" />](/wp-content/uploads/2017/06/reacomp.png)
 
 The realtime graphs are extremely useful here (since they \*cough\* actually have numbers).
 

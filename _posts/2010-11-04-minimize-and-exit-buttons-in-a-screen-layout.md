@@ -14,7 +14,7 @@ Going through my Smiles HD TODO/Wishlist, one thing I&#8217;ve been meaning to a
 
 
 <div id="attachment_3321" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/NovHD01.jpg"><img src="/wp-content/uploads/2010/11/NovHD01-640x360.jpg" alt="" title="NovHD01" width="640" height="360" class="size-large wp-image-3321" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/NovHD01-640x360.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/NovHD01-450x253.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/NovHD01.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/NovHD01.jpg"><img src="/wp-content/uploads/2010/11/NovHD01-640x360.jpg" alt="" title="NovHD01" width="640" height="360" class="size-large wp-image-3321" srcset="/wp-content/uploads/2010/11/NovHD01-640x360.jpg 640w, /wp-content/uploads/2010/11/NovHD01-450x253.jpg 450w, /wp-content/uploads/2010/11/NovHD01.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     The Exit and Minimize buttons on Windows and Linux
@@ -26,7 +26,7 @@ Going through my Smiles HD TODO/Wishlist, one thing I&#8217;ve been meaning to a
 
 
 <div id="attachment_3322" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/11/NovHD02.jpg"><img src="/wp-content/uploads/2010/11/NovHD02-640x360.jpg" alt="" title="NovHD02" width="640" height="360" class="size-large wp-image-3322" srcset="http://blog.toonormal.com/wp-content/uploads/2010/11/NovHD02-640x360.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/11/NovHD02-450x253.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/11/NovHD02.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/11/NovHD02.jpg"><img src="/wp-content/uploads/2010/11/NovHD02-640x360.jpg" alt="" title="NovHD02" width="640" height="360" class="size-large wp-image-3322" srcset="/wp-content/uploads/2010/11/NovHD02-640x360.jpg 640w, /wp-content/uploads/2010/11/NovHD02-450x253.jpg 450w, /wp-content/uploads/2010/11/NovHD02.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     The Exit and Minimize buttons on OSX

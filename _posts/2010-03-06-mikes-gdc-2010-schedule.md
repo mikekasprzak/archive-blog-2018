@@ -88,7 +88,7 @@ Flight Back: Air Canada 756 to Toronto (Sunday 12:55 PM)
 Get your game face on! It&#8217;s GDC time!
 
 <div id="attachment_2119" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/03/MikeCan.jpg"><img src="/wp-content/uploads/2010/03/MikeCan-640x479.jpg" alt="" title="MikeCan" width="640" height="479" class="size-large wp-image-2119" srcset="http://blog.toonormal.com/wp-content/uploads/2010/03/MikeCan-640x479.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/03/MikeCan-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/03/MikeCan.jpg 979w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/03/MikeCan.jpg"><img src="/wp-content/uploads/2010/03/MikeCan-640x479.jpg" alt="" title="MikeCan" width="640" height="479" class="size-large wp-image-2119" srcset="/wp-content/uploads/2010/03/MikeCan-640x479.jpg 640w, /wp-content/uploads/2010/03/MikeCan-450x337.jpg 450w, /wp-content/uploads/2010/03/MikeCan.jpg 979w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     If anyone can, Mike can, while holding a can

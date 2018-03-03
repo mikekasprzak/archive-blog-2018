@@ -14,7 +14,7 @@ categories:
 I actually finished on Sunday, but the _final_ mobile port of Smiles is now sent. The port is for Samsung&#8217;s Bada mobile platform. I was pleasantly surprised how straight forward it was to get things up and running there. The system API is very much like a C++ version of Apple&#8217;s ObjC iPhoneOS API. The whole endeavor took no more than 4 days worth of work.
 
 <div id="attachment_2798" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/06/BadaSmiles.jpg"><img src="/wp-content/uploads/2010/06/BadaSmiles-640x330.jpg" alt="" title="BadaSmiles" width="640" height="330" class="size-large wp-image-2798" srcset="http://blog.toonormal.com/wp-content/uploads/2010/06/BadaSmiles-640x330.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/06/BadaSmiles-450x232.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/06/BadaSmiles.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/06/BadaSmiles.jpg"><img src="/wp-content/uploads/2010/06/BadaSmiles-640x330.jpg" alt="" title="BadaSmiles" width="640" height="330" class="size-large wp-image-2798" srcset="/wp-content/uploads/2010/06/BadaSmiles-640x330.jpg 640w, /wp-content/uploads/2010/06/BadaSmiles-450x232.jpg 450w, /wp-content/uploads/2010/06/BadaSmiles.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Running in the simulator

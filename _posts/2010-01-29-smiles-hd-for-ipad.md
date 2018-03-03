@@ -26,7 +26,7 @@ That&#8217;s all I have for now. I&#8217;ll post more details as the iPad launch
 Some high resolution shots (click for highres PNGs):
 
 <div id="attachment_1931" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/01/Tall01.png"><img src="/wp-content/uploads/2010/01/Tall01-640x853.png" alt="" title="Tall01" width="640" height="853" class="size-large wp-image-1931" srcset="http://blog.toonormal.com/wp-content/uploads/2010/01/Tall01-640x853.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/01/Tall01-337x450.png 337w, http://blog.toonormal.com/wp-content/uploads/2010/01/Tall01.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/01/Tall01.png"><img src="/wp-content/uploads/2010/01/Tall01-640x853.png" alt="" title="Tall01" width="640" height="853" class="size-large wp-image-1931" srcset="/wp-content/uploads/2010/01/Tall01-640x853.png 640w, /wp-content/uploads/2010/01/Tall01-337x450.png 337w, /wp-content/uploads/2010/01/Tall01.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Tall Aspect Ratio
@@ -34,7 +34,7 @@ Some high resolution shots (click for highres PNGs):
 </div>
 
 <div id="attachment_1932" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/01/Wide05.png"><img src="/wp-content/uploads/2010/01/Wide05-640x480.png" alt="" title="Wide05" width="640" height="480" class="size-large wp-image-1932" srcset="http://blog.toonormal.com/wp-content/uploads/2010/01/Wide05-640x480.png 640w, http://blog.toonormal.com/wp-content/uploads/2010/01/Wide05-450x337.png 450w, http://blog.toonormal.com/wp-content/uploads/2010/01/Wide05.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/01/Wide05.png"><img src="/wp-content/uploads/2010/01/Wide05-640x480.png" alt="" title="Wide05" width="640" height="480" class="size-large wp-image-1932" srcset="/wp-content/uploads/2010/01/Wide05-640x480.png 640w, /wp-content/uploads/2010/01/Wide05-450x337.png 450w, /wp-content/uploads/2010/01/Wide05.png 1024w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Wide Aspect Ratio

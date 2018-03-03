@@ -11,7 +11,7 @@ categories:
   - Smiles
 ---
 <div id="attachment_2748" style="max-width: 330px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/05/C64-02.png"><img src="/wp-content/uploads/2010/05/C64-02.png" alt="" title="C64-02" width="320" height="480" class="size-full wp-image-2748" srcset="http://blog.toonormal.com/wp-content/uploads/2010/05/C64-02.png 320w, http://blog.toonormal.com/wp-content/uploads/2010/05/C64-02-300x450.png 300w" sizes="(max-width: 320px) 100vw, 320px" /></a>
+  <a href="/wp-content/uploads/2010/05/C64-02.png"><img src="/wp-content/uploads/2010/05/C64-02.png" alt="" title="C64-02" width="320" height="480" class="size-full wp-image-2748" srcset="/wp-content/uploads/2010/05/C64-02.png 320w, /wp-content/uploads/2010/05/C64-02-300x450.png 300w" sizes="(max-width: 320px) 100vw, 320px" /></a>
   
   <p class="wp-caption-text">
     Commodore Like

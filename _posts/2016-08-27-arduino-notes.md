@@ -4,7 +4,7 @@ title: Arduino Notes
 date: 2016-08-27T20:27:06+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9165
+guid: /?p=9165
 permalink: /2016/08/27/arduino-notes/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ Just a bunch of scattered Arduino notes.
 
 ## Leonardo
 
-[<img src="http://blog.toonormal.com/wp-content/uploads/2016/08/leonardo-pinout-640x495.jpg" alt="leonardo-pinout" width="640" height="495" class="aligncenter size-large wp-image-9166" srcset="http://blog.toonormal.com/wp-content/uploads/2016/08/leonardo-pinout-640x495.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/08/leonardo-pinout-450x348.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" />](http://blog.toonormal.com/wp-content/uploads/2016/08/leonardo-pinout.jpg)
+[<img src="/wp-content/uploads/2016/08/leonardo-pinout-640x495.jpg" alt="leonardo-pinout" width="640" height="495" class="aligncenter size-large wp-image-9166" srcset="/wp-content/uploads/2016/08/leonardo-pinout-640x495.jpg 640w, /wp-content/uploads/2016/08/leonardo-pinout-450x348.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2016/08/leonardo-pinout.jpg)
 
   * All data pins can be Digital Inputs or Outputs (i.e. D0-D13, A0-A5). Thus, 20 digital I/O pins
   * Caveat: D0 and D1 are shared by the UART bus used to communicate over USB. So if you want to avoid reading/writing weird values while connected to the PC, you may want to avoid these pins.

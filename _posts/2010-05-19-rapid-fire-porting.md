@@ -17,7 +17,7 @@ So to make that happen, I need to power through my list of pending platforms I w
 Yesterday (between a lunch outing with the folks, and Iron Man 2) I finally sat down and got the Mac port of Smiles up and running.
 
 <div id="attachment_2593" style="max-width: 650px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2010/05/SmilesMac.jpg"><img src="/wp-content/uploads/2010/05/SmilesMac-640x441.jpg" alt="" title="SmilesMac" width="640" height="441" class="size-large wp-image-2593" srcset="http://blog.toonormal.com/wp-content/uploads/2010/05/SmilesMac-640x441.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/05/SmilesMac-450x310.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/05/SmilesMac.jpg 1335w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="/wp-content/uploads/2010/05/SmilesMac.jpg"><img src="/wp-content/uploads/2010/05/SmilesMac-640x441.jpg" alt="" title="SmilesMac" width="640" height="441" class="size-large wp-image-2593" srcset="/wp-content/uploads/2010/05/SmilesMac-640x441.jpg 640w, /wp-content/uploads/2010/05/SmilesMac-450x310.jpg 450w, /wp-content/uploads/2010/05/SmilesMac.jpg 1335w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     Hey look, an actual Mac port... not just one of those running in the simulator ones.

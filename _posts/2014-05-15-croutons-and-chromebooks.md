@@ -12,7 +12,7 @@ categories:
 ---
 More wacky hardware, I picked up a Samsung Chromebook for cheap.
 
-[<img src="/wp-content/uploads/2014/05/chrome-450x281.jpg" alt="chrome" width="450" height="281" class="aligncenter size-medium wp-image-6944" srcset="http://blog.toonormal.com/wp-content/uploads/2014/05/chrome-450x281.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2014/05/chrome-640x400.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2014/05/chrome.jpg 800w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2014/05/chrome.jpg)
+[<img src="/wp-content/uploads/2014/05/chrome-450x281.jpg" alt="chrome" width="450" height="281" class="aligncenter size-medium wp-image-6944" srcset="/wp-content/uploads/2014/05/chrome-450x281.jpg 450w, /wp-content/uploads/2014/05/chrome-640x400.jpg 640w, /wp-content/uploads/2014/05/chrome.jpg 800w" sizes="(max-width: 450px) 100vw, 450px" />](/wp-content/uploads/2014/05/chrome.jpg)
 
 I&#8217;ve specifically been waiting for a deal on the Samsung Chromebook, as it&#8217;s quite unique: It has a [Samsung Exynos](http://en.wikipedia.org/wiki/Exynos) SOC, which contains ARM CPU and GPU (MALI-T604). Next to NVidia&#8217;s efforts, these are some of the most powerful ARM CPUs out there. The GPU is a tiny bit dated though (same one as the original Google Nexus 10), but does support OpenGL ES 3.0 (with an appropriate driver at least).
 

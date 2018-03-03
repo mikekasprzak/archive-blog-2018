@@ -4,7 +4,7 @@ title: 'Notes: Time Sync'
 date: 2016-09-21T01:10:16+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=9330
+guid: /?p=9330
 permalink: /2016/09/21/notes-time-sync/
 categories:
   - Uncategorized

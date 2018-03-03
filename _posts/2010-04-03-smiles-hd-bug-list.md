@@ -11,7 +11,7 @@ categories:
   - Technobabble
   - The Business of Things
 ---
-[<img src="/wp-content/uploads/2010/04/RealiPad-640x480.jpg" alt="" title="RealiPad" width="640" height="480" class="aligncenter size-large wp-image-2403" srcset="http://blog.toonormal.com/wp-content/uploads/2010/04/RealiPad-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2010/04/RealiPad-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2010/04/RealiPad.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2010/04/RealiPad.jpg)
+[<img src="/wp-content/uploads/2010/04/RealiPad-640x480.jpg" alt="" title="RealiPad" width="640" height="480" class="aligncenter size-large wp-image-2403" srcset="/wp-content/uploads/2010/04/RealiPad-640x480.jpg 640w, /wp-content/uploads/2010/04/RealiPad-450x337.jpg 450w, /wp-content/uploads/2010/04/RealiPad.jpg 1277w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2010/04/RealiPad.jpg)
 
 Wow! So _that_ was iPad launch day.
 

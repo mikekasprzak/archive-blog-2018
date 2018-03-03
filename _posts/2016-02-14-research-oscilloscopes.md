@@ -4,7 +4,7 @@ title: 'Research: Value Oscilloscopes'
 date: 2016-02-14T00:09:06+00:00
 author: Mike K
 layout: post
-guid: http://blog.toonormal.com/?p=8247
+guid: /?p=8247
 permalink: /2016/02/14/research-oscilloscopes/
 categories:
   - Technobabble
@@ -19,7 +19,7 @@ I&#8217;ve tried to give each brand a fair shake, but in the end, all signs poin
 
 Cost: **$399 US**
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/02/rigol.jpg" rel="attachment wp-att-8248"><img src="http://blog.toonormal.com/wp-content/uploads/2016/02/rigol-450x338.jpg" alt="rigol" width="450" height="338" class="aligncenter size-medium wp-image-8248" srcset="http://blog.toonormal.com/wp-content/uploads/2016/02/rigol-450x338.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/02/rigol-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/02/rigol.jpg 970w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/02/rigol.jpg" rel="attachment wp-att-8248"><img src="/wp-content/uploads/2016/02/rigol-450x338.jpg" alt="rigol" width="450" height="338" class="aligncenter size-medium wp-image-8248" srcset="/wp-content/uploads/2016/02/rigol-450x338.jpg 450w, /wp-content/uploads/2016/02/rigol-640x480.jpg 640w, /wp-content/uploads/2016/02/rigol.jpg 970w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 **Pros**
   
@@ -59,7 +59,7 @@ I&#8217;ve actually found cheaper scopes. Amazon.ca has a few Siglent scopes for
 
 Actually, I do have an Oscilloscope. A really basic one I picked up in 2009 called the DSO Nano.
 
-<a href="http://blog.toonormal.com/wp-content/uploads/2016/02/crapmeter.jpg" rel="attachment wp-att-8256"><img src="http://blog.toonormal.com/wp-content/uploads/2016/02/crapmeter-450x337.jpg" alt="crapmeter" width="450" height="337" class="aligncenter size-medium wp-image-8256" srcset="http://blog.toonormal.com/wp-content/uploads/2016/02/crapmeter-450x337.jpg 450w, http://blog.toonormal.com/wp-content/uploads/2016/02/crapmeter-640x480.jpg 640w, http://blog.toonormal.com/wp-content/uploads/2016/02/crapmeter.jpg 911w" sizes="(max-width: 450px) 100vw, 450px" /></a>
+<a href="/wp-content/uploads/2016/02/crapmeter.jpg" rel="attachment wp-att-8256"><img src="/wp-content/uploads/2016/02/crapmeter-450x337.jpg" alt="crapmeter" width="450" height="337" class="aligncenter size-medium wp-image-8256" srcset="/wp-content/uploads/2016/02/crapmeter-450x337.jpg 450w, /wp-content/uploads/2016/02/crapmeter-640x480.jpg 640w, /wp-content/uploads/2016/02/crapmeter.jpg 911w" sizes="(max-width: 450px) 100vw, 450px" /></a>
 
 I&#8217;ve never really used it seriously, but it&#8217;s not exactly the most useful oscilloscope. You can buy a DIY kit for about $20 that does basically the same thing.
 
