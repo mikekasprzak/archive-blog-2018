@@ -1,18 +1,19 @@
 ---
-id: 6770
 title: Linux Setup Notes, Part 2
-date: 2014-01-28T20:52:42+00:00
+id: 6770
+date: '2014-01-28 15:52:42 -0500'
 author: Mike K
 layout: post
 guid: http://www.toonormal.com/?p=6770
-permalink: /2014/01/28/linux-setup-notes-part-2/
+permalink: "/2014/01/28/linux-setup-notes-part-2/"
 categories:
-  - Linux
-  - Technobabble
+- Linux
+- Technobabble
 ---
+
 I&#8217;ve been using Linux for a month now, and while I&#8217;ve done it, I&#8217;ve been adding things to this post over here:
 
-</2013/12/29/linux-setup-notes/>
+[/2013/12/29/linux-setup-notes/](/2013/12/29/linux-setup-notes/)
 
 Well that post is extremely long now, and I accidentally had to reinstall it (video driver fight), so it&#8217;s time for a fresh post!
 
