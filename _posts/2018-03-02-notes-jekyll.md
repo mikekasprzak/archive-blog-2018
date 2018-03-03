@@ -4,7 +4,7 @@ date: '2018-03-02 19:30:39'
 layout: post
 ---
 
-[Jekyll](https://jekyllrb.com/) is a tool static website generation, similar to a blog or CMS. It's notable because it's **built in to GitHub**.
+[Jekyll](https://jekyllrb.com/) is a tool static website generation, similar to a blog or CMS. It's notable because it is **built in to GitHub**.
 
 ## Setup
 To run a local instance, do the following setup:
