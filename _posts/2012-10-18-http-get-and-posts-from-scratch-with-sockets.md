@@ -31,35 +31,40 @@ Getting data over HTTP is a matter of exchanging HTTP headers. An HTTP header is
 
 Here&#8217;s how we ask for data. Open a TCP socket, and stuff a packet containing this data in to it.
 
-<pre class="lang:default decode:true " title="HTTP Request Header" >GET /_robots.txt HTTP/1.1
-Host: toonormal.com
-User-Agent: Mozilla/5.0 (whatever)
-                                                                                                         [shh! this line is blank]
-</pre>
+    
+    GET /_robots.txt HTTP/1.1
+    Host: toonormal.com
+    User-Agent: Mozilla/5.0 (whatever)
+                                                                                                             [shh! this line is blank]
+    
 
 The above is called an HTTP Request Header. It&#8217;s our way of asking a webserver for data. It&#8217;s the same thing as punching the following in to a web browser:
 
-<pre>http://toonormal.com/_robots.txt</pre>
+`http://toonormal.com/_robots.txt`
 
 The domain part is extracted (known as the Host Name), as is the path. The HTTP part is discarded, or rather, is what tells us that we will be exchanging data using HTTP Headers. Had the protocol been something else, like ftp://, we would be doing this a completely different way (not using HTTP headers).
 
 Following the packet, the webserver should respond by sending you the following packet. All you need to do is receive it (well, and interpret it too):
 
-<pre class="lang:default decode:true " title="HTTP Response Header" >HTTP/1.1 200 OK
-Date: Mon, 24 Sep 2012 17:50:30 GMT
-Server: Apache
-X-Pingback: /xmlrpc.php
-Transfer-Encoding: chunked
-Content-Type: text/plain; charset=utf-8
-
-1a
-User-agent: *
-Disallow: /</pre>
+    
+    HTTP/1.1 200 OK
+    Date: Mon, 24 Sep 2012 17:50:30 GMT
+    Server: Apache
+    X-Pingback: /xmlrpc.php
+    Transfer-Encoding: chunked
+    Content-Type: text/plain; charset=utf-8
+    
+    1a
+    User-agent: *
+    Disallow: /
+    
 
 Long story short, the above is what sending a text file containing the following looks like.
 
-<pre>User-agent: *
-Disallow: /</pre>
+    
+    User-agent: *
+    Disallow: /
+    
 
 Don&#8217;t be confused by its similarity, this is a real file: <http://toonormal.com/_robots.txt>
 
@@ -99,10 +104,11 @@ WinSock2 is actually an implementation of BSD Sockets. It&#8217;s 80-90% functio
 
 The one big difference between BSD Sockets and WinSock2 is that WinSock2 needs to be initialized before any socket code will work, and shutdown once finished.
 
-<pre class="lang:default decode:true " >WSADATA wsaData;
-	WSAStartup( MAKEWORD(2,0), &wsaData );
-	atexit( (void(*)())WSACleanup );
-</pre>
+    
+    	WSADATA wsaData;
+    	WSAStartup( MAKEWORD(2,0), &wsaData );
+    	atexit( (void(*)())WSACleanup );
+    
 
 The above code uses an atexit() callback, but if you really wanted to, you could call WSACleanup() yourself at program end. More details on WSAStartup() can be found here: 
 
@@ -118,79 +124,87 @@ Anyways, I just wanted to talk about this to give context to it&#8217;s importan
 
 Ahem! Now that we&#8217;re out of that rathole, this is a shockingly simple thing to do.
 
-<pre class="lang:default decode:true " >// FYI: Do not release this memory. Winsock stores a single HostEnt structure per thread. //
-	hostent* HostEnt = gethostbyname( HostName );
-
-	if ( HostEnt ) {
-		printf( "HostEnt-&gt;h_name: %s\n", HostEnt-&gt;h_name );
-	}</pre>
+    
+    // FYI: Do not release this memory. Winsock stores a single HostEnt structure per thread. //
+    	hostent* HostEnt = gethostbyname( HostName );
+    
+    	if ( HostEnt ) {
+    		printf( "HostEnt->h_name: %s\n", HostEnt->h_name );
+    	}
+    
 
 The HostEnt structure is an interesting way of understanding the internet. 
 
 Here&#8217;s a more featured snippet:
 
-<pre class="lang:default decode:true " >hostent* HostEnt = gethostbyname( HostName );
-
-	// Output the contents of the HostEnt structure //
-	if ( HostEnt ) {
-		printf( "HostEnt-&gt;h_name: %s\n", HostEnt-&gt;h_name );
-		
-		{
-			int AliasCount = 0;
-			while( HostEnt-&gt;h_aliases[AliasCount] != 0 ) {
-				printf( "HostEnt-&gt;h_aliases[%i]: %s\n", AliasCount, HostEnt-&gt;h_aliases[AliasCount] );
-				AliasCount++;
-			}
-			printf( "%i Aliases Found\n", AliasCount );
-		}
-		
-		printf( "HostEnt-&gt;h_addrtype: %i\n", HostEnt-&gt;h_addrtype );
-		printf( "HostEnt-&gt;h_length: %i\n", HostEnt-&gt;h_length );
-		
-		{
-			int AddrListCount = 0;
-			while( HostEnt-&gt;h_addr_list[AddrListCount] != 0 ) {
-				printf( "HostEnt-&gt;h_addr_list[%i]: %u.%u.%u.%u\n", 
-					AddrListCount, 
-					(unsigned char)HostEnt-&gt;h_addr_list[AddrListCount][0], 
-					(unsigned char)HostEnt-&gt;h_addr_list[AddrListCount][1], 
-					(unsigned char)HostEnt-&gt;h_addr_list[AddrListCount][2], 
-					(unsigned char)HostEnt-&gt;h_addr_list[AddrListCount][3] 
-					);
-				AddrListCount++;
-			}
-			printf( "%i Addresses Found\n", AddrListCount );
-		}		
-	}
-	else {
-		printf( "gethostbyname failed!\n" );
-		return -1;
-	}</pre>
+    
+    	hostent* HostEnt = gethostbyname( HostName );
+    
+    	// Output the contents of the HostEnt structure //
+    	if ( HostEnt ) {
+    		printf( "HostEnt->h_name: %s\n", HostEnt->h_name );
+    		
+    		{
+    			int AliasCount = 0;
+    			while( HostEnt->h_aliases[AliasCount] != 0 ) {
+    				printf( "HostEnt->h_aliases[%i]: %s\n", AliasCount, HostEnt->h_aliases[AliasCount] );
+    				AliasCount++;
+    			}
+    			printf( "%i Aliases Found\n", AliasCount );
+    		}
+    		
+    		printf( "HostEnt->h_addrtype: %i\n", HostEnt->h_addrtype );
+    		printf( "HostEnt->h_length: %i\n", HostEnt->h_length );
+    		
+    		{
+    			int AddrListCount = 0;
+    			while( HostEnt->h_addr_list[AddrListCount] != 0 ) {
+    				printf( "HostEnt->h_addr_list[%i]: %u.%u.%u.%u\n", 
+    					AddrListCount, 
+    					(unsigned char)HostEnt->h_addr_list[AddrListCount][0], 
+    					(unsigned char)HostEnt->h_addr_list[AddrListCount][1], 
+    					(unsigned char)HostEnt->h_addr_list[AddrListCount][2], 
+    					(unsigned char)HostEnt->h_addr_list[AddrListCount][3] 
+    					);
+    				AddrListCount++;
+    			}
+    			printf( "%i Addresses Found\n", AddrListCount );
+    		}		
+    	}
+    	else {
+    		printf( "gethostbyname failed!\n" );
+    		return -1;
+    	}
+    
 
 Here&#8217;s a couple outputs. First, my blog here.
 
-<pre>HostName: toonormal.com
-
-HostEnt->h_name: toonormal.com
-0 Aliases Found
-HostEnt->h_addrtype: 2
-HostEnt->h_length: 4
-HostEnt->h_addr_list[0]: 184.172.176.66
-1 Addresses Found</pre>
+    
+    HostName: toonormal.com
+    
+    HostEnt->h_name: toonormal.com
+    0 Aliases Found
+    HostEnt->h_addrtype: 2
+    HostEnt->h_length: 4
+    HostEnt->h_addr_list[0]: 184.172.176.66
+    1 Addresses Found
+    
 
 Fairly straightforward, nothing too weird going on.
 
 However, lets take a look at Google App Engine.
 
-<pre>HostName: someapp.appspot.com
-
-HostEnt->h_name: appspot.l.google.com
-HostEnt->h_aliases[0]: someapp.appspot.com
-1 Aliases Found
-HostEnt->h_addrtype: 2
-HostEnt->h_length: 4
-HostEnt->h_addr_list[0]: 74.125.133.141
-1 Addresses Found</pre>
+    
+    HostName: someapp.appspot.com
+    
+    HostEnt->h_name: appspot.l.google.com
+    HostEnt->h_aliases[0]: someapp.appspot.com
+    1 Aliases Found
+    HostEnt->h_addrtype: 2
+    HostEnt->h_length: 4
+    HostEnt->h_addr_list[0]: 74.125.133.141
+    1 Addresses Found
+    
 
 This one, what I thought was the actual host name is actually an alias. Visiting that appspot host uselessly returns me to the Google homepage, but the alias runs my Google App Engine application. I&#8217;m not going to pretend I totally understand what&#8217;s going going on behind the scenes, but what I imagine is going on is that appspot host is the real app that, based on the host name given (the alias) executes the specific users app. Google chooses to handle the ownership of the app itself (by the given host name), where as my web server (a shared host) is also the primary domain.
 
@@ -200,24 +214,25 @@ All that fun discovery aside, the only thing that matters to us is the h\_addr\_
 
 Lets open.
 
-<pre class="lang:default decode:true " >SOCKET Sock = socket( PF_INET, SOCK_STREAM /*SOCK_DGRAM*/, 0 );
-	setsockopt( Sock, SOL_SOCKET, SO_KEEPALIVE, 0, 0 );
-
-	// A data structure for describing what we want to connect to (i.e. an IP) //
-	sockaddr_in Server;
-	memset( (char*)&Server, 0, sizeof(Server) ); // Zero, to be safe //
-	memcpy( (void*)&Server.sin_addr, HostEnt-&gt;h_addr_list[0], HostEnt-&gt;h_length );	// Cheat, take Addr 0 //
-	Server.sin_family = HostEnt-&gt;h_addrtype;
-	Server.sin_port = (unsigned short)htons( 80 ); // I assume we want port 80 //
-
-	// Open Socket Connection //
-	int Err = connect( Sock, (const sockaddr*)&Server, sizeof(Server) );
-
-	if ( Err &lt; 0 ) {
-		printf( "Connection Failed!\n" );
-		return -1;
-	}
-	</pre>
+    
+    	SOCKET Sock = socket( PF_INET, SOCK_STREAM /*SOCK_DGRAM*/, 0 );
+    	setsockopt( Sock, SOL_SOCKET, SO_KEEPALIVE, 0, 0 );
+    
+    	// A data structure for describing what we want to connect to (i.e. an IP) //
+    	sockaddr_in Server;
+    	memset( (char*)&Server, 0, sizeof(Server) ); // Zero, to be safe //
+    	memcpy( (void*)&Server.sin_addr, HostEnt->h_addr_list[0], HostEnt->h_length );	// Cheat, take Addr 0 //
+    	Server.sin_family = HostEnt->h_addrtype;
+    	Server.sin_port = (unsigned short)htons( 80 ); // I assume we want port 80 //
+    
+    	// Open Socket Connection //
+    	int Err = connect( Sock, (const sockaddr*)&Server, sizeof(Server) );
+    
+    	if ( Err < 0 ) {
+    		printf( "Connection Failed!\n" );
+    		return -1;
+    	}
+    
 
 SOCK\_STREAM is the TCP streaming protocol, and SOCK\_DGRAM is the UDP datagram protocol. HTTP is a TCP protocol, so we open one of those. There are actually other arguments that explicitly say &#8220;TCP&#8221; and &#8220;UDP&#8221; as the 3rd argument to create socket function, but pretty much all the code I&#8217;ve seen explicitly does not ever specify a 3rd argument. It&#8217;s weird, but there it is.
 
@@ -225,97 +240,96 @@ SOCK\_STREAM is the TCP streaming protocol, and SOCK\_DGRAM is the UDP datagram 
 
 &#8230;is Easy!
 
-<pre class="lang:default decode:true " >// Close Socket Connection //
-	closesocket( Sock );	// 'close( Sock );' in BSD Sockets //
-</pre>
+    
+    	// Close Socket Connection //
+    	closesocket( Sock );	// 'close( Sock );' in BSD Sockets //
+    
 
 ### Sending the HTTP Request Header
 
 Send me a website please!
 
-<pre class="lang:default decode:true " >const char* HostName = "sykhronics.com";
-	const char* Path = "/";
-	
-	{
-		// Build an HTTP Header //
-		char Header[4096];	
-		sprintf( Header, "%s %s HTTP/1.1\r\nHost: %s\r\nUser-Agent: %s\r\n\r\n",
-			"GET",
-			Path,
-			HostName,
-			"Mozilla/5.0 (en-us)",
-			);
-		size_t HeaderLength = strlen( Header );
-				
-		// Send the Header //
-		int ByteCount = send( Sock, Header, HeaderLength, 0 );
-		
-		printf( "%i Bytes Sent (Request Header)\n\n", ByteCount );
-	}</pre>
+    
+    	const char* HostName = "sykhronics.com";
+    	const char* Path = "/";
+    	
+    	{
+    		// Build an HTTP Header //
+    		char Header[4096];	
+    		sprintf( Header, "%s %s HTTP/1.1\r\nHost: %s\r\nUser-Agent: %s\r\n\r\n",
+    			"GET",
+    			Path,
+    			HostName,
+    			"Mozilla/5.0 (en-us)",
+    			);
+    		size_t HeaderLength = strlen( Header );
+    				
+    		// Send the Header //
+    		int ByteCount = send( Sock, Header, HeaderLength, 0 );
+    		
+    		printf( "%i Bytes Sent (Request Header)\n\n", ByteCount );
+    	}
+    
 
 ### Receiving the HTTP Response
 
 Gimme!
 
-<pre class="lang:default decode:true " >{
-		char Buffer[4096+1];
-		
-		// Get the Response //
-		int ByteCount = recv( Sock, Buffer, 4096, 0 );
-		
-		Buffer[ByteCount] = 0; // Zero terminate the returned data //
-		
-		printf( "Data: \n%s\n", Buffer );
-		
-		printf( "%i Bytes Received (Response)\n\n", ByteCount );
-	}
-</pre>
+    
+    	{
+    		char Buffer[4096+1];
+    		
+    		// Get the Response //
+    		int ByteCount = recv( Sock, Buffer, 4096, 0 );
+    		
+    		Buffer[ByteCount] = 0; // Zero terminate the returned data //
+    		
+    		printf( "Data: \n%s\n", Buffer );
+    		
+    		printf( "%i Bytes Received (Response)\n\n", ByteCount );
+    	}
+    
 
 And the output looks something like this.
 
-<pre>HTTP/1.1 200 OK
-Date: Thu, 18 Oct 2012 18:12:15 GMT
-Server: Apache
-Last-Modified: Tue, 01 May 2012 00:28:29 GMT
-ETag: "ff42a3-6d0-4f9f2e2d"
-Accept-Ranges: bytes
-Content-Length: 1744
-Content-Type: text/html
-
-
-
-
-
-
-<table height="99%" width="100%" cellpadding="0" border="0">
-  <td valign="middle" align="right" width="100%">
-    <table cellspacing="0" cellpadding="0" border="0" width="100%">
-      <td align="center" >
-        <img src="GamePage.png" border="0" USEMAP="#nav" /><br />
-                                
-      </td>
-                      
+    
+    HTTP/1.1 200 OK
+    Date: Thu, 18 Oct 2012 18:12:15 GMT
+    Server: Apache
+    Last-Modified: Tue, 01 May 2012 00:28:29 GMT
+    ETag: "ff42a3-6d0-4f9f2e2d"
+    Accept-Ranges: bytes
+    Content-Length: 1744
+    Content-Type: text/html
+    
+    <html>
+    
+    <body background="greychecker.gif" bgcolor="#c0c0c0" text="#000000" link="#999999" alink="#999999" vlink="#999999" TOPMARGIN="0" LEFTMARGIN="0" MARGINHEIGHT="0" MARGINWIDTH="0">
+    <table height="99%" width="100%" cellpadding="0" border="0">
+            <td valign="middle" align="right" width="100%">
+                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <td align="center" >
+                                    <img src="GamePage.png" border="0" USEMAP="#nav" /><br>
+                            </td>
+                    </table>
+            </td>
+            </table>
+            </td>
+    
     </table>
+    
             
-  </td>
-          
-</table>
-        &lt;/td>
-
-&lt;/table>
-
-        
-
-
-
-
-</pre>
+    
+    
+    </body>
+    </html>
+    
 
 However, the above code is a cheat. It&#8217;s best case scenario, serving a small HTML webpage. 
 
 In practice, if there is any delay (a generated page), you will get several fragments of a page, one after the other.
 
-<pre class="lang:default decode:true " >HTTP/1.1 200 OK
+<pre class="lang:default decode:true " ><code>HTTP/1.1 200 OK
 Date: Thu, 18 Oct 2012 18:17:17 GMT
 Server: Apache
 X-Powered-By: PHP/5.3.13
@@ -324,7 +338,7 @@ Content-Type: application/json
 
 13 
 {
-"Action":"List",</pre>
+"Action":"List",</code></pre>
 
 That is hardly a valid JSON file (it&#8217;s incomplete!).
 
@@ -334,7 +348,7 @@ This is one of the reasons why I&#8217;ve decided to use libcurl. Writing code t
 
 You may be familiar with URL&#8217;s like the following.
 
-<pre>http://google.com/?q=chickens</pre>
+`http://google.com/?q=chickens`
 
 Placing the strangely encoded data after a question mark in the URL is one way of passing data over HTTP. Rather, it&#8217;s the &#8220;GET&#8221; way. If you familiar with PHP, a global variable **$_GET** is filled with these values. These are key/value pairs. A key &#8220;q&#8221; is equal to the value &#8220;chickens&#8221;. Additional arguments are separated by an &#8220;&&#8221;. Spaces are replaced by &#8220;+&#8221;. Other symbols are replaced with % codes (%20 = space [ascii 32], %28 %29 = brackets [ascii 40,41], etc).
 
@@ -342,20 +356,20 @@ HTML URL encoding reference: <http://www.w3schools.com/tags/ref_urlencode.asp>
 
 Punching the following URL in to a browser sends 3 variables:
 
-<pre>http://www.someurl.com/?action=list&info=Hello+World+%28woo%21%29&num=1</pre>
+`http://www.someurl.com/?action=list&info=Hello+World+%28woo%21%29&num=1`
 
 The equivalent HTTP Request header is:
 
-<pre>GET /?action=list&info=Hello+World+%28woo%21%29&num=1 HTTP/1.1
-Host: www.someurl.com
-User-Agent: Mozilla/5.0 (en-us)
-                                                                                                         [shh! this line is blank]</pre>
+    GET /?action=list&info=Hello+World+%28woo%21%29&num=1 HTTP/1.1
+    Host: www.someurl.com
+    User-Agent: Mozilla/5.0 (en-us)
+                                                                                                             [shh! this line is blank]
 
 And the result has fed the following 3 variables to the receiving webpage.
 
-<pre>action = "list"
-info = "Hello World (woo!)"
-num = 1</pre>
+    action = "list"
+    info = "Hello World (woo!)"
+    num = 1
 
 The amount of data you can send via HTTP GET is limited by the webservers themselves. If a header is too large, they will often raise an error. The average limit is about 8k, but it may be worth keeping the header under 4k because:
 
@@ -375,14 +389,14 @@ HTTP POST&#8217;s are nearly identical to HTTP GET&#8217;s, but they now include
 
 Lets dive in head first.
 
-<pre>POST / HTTP/1.1
-Host: www.someurl.com
-User-Agent: Mozilla/5.0 (en-us)
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 47
-
-action=list&info=Hello+World+%28woo%21%29&num=1
-</pre>
+    POST / HTTP/1.1
+    Host: www.someurl.com
+    User-Agent: Mozilla/5.0 (en-us)
+    Content-Type: application/x-www-form-urlencoded
+    Content-Length: 47
+    
+    action=list&info=Hello+World+%28woo%21%29&num=1
+    
 
 The HTTP POST Request header resembles the HTTP GET Response header more, in that we are now including a &#8220;Content-Type&#8221; of our own. The content type, &#8220;x-www-form-urlencoded&#8221; just happens to be the name for the same encoding used by HTTP GET data passed after a ? in a URL. This is how HTML forms work. If the form is a GET form, it adds it to the URL. If the form is a POST form, it places it in the data HTTP POST Request.
 
@@ -405,27 +419,27 @@ That about sums up my notes on doing HTTP requests from scratch&#8230;
 <http://curl.haxx.se/libcurl/c/libcurl-tutorial.html>
 
 To Init, do:
-
-<pre>curl_global_init(CURL_GLOBAL_ALL);</pre>
+  
+`curl_global_init(CURL_GLOBAL_ALL);`
 
 If you&#8217;re playing nice with another networking library (eNet, for example), you may actually not want to the above. There are details in the tutorial link above. I&#8217;m pretty sure the flag CURL\_GLOBAL\_WIN32 (part of CURL\_GLOBAL\_ALL) calls WSAStartup (which as mentioned in the beginning, needs to be called for sockets to work at all). So if eNet is going to do it for us, we don&#8217;t have to.
 
-<pre>CURL *curl;
- 
-  curl = curl_easy_init();
-  if(curl) {
-    curl_easy_setopt(curl, CURLOPT_URL, "http://example.com");
- 
-    /* Perform the request, res will get the return code */ 
-    CURLcode res = curl_easy_perform(curl);
-
-    /* Check for errors */ 
-    if(res != CURLE_OK)
-      fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
- 
-    /* always cleanup */ 
-    curl_easy_cleanup(curl);
-  }</pre>
+      CURL *curl;
+     
+      curl = curl_easy_init();
+      if(curl) {
+        curl_easy_setopt(curl, CURLOPT_URL, "http://example.com");
+     
+        /* Perform the request, res will get the return code */ 
+        CURLcode res = curl_easy_perform(curl);
+    
+        /* Check for errors */ 
+        if(res != CURLE_OK)
+          fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));
+     
+        /* always cleanup */ 
+        curl_easy_cleanup(curl);
+      }
 
 And then there are functions for adding things to the header, for encoding key/value pairs used GET/POST data, and so on.
 
