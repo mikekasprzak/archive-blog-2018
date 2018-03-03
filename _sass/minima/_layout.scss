@@ -145,6 +145,8 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+
+  background: #f4f4f4;
 }
 
 .footer-heading {
@@ -213,7 +215,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $spacing-unit/2 0;
 }
 
 .page-heading {
@@ -221,6 +223,7 @@
 }
 
 .post-list-heading {
+  border-top: 1px solid $grey-color-light;
   @include relative-font-size(2.75);
 }
 
@@ -271,6 +274,8 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+
+  margin-bottom: $spacing-unit / 8;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
