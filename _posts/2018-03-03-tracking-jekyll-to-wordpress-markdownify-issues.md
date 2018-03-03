@@ -1,5 +1,7 @@
 ---
 title: Tracking Jekyll to Wordpress (Markdownify) issues
+date: '2018-03-03 00:06:12'
+layout: post
 ---
 
 Digging a little deeper, it looks like things here haven't exactly converted over exactly as I wanted them. 
@@ -55,4 +57,13 @@ Here's the live version: [http://blog.toonormal.com/2012/10/18/http-get-and-post
 
 And the original: [http://blog.toonormal.com/wp-admin/revision.php?revision=5546](http://blog.toonormal.com/wp-admin/revision.php?revision=5546)
 
-At the time of this writing, this is still an issues, but the above post has been partially fixed.
+At the time of this writing, this is still an issue.
+
+### Missing HTML tags in code blocks
+This same post is throwing away some HTML tags.
+
+[http://blog.toonormal.com/2012/10/18/http-get-and-posts-from-scratch-with-sockets/](http://blog.toonormal.com/2012/10/18/http-get-and-posts-from-scratch-with-sockets/)
+
+`<script>`, `<area>`, `<map>`, and others. Technically these tags should be preserved if they are found within a `<code>` block (or `<pre>` in case of Crayon, but it should really be `<pre><code>`).
+
+At the time of this writing this is still an issue.
