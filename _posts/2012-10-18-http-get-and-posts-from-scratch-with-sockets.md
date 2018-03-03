@@ -13,8 +13,6 @@ So I&#8217;ve done a bunch of networking research lately, and have actually deci
 
 So this is a collection of notes on how to do HTTP GET and POST requests, in case I ever need to come back and do this from scratch (because I&#8217;m not going to remember all this). So lets get started.
 
-<!--more-->
-
 ## Functions Needed
 
 Dealing with HTTP, we&#8217;re going to need to interpret data in a bunch of ways. Here are a list of things not handled by socket libraries:
