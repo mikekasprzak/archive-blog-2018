@@ -17,15 +17,15 @@ From Monday, Gianfranco (whom I abbreviate as GB) was concerned that some of the
 
 The first begins on the subject of &#8220;big games are extremely risky&#8221;, despite doing one myself right now.
 
-
+<iframe width="640" height="390" src="http://www.youtube.com/embed/_kWVGQaQsXM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 I had some upload issues with the prior video, which lead me to watching my video a few more times, and expanding on the subject of indies and failures.
 
-
+<iframe width="640" height="390" src="http://www.youtube.com/embed/3Z-eG-R6MX4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Finally, I explicitly **DON&#8217;T** apologize for fear mongering, because we need it.
 
-
+<iframe width="640" height="390" src="http://www.youtube.com/embed/jh55W7BMnls?rel=0" frameborder="0" allowfullscreen></iframe>
 
 And there we have 17 some minutes of rant. I&#8217;m left feeling a little worried about some of the things said, but I&#8217;m glad to have said them.
 

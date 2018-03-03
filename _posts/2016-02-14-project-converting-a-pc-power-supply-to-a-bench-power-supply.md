@@ -25,7 +25,7 @@ The PSU is effectively a 450 watt supply, more than enough for my needs. Also it
 
 Here&#8217;s a video breakdown of ATX power supplies that seems quite informative.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/z2oSFpKh_Uw?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 http://www.instructables.com/id/ATX&#8211;%3E-Lab-Bench-Power-Supply-Conversion/?ALLSTEPS
 

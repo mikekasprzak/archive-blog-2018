@@ -13,7 +13,7 @@ Happy April 1st!
 
 To start, my thing to make you laugh.
 
-
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/ucGGu1JP8-k?rel=0" frameborder="0" allowfullscreen></iframe>
 
 I&#8217;ll be finishing this up in the coming weeks. I had to prioritize some stuff ahead of it due at the end March (another reason I&#8217;ve been so quiet post GDC). There was also a faux pas on my part, but nothing too big&#8230; I just have to drive down to the US border and activate a 2nd gen Kindle. Totally fine! Next week!
 

@@ -11,11 +11,11 @@ categories:
 ---
 I did a bunch of homework on Multimeters. Here&#8217;s a good beginners guide.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/bF3OyQ3HwfU?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 And here&#8217;s a more technical guide to buying a good meter.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/gh1n_ELmpFI?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 There&#8217;s a ton of great information packed in that video, but unfortunately dude is an experienced no-compromise electrical engineer, so his minimum recommendations cost around $100. And actually, his advice is correct if you have any interest in doing any real electronics work (Cars, AC devices, or really anything more than microcontrollers).
 
@@ -110,11 +110,11 @@ After doing my research, to me this appears to be the minimum quality meter you 
 
 Here&#8217;s a comparison versus a better meter, and while it&#8217;s not perfect, it does keep up where it counts.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/URKSs02qz5c?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 And more specific breakdown.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/J9O_ggT9rD0?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 I&#8217;ve ordered one of these. I think it&#8217;s adequate for my needs, but of course I want one of these:
 
@@ -163,11 +163,11 @@ It includes a few accessories.
 
 You can find a very in-depth 4 part video series here that tests and even calibrates the device:
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/Bz6CYDRl1M8?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 And a comparison of other meters in the same quality range (albeit higher cost). 
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/wRd2fX_1318?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 It&#8217;s not his favourite, but admits that it&#8217;s ideal for what I describe as my usage scenario (plus it has very high resolution).
 

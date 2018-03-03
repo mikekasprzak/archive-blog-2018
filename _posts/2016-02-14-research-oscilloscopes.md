@@ -47,7 +47,7 @@ Cost: **$399 US**
 
 I&#8217;ve mentioned EEVblog several times, a very picky experienced EE, and this is his recommended scope.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/ETCOhzU1O5A?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 After much fuss, too much reading, I can&#8217;t seem to find a scope in this price range that does everything as well as this one, and that even ignores the fact that it has 4 channels. You get 4 channels! Everything else in the price range has 2. Madness!
 

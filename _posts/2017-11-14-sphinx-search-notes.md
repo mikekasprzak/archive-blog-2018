@@ -30,3 +30,5 @@ https://github.com/sphinxsearch/sphinx/blob/rel22/sphinx.conf.in
     <a href="https://www.ivinco.com/blog/should-you-switch-to-sphinx-real-time-indexes/">Should you switch to Sphinx real time indexes?</a>
   </p>
 </blockquote>
+
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://www.ivinco.com/blog/should-you-switch-to-sphinx-real-time-indexes/embed/#?secret=8c7J7L1evy" data-secret="8c7J7L1evy" width="500" height="282" title="Embedded WordPress Post" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>

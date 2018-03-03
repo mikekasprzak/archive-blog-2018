@@ -64,7 +64,7 @@ This was the first PSU I found that really got me excited. I love how tiny and s
 
 Alas, looks can be deceiving, and a deep dive reveals what&#8217;s inside is a bit of a nightmare.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/tL12onTZMzA?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 Such a shame. It&#8217;s petite, and not bad looking. Functional (?) but scary.
 
@@ -90,7 +90,7 @@ Cost: **~$60**
 
 Instead of being tall, here&#8217;s a flat one. Of the power supplies mentioned so far, this may actually be the best so far, but it&#8217;s not without it&#8217;s problems.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/t49P2nh9_t0?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 It&#8217;s the first one that is able to safely power on without spiking, but Dude in the video above does actually manage to make it spike, under certain conditions. The video is a bit slow getting to this, but this does worry me that spikes may be inevitable in this cheap gear. I want to come back to this video sometime so I can hopefully better understand what he did to spike it.
 
@@ -110,7 +110,7 @@ Hey! UNI-T is back with a slick little unit using their lovely black and red the
 
 The asking price is about $30 more than the above units, and amazingly, it may actually be worth it.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/29P0sFswPVE?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 In the video above dude was unable to make it spike at all. This seems impossible for a sub $100 device, but lo and behold.
 
@@ -118,7 +118,7 @@ Now, to be fair, he hasn&#8217;t done the same extensive number of tests the dud
 
 The same video author loved his unit so much, he bought a 2nd one.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/CZh8haTxSbQ?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 He also modified it to slow down the internal fan (and thus reduce the noise). I&#8217;d be tempted to make the same mod myself, but perhaps on a switch.
 

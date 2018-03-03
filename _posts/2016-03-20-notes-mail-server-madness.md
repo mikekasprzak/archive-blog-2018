@@ -60,7 +60,7 @@ Setting up DKIM Tools:
   </p>
 </blockquote>
 
-
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://easyengine.io/tutorials/mail/dkim-postfix-ubuntu/embed/#?secret=z1kidvsXQZ" data-secret="z1kidvsXQZ" width="500" height="282" title="&#8220;DKIM with Postfix&#8221; &#8212; EasyEngine" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 A useful tool for generating the correct public/private key files (public key requires fancy formatting).
 
@@ -89,7 +89,7 @@ More DKIM:
   </p>
 </blockquote>
 
-
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="http://www.stevejenkins.com/blog/2010/09/how-to-get-dkim-domainkeys-identified-mail-working-on-centos-5-5-and-postfix-using-opendkim/embed/#?secret=411uJNO6ek" data-secret="411uJNO6ek" width="500" height="282" title="&#8220;How to get DKIM (DomainKeys Identified Mail) working with Postfix on RHEL 5 / CentOS 5 using OpenDKIM&#8221; &#8212; SteveJenkins.com" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 http://blog.codinghorror.com/so-youd-like-to-send-some-email-through-code/
 
@@ -184,7 +184,7 @@ Create/follow the instructions here, and generate a free certificate for your **
   </p>
 </blockquote>
 
-
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="http://www.stevejenkins.com/blog/2011/09/how-to-use-a-free-startssl-certificate-in-postfix-for-ssltls/embed/#?secret=16Jlw4Zjds" data-secret="16Jlw4Zjds" width="500" height="282" title="&#8220;Configure Postfix TLS with a Free StartSSL Certificate&#8221; &#8212; SteveJenkins.com" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 It required a passphrase to generate the CSR+KEY. However, Postfix does not support KEYs with a password.
 

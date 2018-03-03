@@ -9,6 +9,8 @@ permalink: /2015/08/25/streaming-service-feature-checklist/
 categories:
   - Technobabble
 ---
+<iframe src="https://docs.google.com/spreadsheets/d/1pZTO__CFscz7P3W-WyqGur2Q_XP-AV--ijeZ6MjHiU0/pubhtml?gid=0&single=true&widget=true&headers=false" width="666" height="512"></iframe>
+
   * Content &#8211; What kind of streams are allowed?
   * Chat &#8211; Is there a live chat?
   * Archive &#8211; Are there video archives?

@@ -14,7 +14,7 @@ Hi. I just received a 2nd e-mail informing me my &#8220;Microsoft Windows Phone 
 
 I made this game (**Smiles**), and I paid a friend to work with me to port it to Windows Phone 7:
 
-
+<iframe width="640" height="390" src="http://www.youtube.com/embed/XDiuxYJVsZg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 It was available on launch day for Windows Phone 7. Looks like a pretty well made game, right?
 

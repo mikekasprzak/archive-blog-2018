@@ -22,7 +22,7 @@ I&#8217;ve personally failed many attempts at starting a regular video log here 
 
 I didn&#8217;t announce this right away, as I wasn&#8217;t sure we were going to keep it up. Plus, I wanted to be sure and finally comfortable with my &#8230; ahem&#8230; &#8220;performance&#8221; in the video. I&#8217;m no public speaker, but recently I&#8217;ve been doing some of my best improvised recorded video work, and I&#8217;d like to start sharing them.
 
-
+<iframe width="640" height="390" src="http://www.youtube.com/embed/zHZ6kXty3Aw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Above is a video where I talk about regrets of the past 6 years, being a full time indie. I think it does a great job capturing what we aim for in the series, and perhaps what&#8217;s special about it (honesty, trials, tribulations).
 

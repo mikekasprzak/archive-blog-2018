@@ -1,15 +1,14 @@
 ---
-title: 'Notes: Professional Audio/Broadcasting with OBS Studio'
 id: 9857
-date: '2018-02-25 18:53:19 -0500'
+title: 'Notes: Professional Audio/Broadcasting with OBS Studio'
+date: 2018-02-25T23:53:19+00:00
 author: Mike K
 layout: post
 guid: http://blog.toonormal.com/?p=9857
-permalink: "/2018/02/25/notes-professional-broadcasting-with-obs-studio/"
+permalink: /2018/02/25/notes-professional-broadcasting-with-obs-studio/
 categories:
-- Uncategorized
+  - Uncategorized
 ---
-
 OBS Studio 21 is awesome! Other than the obvious (open source, cross platform), I&#8217;d say it&#8217;s finally at the point where it&#8217;s ready to be taken seriously by professional broadcasters.
 
 On my list, the big thing that OBS Studio 21 brought that it was missing was Audio Ducking to the Compressor. Pair that with the Noise Gate, and you configure a clean auto-mix on any platform.

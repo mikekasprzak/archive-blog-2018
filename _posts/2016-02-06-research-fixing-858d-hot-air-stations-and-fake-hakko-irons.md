@@ -23,7 +23,7 @@ It&#8217;s a project though. IMO, a good one for a hobbyist.
 
 Dave from EEVblog speaks highly of his, but his does appear to be assembled correctly.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/vva2t21sOAs?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 This is a video with more than 200,000 views, so it may have sparked increase interest in these cheap Chinese devices. Analysis of more devices shows **most of them** are incorrectly assembled though.
 
@@ -37,7 +37,7 @@ I&#8217;m hoping to find some additional references from folks that fixed theirs
 
 So far, here&#8217;s what I&#8217;ve found:
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/A319o8Ji4oI?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 I&#8217;m planning to buy one myself. I actually ordered and cancelled a few units from Amazon today, as I learned more about this. Initially I assumed one of the bulkier devices would be more reliable, but I don&#8217;t have a lot of space in my &#8220;laboratory&#8221;. So I&#8217;ve decided to research the Chinese models, and find a good 2-in-1 unit, and fix it.
 
@@ -49,7 +49,7 @@ So, this is an ongoing research project of mine. I will probably order one from 
 
 This is a very good video that explains how a standard transformer works.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/GMePE7NZcxw?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 I like that it actually explains the difference between some 110V and 220V transformers&#8230; just a simple rewiring.
 
@@ -59,7 +59,7 @@ Well my hope was to find a good single device with both features in one. But ult
 
 The reason is because no matter where I looked, nobody seemed to have anything positive to say about the irons in the 2-in-1&#8217;s. In fact, I&#8217;d come across videos like this where the iron breaks during the video review.
 
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/fV6wXxfYo-s?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 Yikes.
 
@@ -77,9 +77,9 @@ The clones all have strange company names, the same case and product code, but t
 
 Now I don&#8217;t know if this is actually true, but I get the impression that the fake/counterfeit ones are better made than the clones. At the very least, they appear to try harder to make you think they&#8217;re real authentic units, from the quality of the packaging, to the English manuals and data sheets they include. I&#8217;ve yet to find a good teardown/unboxing of the fakes in English, but these Russian ones do fine.
 
+<iframe width="500" height="281" src="https://www.youtube.com/embed/ayGMJlAkeZM?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
-
-
+<iframe width="500" height="281" src="https://www.youtube.com/embed/3-wzZmCzsMw?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 Of course, when I say &#8220;better made&#8221;, it&#8217;s a loose suggestion. I still wouldn&#8217;t trust plugging in the devices without tearing them open first. But it&#8217;s all about the little things they appear to do in the fakes unlike the clones to convince you they&#8217;re authentic.
 

@@ -24,6 +24,7 @@ Hey look what finally came out!
 Here&#8217;s a video.
 
 <center>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/0zk_3_6GHsE?rel=0" frameborder="0" allowfullscreen></iframe>
 </center>
 
 Without spoiling it, I&#8217;m very happy with how it&#8217;s selling so far. 😀

@@ -16,7 +16,7 @@ But yes, as you approach the end of something, there are always things you forge
 
 Like this, a Computer and TV-System appropriate trailer for Smiles HD (i.e. without entire screen rotating):
 
-
+<iframe width="640" height="390" src="http://www.youtube.com/embed/SRSVAp6-tzA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 As you can see, that is now done.
 

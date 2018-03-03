@@ -13,6 +13,7 @@ categories:
 Speaking of better, here&#8217;s the final gameplay trailer for Kindle Smiles:
 
 <center>
+  <iframe width="640" height="390" src="http://www.youtube.com/embed/0zk_3_6GHsE?rel=0" frameborder="0" allowfullscreen></iframe>
 </center>
 
 That is submitted and in the queue now. Should be available in the Amazon Kindle store soon.
@@ -22,6 +23,7 @@ That is submitted and in the queue now. Should be available in the Amazon Kindle
 I recorded a brief &#8220;making-of&#8221; video, showing how recording the footage for the above video would look.
 
 <center>
+  <iframe width="480" height="390" src="http://www.youtube.com/embed/d2Ht5QcJlBs?rel=0" frameborder="0" allowfullscreen></iframe>
 </center>
 
 Now that Smiles is finally winding down, I&#8217;m hoping to do more little things like this.
