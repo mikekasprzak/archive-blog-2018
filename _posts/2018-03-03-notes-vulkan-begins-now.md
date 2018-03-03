@@ -1,5 +1,6 @@
 ---
 title: 'Notes: Vulkan begins now'
+layout: post
 ---
 
 Vulkan was released 2 years ago right around the Game Developers Conference (usually in March). Unfortunately Windows 10 with DirectX 12 did beat them to the punch by a few months, so growth hasn't been as quick as it could have been, but by design Vulkan will eventually become the dominant API, though it's going to be Mobile and Consoles that push it there. That said, being able to dev on PC is super important.
@@ -18,6 +19,11 @@ I've had a Vulkan "Red Book" since it came out, but it sat on my shelf. I'm as i
 I ended up powering through the "Red Book" a couple nights ago, just to get a big picture. It really reminds of DirectX 11, though it goes way further. Classic OpenGL was about calling functions with many arguments, but Vulkan is very Windows API/DirectX'ish, where you need to populate a structure and pass it to a function.
 
 Interestingly, the API itself now ships with 2 implementations: a C library (`vulkan.h`), and a C++ library (`vulkan.hpp`). There are other headers, but for the most part they are small dependencies (in seperate files for convenience).
+
+* C Library - [https://github.com/KhronosGroup/Vulkan-Docs/tree/1.0/src/vulkan](https://github.com/KhronosGroup/Vulkan-Docs/tree/1.0/src/vulkan)
+* C++ Library - [https://github.com/KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp)
+
+Strange how the C library is part of the "Vulkan Docs" repo, but hey.
 
 Also different is that using the API requires you to define a symbol , something like `VK_USE_PLATFORM_XLIB_KHR`, to actually use the library. Yet another departure, where this was detected by the existence of `WIN32` or other such symbols in the past.
 
@@ -40,11 +46,66 @@ Notable is that last one. It's pretty cool to see Nintendo on that list.
 
 Though when you do look at the spec, it's mainly an NVidia contribution. It does keep things simpler though (no need to use a proprietary header that's out-of-sync with mainline).
 
-At this time, no Sony Vulkan headers or extensions are public.
+# Super Structure
+Frankly, I can't decide which way (C or C++) is the right way. I do have a perference for C libraries, but no doubt there are conveniences to be had in the C++ library. The C++ library is bulit with the C library, so for the sake of understanding I'm going to start with the C library.
 
-blah blah
+Most Vulkan structures are defined as follows:
 
-* C Library - [https://github.com/KhronosGroup/Vulkan-Docs/tree/1.0/src/vulkan](https://github.com/KhronosGroup/Vulkan-Docs/tree/1.0/src/vulkan)
-* C++ Library - [https://github.com/KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp)
+```c
+typedef struct VkEventCreateInfo {
+    VkStructureType       sType;
+    const void*           pNext;
+    VkEventCreateFlags    flags;
+} VkEventCreateInfo;
+```
 
-Strange how the C library is part of the "Vulkan Docs" repo, but hey.
+* A two part header consisting of a constant set to a fixed value (`VK_STRUCTURE_TYPE_EVENT_CREATE_INFO`, i.e. `10` in the above case), and a pointer set to 0 (`nullptr`) or the next item in a linked list.
+* One or more additional fields
+
+I quite like this actually. To OpenGL's credit, I quite liked how clear it was in its naming. You could infer a lot from a name.
+
+This isn't entirely unique though, comparing it to DirectX 11:
+
+```c
+typedef struct D3D11_MAPPED_SUBRESOURCE {
+  void *pData;
+  UINT RowPitch;
+  UINT DepthPitch;
+} D3D11_MAPPED_SUBRESOURCE;
+```
+
+Coding style is very similar, including `p`'s for pointers, just Microsoft chose a more _upper-case_ style. That continues in to DirectX 12.
+
+```c
+typedef struct D3D12_COMMAND_SIGNATURE_DESC {
+  UINT                               ByteStride;
+  UINT                               NumArgumentDescs;
+  const D3D12_INDIRECT_ARGUMENT_DESC *pArgumentDescs;
+  UINT                               NodeMask;
+} D3D12_COMMAND_SIGNATURE_DESC;
+```
+
+Suffice to say, OpenGL immediate mode is a thing of the past. Modern APIs are all about the phat structures.
+
+# Initializing and Zeroing
+With that out of the way, next comes the issue of 
+
+## Automatic Zeroing
+There's a mistake.
+
+## The Zero Macro
+```c
+#define Zero( var ) \
+    memset(&var, 0, sizeof(var));
+		
+VkEventCreateInfo EventInfo;
+Zero(EventInfo);
+```
+
+
+## Zero Init
+```c++
+VkEventCreateInfo EventInfo = { 0 };
+```
+
+Dig deeper
