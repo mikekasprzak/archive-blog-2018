@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TooNormal
-subtitle: "a notebook/blog by Mike Kasprzak"
+#subtitle: "a notebook/blog by Mike Kasprzak"
 #email: mikekasprzak@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  The notebook (and ocassional blog) of Mike Kasprzak
