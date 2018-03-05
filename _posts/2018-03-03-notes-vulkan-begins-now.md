@@ -47,8 +47,6 @@ Notable is that last one. It's pretty cool to see Nintendo on that list.
 Though when you do look at the spec, it's mainly an NVidia contribution. It does keep things simpler though (no need to use a proprietary header that's out-of-sync with mainline).
 
 # Super Structure
-Frankly, I can't decide which way (C or C++) is the right way. I do have a perference for C libraries, but no doubt there are conveniences to be had in the C++ library. The C++ library is bulit with the C library, so for the sake of understanding I'm going to start with the C library.
-
 Most Vulkan structures are defined as follows:
 
 ```c
@@ -87,11 +85,150 @@ typedef struct D3D12_COMMAND_SIGNATURE_DESC {
 
 Suffice to say, OpenGL immediate mode is a thing of the past. Modern APIs are all about the phat structures.
 
-# Initializing and Zeroing
-With that out of the way, next comes the issue of 
+# Populating info structures
+With that out of the way, next comes the issue of populating the structures.
 
-## Automatic Zeroing
-There's a mistake.
+## Microsoft/Red Book C style
+This style is commonly seen in DirectX reference code. It's also the style used in the Vulkan "Red Book".
+
+```c
+#include <vulkan/vulkan.h>
+
+// ...
+
+VkApplicationInfo ApplicationInfo;
+VkInstanceCreateInfo InstanceCreateInfo;
+
+ApplicationInfo.sType = VK_STRUCTURE_TYPE_APPLICATION_INFO;
+ApplicationInfo.pNext = nullptr;
+ApplicationInfo.pApplicationName = "My Application";
+ApplicationInfo.applicationVersion = VK_MAKE_VERSION(0, 1, 0);
+ApplicationInfo.pEngineName = "My Engine";
+ApplicationInfo.engineVersion = VK_MAKE_VERSION(0, 1, 0);
+ApplicationInfo.apiVersion = VK_MAKE_VERSION(1, 0, 0);
+
+InstanceCreateInfo.sType = VK_STRUCTURE_TYPE_INSTANCE_CREATE_INFO;
+InstanceCreateInfo.pNext = nullptr;
+InstanceCreateInfo.flags = 0;
+InstanceCreateInfo.pApplicationInfo = &ApplicationInfo;
+InstanceCreateInfo.enabledLayerCount = 0;
+InstanceCreateInfo.ppEnabledLayerNames = nullptr;
+InstanceCreateInfo.enabledExtensionCount = 0;
+InstanceCreateInfo.ppEnabledExtensionNames = nullptr;
+
+VkInstance Instance;
+
+if ( vkCreateInstance(&InstanceCreateInfo, nullptr, &Instance) == VK_SUCCESS ) {
+	// ..
+}
+```
+
+Pros:
+* You ca
+
+Cons:
+* Verbose
+* Data isn't Zeroed
+
+A workaround for the zeroing problem would be to include a zeroing macro.
+
+```c
+#define Zero( var ) \
+    memset(&var, 0, sizeof(var));
+		
+VkApplicationInfo ApplicationInfo;
+VkInstanceCreateInfo InstanceCreateInfo;
+
+Zero(ApplicationInfo);
+// ...
+Zero(InstanceCreateInfo);
+// ...
+```
+
+Unfortunately, if you forget to use the Macro, then you still have the same problem.
+
+## Verbose initializer-list C style
+```c
+#include <vulkan/vulkan.h>
+
+// ...
+
+VkApplicationInfo ApplicationInfo = {
+	VK_STRUCTURE_TYPE_APPLICATION_INFO,
+	nullptr,
+
+	"My Application", VK_MAKE_VERSION(0, 1, 0),
+	"My Engine", VK_MAKE_VERSION(0, 1, 0),
+	VK_MAKE_VERSION(1, 0, 0)
+};
+
+VkInstanceCreateInfo InstanceCreateInfo = {
+	VK_STRUCTURE_TYPE_INSTANCE_CREATE_INFO,
+	nullptr,
+
+	0,
+	&ApplicationInfo,
+	0,
+	nullptr,
+	0,
+	nullptr
+};
+
+VkInstance Instance;
+
+if ( vkCreateInstance(&InstanceCreateInfo, nullptr, &Instance) == VK_SUCCESS ) {
+	// ..
+}
+```
+
+Pros:
+* None
+
+Cons:
+* Verbose
+* Need to set `VK_STRUCTURE` types and Next manually
+* It's unclear what you're setting without looking at a reference
+
+**NOTE**: You can use `0` in the place of `nullptr`.
+
+## C++ Header style
+
+```c++
+#include <vulkan/vulkan.hpp>
+
+// ...
+
+vk::ApplicationInfo ApplicationInfo(
+    "My Application", VK_MAKE_VERSION(0, 1, 0),
+    "My Engine", VK_MAKE_VERSION(0, 1, 0),
+    VK_MAKE_VERSION(1, 0, 0)
+);
+
+vk::InstanceCreateInfo InstanceCreateInfo(
+    vk::InstanceCreateFlags(),
+    &ApplicationInfo
+);
+
+vk::Instance Instance;
+
+if ( vk::createInstance(&InstanceCreateInfo, nullptr, &Instance) == vk::Result::eSuccess ) {
+    // ..
+}
+```
+
+Pros:
+* Briefer code
+* Omitted values are initialized to sensible defaults as chosen by the Vulkan board
+
+Cons: 
+* It's unclear what you're setting without looking at a reference
+* Checking for `vk::Result::eSuccess` is rather common, and it's more verbose than `VK_SUCCESS`
+
+
+### Comparing the styles
+Comparing the two, at least in my opinion the C++ version is clean and clearer. Things you don't care about are omitted, and 
+
+A downside though: you can't infer what is being set from the code above. You can infer that you're setting an application and engine name and version, but the last part (API version) isn't clear, not to mention the 5 omitted arguments of the `VkInstanceCreateInfo` structure. You have to refer to the docs (or intellisense) to figure out exactly what's being shown above.
 
 ## The Zero Macro
 ```c
@@ -101,13 +238,3 @@ There's a mistake.
 VkEventCreateInfo EventInfo;
 Zero(EventInfo);
 ```
-
-
-## Zero Init
-```c++
-VkEventCreateInfo EventInfo = { 0 };
-```
-
-Dig deeper
-
-zofe
