@@ -1,6 +1,7 @@
 ---
 title: 'Notes: Vulkan begins now'
 layout: post
+date: '2018-03-05 11:47:30'
 ---
 
 Vulkan was released 2 years ago right around the Game Developers Conference (usually in March). Unfortunately Windows 10 with DirectX 12 did beat them to the punch by a few months, so growth hasn't been as quick as it could have been, but by design Vulkan will eventually become the dominant API, though it's going to be Mobile and Consoles that push it there. That said, being able to dev on PC is super important.
@@ -88,6 +89,8 @@ Suffice to say, OpenGL immediate mode is a thing of the past. Modern APIs are al
 # Populating info structures
 With that out of the way, next comes the issue of populating the structures.
 
+Frankly I'm not too happy with what I've been seeing, so here's a little analysis of the potential ways to initialize the data.
+
 ## Microsoft/Red Book C style
 This style is commonly seen in DirectX reference code. It's also the style used in the Vulkan "Red Book".
 
@@ -124,13 +127,14 @@ if ( vkCreateInstance(&InstanceCreateInfo, nullptr, &Instance) == VK_SUCCESS ) {
 ```
 
 Pros:
-* You ca
+* You can read what is being asigned without looking at a reference
 
 Cons:
 * Verbose
+* Need to set `VK_STRUCTURE` types and `pNext` manually
 * Data isn't Zeroed
 
-A workaround for the zeroing problem would be to include a zeroing macro.
+A workaround for the zeroing problem would be to include a zeroing macro. Then before your blocks you call, which lets you omit anything that isn't important and can be set to zero.
 
 ```c
 #define Zero( var ) \
@@ -140,14 +144,25 @@ VkApplicationInfo ApplicationInfo;
 VkInstanceCreateInfo InstanceCreateInfo;
 
 Zero(ApplicationInfo);
-// ...
+ApplicationInfo.sType = VK_STRUCTURE_TYPE_APPLICATION_INFO;
+// omitted pNext
+ApplicationInfo.pApplicationName = "My Application";
+ApplicationInfo.applicationVersion = VK_MAKE_VERSION(0, 1, 0);
+ApplicationInfo.pEngineName = "My Engine";
+ApplicationInfo.engineVersion = VK_MAKE_VERSION(0, 1, 0);
+ApplicationInfo.apiVersion = VK_MAKE_VERSION(1, 0, 0);
+
 Zero(InstanceCreateInfo);
 // ...
 ```
 
 Unfortunately, if you forget to use the Macro, then you still have the same problem.
 
-## Verbose initializer-list C style
+## Initializer-list C style
+This is a safer method. Initializer lists lets you fill in values, and any tail values you omit are automatically set to zero.
+
+First the fully verbose version.
+
 ```c
 #include <vulkan/vulkan.h>
 
@@ -181,17 +196,50 @@ if ( vkCreateInstance(&InstanceCreateInfo, nullptr, &Instance) == VK_SUCCESS ) {
 }
 ```
 
+But the `VkInstanceCreateInfo` structure contains many tail zeros, so it could be rewritten like so: 
+
+```c
+#include <vulkan/vulkan.h>
+
+// ...
+
+VkApplicationInfo ApplicationInfo = {
+	VK_STRUCTURE_TYPE_APPLICATION_INFO,
+	nullptr,
+
+	"My Application", VK_MAKE_VERSION(0, 1, 0),
+	"My Engine", VK_MAKE_VERSION(0, 1, 0),
+	VK_MAKE_VERSION(1, 0, 0)
+};
+
+VkInstanceCreateInfo InstanceCreateInfo = {
+	VK_STRUCTURE_TYPE_INSTANCE_CREATE_INFO,
+	nullptr,
+
+	0,
+	&ApplicationInfo
+};
+
+VkInstance Instance;
+
+if ( vkCreateInstance(&InstanceCreateInfo, nullptr, &Instance) == VK_SUCCESS ) {
+	// ..
+}
+```
+
 Pros:
-* None
+* Omitted values are zeroed
 
 Cons:
-* Verbose
-* Need to set `VK_STRUCTURE` types and Next manually
+* Need to set `VK_STRUCTURE` types and `pNext` manually
+* Zero might not be the correct default
 * It's unclear what you're setting without looking at a reference
 
 **NOTE**: You can use `0` in the place of `nullptr`.
 
 ## C++ Header style
+
+* [NVidia presentation](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devu-seoul/4-Vulkan-HPP.pdf) describing Pros/Cons.
 
 ```c++
 #include <vulkan/vulkan.hpp>
@@ -217,24 +265,171 @@ if ( vk::createInstance(&InstanceCreateInfo, nullptr, &Instance) == vk::Result::
 ```
 
 Pros:
-* Briefer code
 * Omitted values are initialized to sensible defaults as chosen by the Vulkan board
+* No need to set `VK_STUCTURE` types and Next manually
 
 Cons: 
 * It's unclear what you're setting without looking at a reference
-* Checking for `vk::Result::eSuccess` is rather common, and it's more verbose than `VK_SUCCESS`
+* `vk::Result::eSuccess` is more verbose than `VK_SUCCESS`
 
+## C99 and C++20 Designated Initializer style
+C99 and the upcoming C++20 (yes, it took 20 years to get it) include a feature for initializer lists that is rather useful here. You can read more about it [here](https://www.geeksforgeeks.org/designated-initializers-c/) or [here](https://gcc.gnu.org/onlinedocs/gcc/Designated-Inits.html).
 
-### Comparing the styles
-Comparing the two, at least in my opinion the C++ version is clean and clearer. Things you don't care about are omitted, and 
-
-A downside though: you can't infer what is being set from the code above. You can infer that you're setting an application and engine name and version, but the last part (API version) isn't clear, not to mention the 5 omitted arguments of the `VkInstanceCreateInfo` structure. You have to refer to the docs (or intellisense) to figure out exactly what's being shown above.
-
-## The Zero Macro
 ```c
-#define Zero( var ) \
-    memset(&var, 0, sizeof(var));
-		
-VkEventCreateInfo EventInfo;
-Zero(EventInfo);
+#include <vulkan/vulkan.h>
+
+// ...
+
+VkApplicationInfo ApplicationInfo = {
+	.sType = VK_STRUCTURE_TYPE_APPLICATION_INFO,
+
+	.pApplicationName = "My Application",
+	.applicationVersion = VK_MAKE_VERSION(0, 1, 0),
+	.pEngineName = "My Engine",
+	.engineVersion = VK_MAKE_VERSION(0, 1, 0),
+	.apiVersion = VK_MAKE_VERSION(1, 0, 0)
+};
+
+VkInstanceCreateInfo InstanceCreateInfo = {
+	.sType = VK_STRUCTURE_TYPE_INSTANCE_CREATE_INFO,
+
+	.pApplicationInfo = &ApplicationInfo
+};
+
+VkInstance Instance;
+
+if ( vkCreateInstance(&InstanceCreateInfo, nullptr, &Instance) == VK_SUCCESS ) {
+	// ..
+}
 ```
+
+If you're feeling adventurous, you could use it now by wrapping the code in a C block. You just need to be sure you don't need any C++ features within the blocks.
+
+```c
+// ...
+
+extern "C" {
+	VkApplicationInfo ApplicationInfo = {
+		.sType = VK_STRUCTURE_TYPE_APPLICATION_INFO,
+
+		.pApplicationName = "My Application",
+		.applicationVersion = VK_MAKE_VERSION(0, 1, 0),
+		.pEngineName = "My Engine",
+		.engineVersion = VK_MAKE_VERSION(0, 1, 0),
+		.apiVersion = VK_MAKE_VERSION(1, 0, 0)
+	};
+
+	VkInstanceCreateInfo InstanceCreateInfo = {
+		.sType = VK_STRUCTURE_TYPE_INSTANCE_CREATE_INFO,
+
+		.pApplicationInfo = &ApplicationInfo
+	};
+}; // extern "C"
+
+// ..
+```
+
+Pros:
+* Omitted values are zeroed
+* You can omit values inbetween (not just tail values)
+* No need to set `pNext` manually
+* Details you've set are clearly labeled
+
+Cons:
+* You need to set `VK_STUCTURE`
+* Zero might not be the correct default
+* Not available natively in C++ (yet)
+
+## The ideal way (that doesn't exist)
+Just for fun, here's a mashup that doesn't actually exist, but would be nice. For this to work, it would require that C++ acquired the ability to use the Designated Initializer feature in function arguments too.
+
+Also if we wanted to make the code a bit less verbose, we could define the following.
+
+```c++
+namespace vk {
+	const auto eSuccess = Result::eSuccess;
+};
+```
+
+Code listing is as follows:
+
+```c++
+#include <vulkan/vulkan.hpp>
+
+// ...
+
+vk::ApplicationInfo ApplicationInfo(
+	.pApplicationName = "My Application",
+	.applicationVersion = VK_MAKE_VERSION(0, 1, 0),
+	.pEngineName = "My Engine",
+	.engineVersion = VK_MAKE_VERSION(0, 1, 0),
+	.apiVersion = VK_MAKE_VERSION(1, 0, 0)
+);
+
+vk::InstanceCreateInfo InstanceCreateInfo(
+	.pApplicationInfo = &ApplicationInfo
+);
+
+vk::Instance Instance;
+
+if ( vk::createInstance(&InstanceCreateInfo, nullptr, &Instance) == vk::eSuccess ) {
+    // ..
+}
+```
+
+Pros:
+* Omitted values are initialized to sensible defaults as chosen by the Vulkan board
+* No need to set `VK_STUCTURE` types and `pNext` manually
+* You can read what is being asigned without looking at a reference
+* `vk::eSuccess` instead of the longer `vk::Result::eSuccess` (`vk::Success` is taken apparently)
+
+Cons: 
+* The function argument feature **doesn't exist**!!
+* `vk::eSuccess` is nonstandard, and though it wont likely cause problems, `vk::Result::eSuccess` does tell us more
+
+This would be ideal since the compiler could tell us of mistakes we make in argument names. 
+
+## The Compromise
+Document the code, bite the bullet on `vk::Result::eSuccess`. 
+
+The C++ library helps us avoid initialization issues, and lets us omit `sType` and `pNext`. The result is standards complaint, and not weird.
+
+```c++
+#include <vulkan/vulkan.hpp>
+
+// ...
+
+vk::ApplicationInfo ApplicationInfo(
+	/*pApplicationName*/ "My Application",
+	/*applicationVersion*/ VK_MAKE_VERSION(0, 1, 0),
+	/*pEngineName*/ "My Engine", 
+	/*engineVersion*/ VK_MAKE_VERSION(0, 1, 0),
+	/*apiVersion*/ VK_MAKE_VERSION(1, 0, 0)
+);
+
+vk::InstanceCreateInfo InstanceCreateInfo(
+    /*flags*/ vk::InstanceCreateFlags(),
+    /*pApplicationInfo*/ &ApplicationInfo
+);
+
+vk::Instance Instance;
+
+if ( vk::createInstance(&InstanceCreateInfo, nullptr, &Instance) == vk::Result::eSuccess ) {
+    // ..
+}
+```
+
+In practice you could put the `/*pApplicationName*/` before or after, but before does mean you can safely multi-line an assignment without it getting weird.
+
+Pros:
+* Omitted values are initialized to sensible defaults as chosen by the Vulkan board
+* No need to set `VK_STUCTURE` types and `pNext` manually
+* You can read what is being asigned without looking at a reference
+
+Cons:
+* `vk::Result::eSuccess` is more verbose than `VK_SUCCESS`
+* Compiler will not complain about mistakes in the labels
+
+Not perfect, but the lesser of the evils.
+# Wrapup
+Going in to this writeup, I completely expected to side with one of the C methods. Alas, I think the C++ library is the better choice.
