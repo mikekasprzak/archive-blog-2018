@@ -109,3 +109,5 @@ VkEventCreateInfo EventInfo = { 0 };
 ```
 
 Dig deeper
+
+zofe
