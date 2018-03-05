@@ -4,7 +4,7 @@ layout: post
 date: '2018-03-05 11:47:30'
 ---
 
-Vulkan was released 2 years ago right around the Game Developers Conference (usually in March). Unfortunately Windows 10 with DirectX 12 did beat them to the punch by a few months, so growth hasn't been as quick as it could have been, but by design Vulkan will eventually become the dominant API, though it's going to be Mobile and Consoles that push it there. That said, being able to dev on PC is super important.
+Vulkan was released 2 years ago right around the Game Developers Conference (usually in March). Unfortunately Windows 10 with DirectX 12 did beat them to the punch by a few months, so growth hasn't been as quick as it could have been. Vulkan will eventually become the dominant API, though it will likely be its availablity on Mobile and Consoles that ultimately pushes it there, not PC.
 
 It's taken a bit, but as of Ubuntu 17.04 you've been able to install Vulkan for Intel GPUs easily out of the box (though admittedly I wasn't able to get it working until 17.10). Come April, Ubuntu 18.04 will ship, and all the many derivative Linux distros can upgrade their Long Term Support version of Ubuntu finally, and Vulkan will finally be acessible to the "mass market" on Linux.
 
@@ -238,8 +238,7 @@ Cons:
 **NOTE**: You can use `0` in the place of `nullptr`.
 
 ## C++ Header style
-
-* [NVidia presentation](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devu-seoul/4-Vulkan-HPP.pdf) describing Pros/Cons.
+Though the initializer list method is pretty good, there may be cases where default should **not** actually be zero. You can check out this [NVidia presentation](https://www.khronos.org/assets/uploads/developers/library/2016-vulkan-devu-seoul/4-Vulkan-HPP.pdf) for a more in depth list of Pros/Cons.
 
 ```c++
 #include <vulkan/vulkan.hpp>
@@ -266,7 +265,7 @@ if ( vk::createInstance(&InstanceCreateInfo, nullptr, &Instance) == vk::Result::
 
 Pros:
 * Omitted values are initialized to sensible defaults as chosen by the Vulkan board
-* No need to set `VK_STUCTURE` types and Next manually
+* No need to set `VK_STUCTURE` types and `pNext` manually
 
 Cons: 
 * It's unclear what you're setting without looking at a reference
