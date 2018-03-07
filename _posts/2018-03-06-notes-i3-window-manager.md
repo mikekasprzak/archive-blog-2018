@@ -130,8 +130,8 @@ assign [class="Google-chrome"] $ws3
 assign [class="Firefox"] $ws4
 assign [class="obs"] $ws8
 assign [class="vlc"] $ws9
-for_window [title="Google Hangouts"] move container to workspace $ws10
-for_window [title="Gitter"] move container to workspace $ws10
+for_window [title="Google Hangouts" window_role="pop-up"] move container to workspace $ws10
+for_window [title="^Gitter$"] move container to workspace $ws10
 assign [class="Slack"] $ws10
 ```
 
