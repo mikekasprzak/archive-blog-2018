@@ -58,6 +58,19 @@ bindsym Mod1+Sys_Req exec xfce4-screenshooter -w
 
 One might want to use `xfce4-screenshooter` as `gnome-screenshot` may lose the _save-as_ dialog (I did in Ubuntu 17.10). Hopefully it returns in 18.04.
 
+# Adding Media Keys
+```bash
+# Media player controls
+bindsym --release XF86AudioPlay exec playerctl play-pause
+bindsym --release XF86AudioNext exec playerctl next
+bindsym --release XF86AudioPrev exec playerctl previous
+
+#bindsym --release XF86AudioPlay exec playerctl play
+#bindsym --release XF86AudioPause exec playerctl pause
+```
+
+My laptop has a single key (Play) that should be treated as a toggle.
+
 # Adding Icons (via fonts)
 ```bash
 sudo apt install fonts-font-awesome
@@ -70,6 +83,56 @@ Edge Borders are a line along the left or bottom edge of a window that show whic
 
 ```bash
 hide_edge_borders both
+```
+
+# Assigning Applications to Workspaces
+```bash
+# Edit, Terminal, Chrome, Firefox, .., Streaming, Media, Chat
+set $ws1 "1: "
+set $ws2 "2: "
+set $ws3 "3: "
+set $ws4 "4: "
+set $ws8 "8: "
+set $ws9 "9: "
+set $ws10 "10: "
+
+# switch to workspace
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace 5
+bindsym $mod+6 workspace 6
+bindsym $mod+7 workspace 7
+bindsym $mod+8 workspace $ws8
+bindsym $mod+9 workspace $ws9
+bindsym $mod+0 workspace $ws10
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace 5
+bindsym $mod+Shift+6 move container to workspace 6
+bindsym $mod+Shift+7 move container to workspace 7
+bindsym $mod+Shift+8 move container to workspace $ws8
+bindsym $mod+Shift+9 move container to workspace $ws9
+bindsym $mod+Shift+0 move container to workspace $ws10
+
+# Assignments
+assign [class="Uex"] $ws1
+assign [class="krita"] $ws1
+assign [class="Inkscape"] $ws1
+assign [class="Blender"] $ws1
+assign [class="Gnome-terminal"] $ws2
+assign [class="Google-chrome"] $ws3
+assign [class="Firefox"] $ws4
+assign [class="obs"] $ws8
+assign [class="vlc"] $ws9
+for_window [title="Google Hangouts"] move container to workspace $ws10
+for_window [title="Gitter"] move container to workspace $ws10
+assign [class="Slack"] $ws10
 ```
 
 # Customizing the Bar with i3Blocks
