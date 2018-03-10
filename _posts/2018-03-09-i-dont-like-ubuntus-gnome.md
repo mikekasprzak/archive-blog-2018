@@ -28,4 +28,4 @@ I seriously doubt I'm going to convince someone that I should be listened to whe
 
 I don't know if this will turn in to something, but between job-hunting and Ludum Dare, I kinda want to start deep diving in to Window Managers. If nothing else so I can figure out what's broken with one that I can fix to make passable, or to write a new one out of impatience.
 
-We'll see. This me saying I'm frustrated. :)
+We'll see. This is me saying I'm frustrated. :)
