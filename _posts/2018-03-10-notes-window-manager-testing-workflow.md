@@ -150,6 +150,7 @@ xinit CLIENT_ARGS -- SERVER_ARGS
 
 * `startx` - simple frontend to `xinit` [https://www.x.org/archive/X11R6.7.0/doc/startx.1.html](https://www.x.org/archive/X11R6.7.0/doc/startx.1.html)
 * `xinit` - x window system initializer [https://www.x.org/archive/X11R6.7.0/doc/xinit.1.html](https://www.x.org/archive/X11R6.7.0/doc/xinit.1.html)
+* `xserver` - x server arg reference (i.e. things after `--`) [https://www.x.org/archive/X11R6.8.1/doc/Xserver.1.html](https://www.x.org/archive/X11R6.8.1/doc/Xserver.1.html)
 
 So given this as reference:
 
@@ -176,8 +177,6 @@ ll /usr/share/gnome-session/sessions/
 -rw-r--r-- 1 root root  101 Oct 13 07:33 unity.session
 ```
 
-Supposedly this works: `sudo startx gnome-session --session=ubuntu -- :1 vt2`
-
 unity.session
 ```bash
 [GNOME Session]
@@ -201,3 +200,9 @@ RequiredComponents=org.gnome.Shell;org.gnome.SettingsDaemon.A11yKeyboard;org.gno
 ```
 
 I don't know how this helps us yet, but meh.
+
+Supposedly this works: `sudo startx gnome-session --session=ubuntu -- :1 vt2`
+
+EDIT: No, but that said I think it's just exiting right away.
+
+Omitting `--session` seems to be what starts the `xterm`, and given the lack of errors it looks more like there was no application loaded that needed to load, so the `gnome-session` ended early.
