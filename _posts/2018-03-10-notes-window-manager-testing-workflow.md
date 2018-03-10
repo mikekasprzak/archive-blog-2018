@@ -139,3 +139,65 @@ I forgot that APIs like SDL, GTK+, and Qt are built on top of something. Here's 
 [https://rosettacode.org/wiki/Window_creation/X11](https://rosettacode.org/wiki/Window_creation/X11)
 
 Using an API is preferred, since it means we can rely on standards for theming.
+
+# startx/xinit breakdown
+The `--` symbol in a `startx` or `xinit` invocation separates arguments about the client to be run from the arguments to the x server itself.
+
+```bash
+startx CLIENT_ARGS -- SERVER_ARGS
+xinit CLIENT_ARGS -- SERVER_ARGS
+```
+
+* `startx` - simple frontend to `xinit` [https://www.x.org/archive/X11R6.7.0/doc/startx.1.html](https://www.x.org/archive/X11R6.7.0/doc/startx.1.html)
+* `xinit` - x window system initializer [https://www.x.org/archive/X11R6.7.0/doc/xinit.1.html](https://www.x.org/archive/X11R6.7.0/doc/xinit.1.html)
+
+So given this as reference:
+
+```bash
+sudo startx gnome-session -- :1 vt2
+```
+
+This starts a `gnome-session` client on display `:1` and TTY2 (i.e. `CTRL+ALT+F2`).
+
+At least on my Ubuntu, the default display is `:0`, so it's important that you specify a different display for this.
+
+Curiously it starts with an `xterm` window open, and when you close it, it closes.
+
+Running `sudo startx unity -- :1 vt2` doesn't actually work. `gnome-session` sessions are stored here:
+
+```bash
+ll /usr/share/gnome-session/sessions/
+
+-rw-r--r-- 1 root root  767 Oct  6 00:30 gnome-flashback-compiz.session
+-rw-r--r-- 1 root root  771 Oct  6 00:30 gnome-flashback-metacity.session
+-rw-r--r-- 1 root root  701 Oct 11 12:57 gnome-login.session
+-rw-r--r-- 1 root root 2185 Oct 13 07:33 gnome.session
+-rw-r--r-- 1 root root  692 Oct 13 07:33 ubuntu.session
+-rw-r--r-- 1 root root  101 Oct 13 07:33 unity.session
+```
+
+Supposedly this works: `sudo startx gnome-session --session=ubuntu -- :1 vt2`
+
+unity.session
+```bash
+[GNOME Session]
+Name=Unity
+RequiredComponents=unity-settings-daemon;
+DesktopName=Unity:Unity7:ubuntu
+```
+
+gnome-login.session
+```bash
+[GNOME Session]
+Name=Display Manager
+RequiredComponents=org.gnome.Shell;org.gnome.SettingsDaemon.A11yKeyboard;org.gnome.SettingsDaemon.A11ySettings;org.gnome.SettingsDaemon.Clipboard;org.gnome.SettingsDaemon.Color;org.gnome.SettingsDaemon.Datetime;org.gnome.SettingsDaemon.Housekeeping;org.gnome.SettingsDaemon.Keyboard;org.gnome.SettingsDaemon.MediaKeys;org.gnome.SettingsDaemon.Mouse;org.gnome.SettingsDaemon.Power;org.gnome.SettingsDaemon.PrintNotifications;org.gnome.SettingsDaemon.Rfkill;org.gnome.SettingsDaemon.ScreensaverProxy;org.gnome.SettingsDaemon.Sharing;org.gnome.SettingsDaemon.Smartcard;org.gnome.SettingsDaemon.Sound;org.gnome.SettingsDaemon.Wacom;org.gnome.SettingsDaemon.XSettings;
+```
+
+gnome.session (basically the same)
+```bash
+[GNOME Session]
+Name=Ubuntu
+RequiredComponents=org.gnome.Shell;org.gnome.SettingsDaemon.A11yKeyboard;org.gnome.SettingsDaemon.A11ySettings;org.gnome.SettingsDaemon.Clipboard;org.gnome.SettingsDaemon.Color;org.gnome.SettingsDaemon.Datetime;org.gnome.SettingsDaemon.Housekeeping;org.gnome.SettingsDaemon.Keyboard;org.gnome.SettingsDaemon.MediaKeys;org.gnome.SettingsDaemon.Mouse;org.gnome.SettingsDaemon.Power;org.gnome.SettingsDaemon.PrintNotifications;org.gnome.SettingsDaemon.Rfkill;org.gnome.SettingsDaemon.ScreensaverProxy;org.gnome.SettingsDaemon.Sharing;org.gnome.SettingsDaemon.Smartcard;org.gnome.SettingsDaemon.Sound;org.gnome.SettingsDaemon.Wacom;org.gnome.SettingsDaemon.XSettings;
+```
+
+I don't know how this helps us yet, but meh.
