@@ -6,14 +6,15 @@ date: '2018-03-10 01:35:26'
 
 This seems to be surprisingly difficult information to find. Be warned, this post is scatterbrained.
 
-Other than starting X:
+# startx
+Until now, the only way I knew to start a window manager from scratch was to run `startx`:
 
 ```bash
 # run X
 startx
 ```
 
-Then running them explicitly:
+Then running the manager explicitly:
 ```bash
 # run Gnome
 gnome-session
@@ -25,13 +26,15 @@ unity
 i3
 ```
 
-causing the session to change.
+which caused the session to change. Historically you would run `gnome-session --replace` or `unity --replace` to actually replace the stock X session (or any other that was running), but this seems to be a thing of the past (Unity's mentions the `--replace` command is included for compatibility).
 
-It turns out you can use the WM name as an argument to `startx`:
+Well all along it turns out you colud have specified the window manager name as an argument to `startx`:
 
 ```bash
 startx unity
 ```
+
+Doh!
 
 Reference: [https://unix.stackexchange.com/a/41095](https://unix.stackexchange.com/a/41095)
 
