@@ -10,6 +10,9 @@ It's been a while (at least 4 years) since I considered using **Geany** as my te
 
 Unfortunately for me I'm rather stuck in my ways, trusting **UltraEdit** to my editing needs for over **20 years**. It's where I've felt most comfortable and home. Double unfortunately, the Linux version of **UltraEdit** is buggy at times, and limited in what its syntax highlighting can do. Modern languages with sub-languages like JavaScript+JSX are not supported. This means any time you decide to use text like `it's my way` inside , the `'` suddenly breaks all text that follows. Not to mention JavaScript now supports 3 ways to define strings (`'`, `"`, ``` ` ```), but **UltraEdit** has a limit of 2.
 
+![](/assets/ultraedit-linux.png)
+
+Just a quick look at my current config.
 # Geany from Source
 Interestingly, **Geany** is written in **C**, not C++.
 
@@ -31,6 +34,25 @@ make
 sudo make install
 ```
 
+![](/assets/geany-gtk2.png)
+
+Missing various theming elements (due to my theme being a GTK3 theme).
+
+### GTK+3 version
+Slightly different.
+
+```bash
+sudo apt install libgtk-3-dev
+
+./configure --enable-gtk3 --disable-html-docs
+make
+
+sudo make install
+```
+
+![](/assets/geany-gtk3.png)
+
+With themed elements, but they don't seem to match the dark-theme well. Not to mention the status bar is fatter than before.
 # Themes
 Out of the box, the theme choices for Geany are... lacking. Better themes can be found here:
 
