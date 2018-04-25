@@ -14,7 +14,7 @@ To run a local instance, do the following setup:
 sudo apt install ruby gem ruby-dev
 
 # Install Jekyll
-sudo gem install jekyll
+sudo gem install jekyll bundler
 ```
 
 You're also going to want to install your theme and any plugins.
