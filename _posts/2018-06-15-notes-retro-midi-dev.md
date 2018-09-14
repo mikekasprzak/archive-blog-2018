@@ -73,6 +73,23 @@ sudo amidi -S "f07e7f0901f7" -p hw:1,0,0
 
 [Panic Reference](https://askubuntu.com/a/565566)
 
+## Low Latency Linux Kernel Mode
+[This guide](http://tedfelix.com/linux/linux-midi.html) is useful.
+
+By default, Ubuntu ships with a kernel that cannot be interrupted (pre-empted). This could potentially cause audio hiccups. If you check `uname -a` and don't see a `PREEMPT`, then you're not running a pre-emptable kernel.
+
+In addition, doing a ``grep ^CONFIG_HZ /boot/config-`uname -r` `` will tell you the current time tick rate. Ideally for audio you want `1000`, not `250` as the defaults may be set to.
+
+To switch kernerls, install the lowlatency package.
+
+```bash
+sudo apt install linux-lowlatency
+```
+
+After you reboot, you'll have a much more responsive Linux.
+
+
+
 ## MIDI files
 
 #### Reference
