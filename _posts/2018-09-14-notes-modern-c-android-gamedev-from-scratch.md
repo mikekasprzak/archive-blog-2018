@@ -21,7 +21,7 @@ Next you'll need the NDK. Yes, it's still separate. :sweat_smile:
 
 [https://developer.android.com/ndk/downloads/](https://developer.android.com/ndk/downloads/)
 
-Grabbing the latest of both is fine.
+Grabbing the latest of both is fine (IMPORTANT: Unless you're trying to use it with Unity, then you need r13b. Do check the Unity setup docs in case they _finally_ change it).
 
 I unzipped the files here:
 
@@ -143,7 +143,7 @@ The `ar` tool has less reasons to raise a red flag (it just packs several `.o` f
 
 Also `#include <iostream>` has a tendency to emit bad code (i.e. `std::ios_base::Init::Init()`). You can solve that by removing the include.
 
-If you find that `atoi`, `rand`, or a bunch of seemingly common functions are missing, or certain devices just don't start, then your game was probably built used a compiler with the GOOD headers (i.e. API 21+) instead of one with the BAD headers. Swap out your standalone toolchain for a fixed one, and try again.
+If you find that `atoi`, `rand`, or a bunch of seemingly common functions are missing, or certain devices just don't start, then your game was probably built used a compiler with the GOOD headers (i.e. API 21+) instead of one with the BAD headers. Swap out your standalone toolchain for one with the older BAD headers and try again.
 
 ## Wrapup
 That covers the highlights. I haven't yet setup my new SDL2 Android toolchain, so consider this part-1. Generally though we'll be working with the tools and things we setup here.
