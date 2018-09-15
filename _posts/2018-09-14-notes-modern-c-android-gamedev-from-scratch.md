@@ -21,7 +21,7 @@ Next you'll need the NDK. Yes, it's still separate. :sweat_smile:
 
 [https://developer.android.com/ndk/downloads/](https://developer.android.com/ndk/downloads/)
 
-Grabbing the latest of both is fine.
+Grabbing the latest of both is fine (IMPORTANT: Unless you're trying to use it with Unity, then you need r13b. Do check the Unity setup docs in case they _finally_ change it).
 
 I unzipped the files here:
 
@@ -97,26 +97,27 @@ If you want to maximize the potential number of devices you can target, change t
 
 ```
 cd ~/android/ndk/android-ndk-r17c/build/tools
-./make_standalone_toolchain.py --arch arm --api 16 --install-dir ~/android/ndk-arm
-./make_standalone_toolchain.py --arch arm64 --api 21 --install-dir ~/android/ndk-arm64
-./make_standalone_toolchain.py --arch x86 --api 16 --install-dir ~/android/ndk-x86
-./make_standalone_toolchain.py --arch x86_64 --api 21 --install-dir ~/android/ndk-x86_64
+./make_standalone_toolchain.py --arch arm --api 16 --install-dir ~/android/ndk-old-arm
+./make_standalone_toolchain.py --arch x86 --api 16 --install-dir ~/android/ndk-old-x86
 ```
 
-If you previously ran the commands, you might have to set a different `--install-dir`, or delete the old ones.
+Above we lowered the API version and set the `--install-dir` to an "old" directory. This way we have both and can swap between the two, and decide if it's worth dealing with the BAD headers.
 
 ## Using the Standalone Toolchain
-The preferred compiler for Android is Clang. As of the time of this writing (NDK R17), GCC is still available, but according to release notes it will be gone in R18+. 
+The compiler for Android is Clang. At the time of this writing (NDK R17), GCC is still available, but according to release notes it will be gone as of the next release (NDK R18). 
 
 You can find the compilers here (and their equivalents):
 
-```
+```bash
 cd ~/android/ndk-arm/bin/
+
+# Check the bin folder in each of your other toolchains.
+# For simplicity I'm only focusing on the ARM target
 ```
 
 In the above case you'll want to compile with `clang` and `clang++`, link with `arm-linux-androideabi-ld` (soon `llvm-ldd` or use `clang` as a wrapper), and make libraries with `llvm-ar`.
 
-**Very important**: Be sure to enable Position Indepence when compiling your source files. This is required, especially when creating Unity plugins (both IL2CPP and Mono). Just be sure you get the correct PI mode.
+**VERY IMPORTANT**: Be sure to enable _Position Indepence_ when compiling your source files. This is required, especially when creating Unity plugins (both IL2CPP and Mono). Just be sure you get the correct PI mode.
 
 ```bash
 CODE_FLAGS     :=   -fPIE -fPIC     # pass these to clang and clang++
@@ -143,7 +144,7 @@ The `ar` tool has less reasons to raise a red flag (it just packs several `.o` f
 
 Also `#include <iostream>` has a tendency to emit bad code (i.e. `std::ios_base::Init::Init()`). You can solve that by removing the include.
 
-If you find that `atoi`, `rand`, or a bunch of seemingly common functions are missing, or certain devices just don't start, then your game was probably built used a compiler with the GOOD headers (i.e. API 21+) instead of one with the BAD headers. Swap out your standalone toolchain for a fixed one, and try again.
+If you find that `atoi`, `rand`, or a bunch of seemingly common functions are missing, or certain devices just don't start, then your game was probably built used a compiler with the GOOD headers (i.e. API 21+) instead of one with the BAD headers. Swap out your standalone toolchain for one with the older BAD headers and try again.
 
 ## Wrapup
 That covers the highlights. I haven't yet setup my new SDL2 Android toolchain, so consider this part-1. Generally though we'll be working with the tools and things we setup here.
