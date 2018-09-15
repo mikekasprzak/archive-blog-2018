@@ -97,26 +97,27 @@ If you want to maximize the potential number of devices you can target, change t
 
 ```
 cd ~/android/ndk/android-ndk-r17c/build/tools
-./make_standalone_toolchain.py --arch arm --api 16 --install-dir ~/android/ndk-arm
-./make_standalone_toolchain.py --arch arm64 --api 21 --install-dir ~/android/ndk-arm64
-./make_standalone_toolchain.py --arch x86 --api 16 --install-dir ~/android/ndk-x86
-./make_standalone_toolchain.py --arch x86_64 --api 21 --install-dir ~/android/ndk-x86_64
+./make_standalone_toolchain.py --arch arm --api 16 --install-dir ~/android/ndk-old-arm
+./make_standalone_toolchain.py --arch x86 --api 16 --install-dir ~/android/ndk-old-x86
 ```
 
-If you previously ran the commands, you might have to set a different `--install-dir`, or delete the old ones.
+Above we lowered the API version and set the `--install-dir` to an "old" directory. This way we have both and can swap between the two, and decide if it's worth dealing with the BAD headers.
 
 ## Using the Standalone Toolchain
-The preferred compiler for Android is Clang. As of the time of this writing (NDK R17), GCC is still available, but according to release notes it will be gone in R18+. 
+The compiler for Android is Clang. At the time of this writing (NDK R17), GCC is still available, but according to release notes it will be gone as of the next release (NDK R18). 
 
 You can find the compilers here (and their equivalents):
 
-```
+```bash
 cd ~/android/ndk-arm/bin/
+
+# Check the bin folder in each of your other toolchains.
+# For simplicity I'm only focusing on the ARM target
 ```
 
 In the above case you'll want to compile with `clang` and `clang++`, link with `arm-linux-androideabi-ld` (soon `llvm-ldd` or use `clang` as a wrapper), and make libraries with `llvm-ar`.
 
-**Very important**: Be sure to enable Position Indepence when compiling your source files. This is required, especially when creating Unity plugins (both IL2CPP and Mono). Just be sure you get the correct PI mode.
+**VERY IMPORTANT**: Be sure to enable _Position Indepence_ when compiling your source files. This is required, especially when creating Unity plugins (both IL2CPP and Mono). Just be sure you get the correct PI mode.
 
 ```bash
 CODE_FLAGS     :=   -fPIE -fPIC     # pass these to clang and clang++
