@@ -25,13 +25,19 @@ Notably `PKG_CONFIG_LIBDIR` needed to be set before it actually worked for me (o
 I mistakenly thought you'd have to install pkg-config in to each toolchain, but I was wrong. You just need a smart script.
 
 ```bash
-ROOT=~/android/ndk-arm
-SYSROOT=${ROOT}/sysroot
-INSTALL_PREFIX=${SYSROOT}/usr/local/
-
 TARGET=arm-linux-androideabi
-HOST=armv7a-none-linux-android
+#TARGET=aarch64-linux-android
+#TARGET=i686-linux-android
+#TARGET=x86_64-linux-android
+
+ROOT=~/android/ndk-arm
+#ROOT=~/android/ndk-arm64
+#ROOT=~/android/ndk-x86
+#ROOT=~/android/ndk-x86_64
+
+SYSROOT=${ROOT}/sysroot
 TOOL_PREFIX=${ROOT}/bin/
+INSTALL_PREFIX=${SYSROOT}/usr/local/
 
 export CC="${TOOL_PREFIX}clang"
 export AR="${TOOL_PREFIX}llvm-ar"
@@ -41,7 +47,7 @@ export PKG_CONFIG_DIR=
 export PKG_CONFIG_LIBDIR=${SYSROOT}/usr/lib/pkgconfig:${SYSROOT}/usr/share/pkgconfig
 export PKG_CONFIG_SYSROOT_DIR=${SYSROOT}
 
-../SDL/configure --host=$HOST --prefix=$INSTALL_PREFIX --with-sysroot=$SYSROOT --disable-shared
+../SDL/configure --host=$TARGET --prefix=$INSTALL_PREFIX --with-sysroot=$SYSROOT --disable-shared
 ```
 
-Work in progress.
+Work in progress script.
