@@ -10,7 +10,7 @@ Configure scripts are shell scripts written in M4, a macro dialect that can be u
 
 As a quick primer, an M4 file is treated as a text file until certain commants are hit.
 
-```m4
+```bash
 # INPUT
 dnl Lets begin!
 one
@@ -40,7 +40,7 @@ There's a lot more to M4 than what I've described here. This article is a good p
 
 Sample:
 
-```ac
+```bash
 AC_INIT([helloworm], [0.1], [bob@bob.bob])
 AM_INIT_AUTOMAKE
 AC_PROG_CC
@@ -58,7 +58,7 @@ Reference: (https://robots.thoughtbot.com/the-magic-behind-configure-make-make-i
 
 There can be several `Makefile.am` files if desired, and they can operate on their individual directories.
 
-```mk
+```bash
 # src/Makefile.am
 bin_PROGRAMS = hello
 hello_SOURCES = main.c
@@ -76,7 +76,7 @@ The final piece of the puzzle is the `aclocal` tool. Without it, autoconf can't 
 ## Bringing it all together
 Per the reference above, here's what your usage as a project maintainer should look like.
 
-```sh
+```bash
 aclocal # Set up an m4 environment
 autoconf # Generate configure from configure.ac
 automake --add-missing # Generate Makefile.in from Makefile.am
@@ -86,7 +86,7 @@ make distcheck # Use Makefile to build and test a tarball to distribute
 
 And with that done, your users will be able to do this:
 
-```sh
+```bash
 ./configure # Generate Makefile from Makefile.in
 make # Use Makefile to build the program
 make install # Use Makefile to install the program
