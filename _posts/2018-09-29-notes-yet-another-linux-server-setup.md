@@ -119,3 +119,13 @@ If you're not on Linode, you're going to need SSH to maintain the server.
 TODO this
 
 Reference: [https://www.linode.com/docs/security/securing-your-server/](https://www.linode.com/docs/security/securing-your-server/)
+
+## Epilogue
+### Ubuntu Snap's
+When doing a `df`, you get a lot of `/dev/loop` devices. This can be annoying. A fix is to do the following:
+
+```bash
+alias df='df -x squashfs'
+```
+
+If you add this to your `.bashrc`, you can permanently make it go away (unless you explicitly invoke `/bin/df`).
