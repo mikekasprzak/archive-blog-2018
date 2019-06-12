@@ -31,8 +31,8 @@ In general, Select is the most widely supported (even on Windows), but most limi
 // Inputs: fd, timeout
 
 struct timeval tv;
-tv.tv_sec = timeout / 1000000;
-tv.tv_usec = timeout % 1000000;
+tv.tv_sec = timeout / 1000;
+tv.tv_usec = timeout % 1000;
 
 fd_set readSet;
 FD_ZERO(&readSet);
@@ -81,8 +81,37 @@ struct pollfd {
     short revents;    /* returned events */
 };
 ```
+Interestingly, this is actually the easiest to use, since there's nothing weird about the syntax.
 
+```c
+    // Inputs: fd, timeout
 
+    struct pollfd ps;
+    ps.fd = fd;
+    ps.events = POLLIN;
+    ps.revents = 0;
+
+    int count = poll(&ps, 1, timeout);
+
+    if (ps.revents & POLLIN) {
+    	// Read
+    }
+
+    if (count == 0) {
+	    // Empty
+	}
+	else if (count < 0) {
+	    if (errno == EINTR) {
+	        // Interrupted
+	    }
+	    else {
+	        // Error
+	    }
+	  }
+```
+`poll` takes an array of `pollfd` structures, but in our case 1 is enough. `ps.revents` is the return value from the poll call. Clearing it might not be necessary, but it doesn't hurt.
+
+The one downside might be the precision of the timeout is only `ms`, but chances are you probably want that (or zero).
 
 
 #### Reference
@@ -115,6 +144,58 @@ struct epoll_event {
 };
 ```
 
+Both `epoll` and `kqueue` require a new FD that you to register before you use it.
+
+```c
+    // Inputs: fd, timeout
+
+	// ** Somewhere init **
+    int epFD = epoll_create1(0);
+    if (epFD == -1) {
+        return nullptr;
+    }
+    
+    struct epoll_event epEvent;
+    memset(&epEvent, 0, sizeof(struct epoll_event));
+    epEvent.data.fd = fd;
+    epEvent.events = EPOLLIN;
+    if (epoll_ctl(epFD, EPOLL_CTL_ADD, fd, &epEvent) == -1) {
+        return nullptr;
+    }
+    
+    
+    // ** Somewhere looping **
+    struct epoll_event epEventOut;
+    int count = epoll_wait(epFD, &epEventOut, 1, timeout);
+
+    if (epEventOut.events & EPOLLIN) {
+    	// Read
+    }
+
+    if (count == 0) {
+	    // Empty
+	}
+	else if (count < 0) {
+	    if (errno == EINTR) {
+	        // Interrupted
+	    }
+	    else {
+	        // Error
+	    }
+	}
+       
+    
+    // ** Somewhere shutdown **
+    close(epFD);
+```
+
+Once registered, you provide an FD (to the epoll specific FD) and one or more `epoll_event` structures for the results. If you bind only a single fd to the epoll FD, that means only 1 event max will occur.
+
+Timeout works the same as poll.
+
+If you wanted to poll READ+WRITE, you'd OR the bitfields together. A `EPOLL_CTL_ADD` operation only lets you use the same fd once per epoll FD. So if you wanted to be clever and allow options (Read, Write, or Both), you'd need 3 seperate epoll FD's, one for each configuration.
+
+
 #### Reference
 
 * [http://man7.org/linux/man-pages/man7/epoll.7.html](http://man7.org/linux/man-pages/man7/epoll.7.html)
@@ -141,6 +222,8 @@ struct kevent {
     uint64_t  ext[4];	     /*	extensions */
 };
 ```
+
+To contrast `epoll`, you only need a single kqueue FD.
 
 #### Reference
 
