@@ -223,8 +223,58 @@ struct kevent {
 };
 ```
 
-To contrast `epoll`, you only need a single kqueue FD.
+Use this similar to `epoll`
+
+```c
+    // Inputs: fd, timeout
+
+	// ** Somewhere init **
+    int kqFD = kqueue();
+    if (kqFD == -1) {
+        return nullptr;
+    }
+
+    struct kevent kqEvent;
+    memset(&kqEvent, 0, sizeof(struct kevent));
+    EV_SET(&kqEvent, fd, EVFILT_READ, EV_ADD | EV_ENABLE, 0, 0, 0);
+
+
+    // ** Somewhere looping **
+    struct timespec ts;
+    ts.tv_sec = timeout / 1000;
+    ts.tv_nsec = (timeout % 1000) * 1000000;
+
+    struct kevent kqEventOut;
+    int count = kevent(ne->kqFD, &kqEvent, 1, &kqEventOut, 1, &ts);
+
+    if (kqOutEvent.filter & EVFILT_READ) {
+    	// Read
+    }
+
+    if (count == 0) {
+	    // Empty
+	}
+	else if (count < 0) {
+	    if (errno == EINTR) {
+	        // Interrupted
+	    }
+	    else {
+	        // Error
+	    }
+	}
+	
+	
+    // ** Somewhere shutdown **
+    close(kqFD);
+ ```
+
+To contrast `epoll`, you only need a single kqueue FD. Then index the start and number you want to do.
+
+Like `select`, if the `timespec` argument is a null pointer, it polls forever. `timespec` has a much higher available precision too.
+
 
 #### Reference
 
 * [https://www.freebsd.org/cgi/man.cgi?kqueue](https://www.freebsd.org/cgi/man.cgi?kqueue)
+* [https://wiki.netbsd.org/tutorials/kqueue_tutorial/](https://wiki.netbsd.org/tutorials/kqueue_tutorial/)
+* [https://developer.apple.com/library/.../KernelQueues.html](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/FSEvents_ProgGuide/KernelQueues/KernelQueues.html)
