@@ -5,7 +5,7 @@ layout: post
 
 I've started reading the ancient little book on writing. I eventually attacked the book with a highlighter, but I know I will forget some of my thought, so I've decided to take notes.
 
-I shouldn't have to say it, but you're trying to gleen what's in the book by reading this, don't bother. Go buy the book. It's literally $10 brand new.
+I shouldn't have to say it, but if you're trying to gleen what's in the book by reading this, don't bother. Go buy the book. It's $10 brand new.
 
 ### 1. Form the posessive singular of nouns by adding 's
 
