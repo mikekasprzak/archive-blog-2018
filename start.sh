@@ -1,3 +1,3 @@
 #!/bin/sh
 
-bundle exec jekyll server #--incremental
+bundle exec jekyll server --no-watch #--incremental
